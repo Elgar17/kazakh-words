@@ -1,0 +1,2383 @@
+cәлеметсіз бе hello 你好
+
+Хукер hook 钩
+
+Автоматты automatic 自动
+
+Азия Asian 亚裔
+
+Алға forward,forth 前进，前进
+
+Алғыс айту Thanksgiving 感恩
+
+Американдық American 美国人
+
+Анашым mother,mom 妈妈，妈妈
+
+Араб Arab 阿拉伯人
+
+Арал island 岛
+
+Арыстан lion 狮子
+
+капитал capital 资本
+
+Африка African 非洲的
+
+Афроамерикалық African-American 非裔美国人
+
+Ағасы brother 哥哥
+
+Ағылшын English 英语
+
+Ақтау justify,excuse 辩解，辩解
+
+Батыс western,west 西方，西方
+
+Болат steel 钢
+
+Бостандық liberty,freedom 自由，自由
+
+Британдық British 英国的
+
+Біріктірілген United 联合
+
+Бүкіләлемдік worldwide 全球
+
+Бөтен alien 外人
+
+Гауһар diamond 钻石
+
+Голланд Dutch 荷兰语
+
+Грек Greek 希腊语
+
+ДК PC 个人电脑
+
+ДНҚ DNA DNA
+
+Даңқ fame,glory 名声，荣耀
+
+Демократ Democrat 民主党人
+
+Денсаулық health 健康
+
+Денсаулық сақтау health-care 保健
+
+Достық friendship,friendly 友谊，友好
+
+Еврей Jewish,Jew 犹太人，犹太人
+
+Елші ambassador 大使
+
+Еуропалық European 欧洲人
+
+Жапон Japanese 日语
+
+Жарайды OK 还行,好吧
+
+Жарма fraction 分数,薄片
+
+Жарық light 光
+
+Жеңіс triumph,victory 胜利，胜利
+
+Жомарт generous 慷慨
+
+Жоғары Supreme 最高的
+
+Жоқ no,not,n't 不，不，不
+
+Жібек silk 丝绸
+
+Израиль Israeli 以色列人
+
+Инвестициялар investment 投资
+
+Интернет Internet 互联网
+
+Инфрақұрылым infrastructure 基础设施
+
+Ирак Iraqi 伊拉克人
+
+Ирланд Irish 爱尔兰语
+
+Ислам Islam,Islamic 伊斯兰教，伊斯兰教
+
+Испан Spanish 西班牙语
+
+Итальян Italian 意大利语
+
+Иә yeah,yes 是的
+
+Канадалық Canadian 加拿大的
+
+Католик Catholic 天主教
+
+Кеңес Soviet 苏维埃
+
+Киелі кітап Bible 圣经
+
+Конгресс Congress 国会
+
+Конституциялық constitutional 宪法
+
+Корей Korean 朝鲜语
+
+Кубалық Cuban 古巴
+
+Көңілді funny,fun 有趣，有趣
+
+Латын Latin 拉丁语
+
+Латын Америкасы Hispanic 西班牙的
+
+Мексикалық Mexican 墨西哥人
+
+Мырза Mr 先生
+
+Мұсылман Muslim 穆斯林
+
+Мұхит ocean 海洋
+
+Мұқият thoroughly,carefully 彻底，仔细
+
+Наурыз march 三月
+
+Неліктен? why 为什么
+
+Неміс German 德语
+
+Нұсқаулық manual,instruction 手册，说明
+
+Олимпиада Olympic 奥林匹克
+
+Олимпиада ойындары Olympics 奥运会
+
+Орындаушы performer 演员
+
+Орыс Russian 俄语
+
+Отан homeland 家园,祖国
+
+Оңтүстік southern,south 南
+
+Оңтүстік-Шығыс southeast 东南
+
+Палестиналық Palestinian 巴勒斯坦人
+
+Парақ leaf,sheet 叶子，片材
+
+Парсы Persian 波斯语
+
+Рим Roman 罗马
+
+Рождество Christmas 圣诞节
+
+Сағыз rubber 橡胶
+
+Сен you 你
+
+Сенат Senate 参议院
+
+Серік companion 同伴
+
+Солтүстік north,northern 北，北
+
+Сұлулық beauty 美
+
+Сәлем hi 你好
+
+Тарихи historic,historical 历史，历史
+
+Теледидар TV 电视
+
+Тоңазытқыш refrigerator 冰箱
+
+Тыныштықпен демалыңыз rip 把
+
+Түркия turkey 土耳其
+
+Тәуелсіздік independence 独立
+
+Төраға chairman 主席
+
+УФ uh 呃
+
+Флот naval 海军的
+
+Француз French 法语
+
+Франчайзинг franchise 特权
+
+Футболка T-shirt 体恤衫
+
+Ханым Ms,Mrs 女士，太太
+
+Христиан Christian 基督教
+
+Христиандық Christianity 基督教
+
+Шабыт inspiration 灵感
+
+Шелек bucket 桶
+
+Шу noise 噪声
+
+Шығанақ bay 湾
+
+Шығыс eastern,east 东，东
+
+аборт abortion 流产
+
+абсолютті absolute 绝对
+
+авто auto 自动
+
+автобус bus 巴士
+
+автоматты түрде automatically 自动的
+
+автономия autonomy 自治
+
+автор author 作者
+
+авторизациялау authorize 授权
+
+агент agent 代理
+
+агенттік agency 机构
+
+агрессивті aggressive,offensive 侵略性，进攻性
+
+агрессия aggression 侵略
+
+адал honestly,honest 诚实，诚实
+
+адалдық loyalty 忠诚
+
+адам person,human,man 人，人，人
+
+адамдар people 人
+
+адамзат humanity 人类
+
+адвокат advocate,attorney,counsel 辩护人，律师，法律顾问
+
+аз fewer,less 更少，更少
+
+азайту decrease,reduce,minimize,diminish 减少，减少，最小化，减少
+
+азамат citizen 公民
+
+азаматтық civic,civilian,civil,citizenship 公民，民事，公民，公民
+
+азап шегу suffer 遭受
+
+азап шегуші suffering 痛苦
+
+аздап bit 位
+
+азшылық minority 少数民族
+
+азық-түлік grocery 杂货店
+
+ай month,moon 月，月
+
+ай сайын monthly 每月
+
+аймақ zone,region 区域，区域
+
+аймақтық regional 地域
+
+айна mirror 镜子
+
+айналасында around 周围
+
+айналдыру spin 纺
+
+айнымалы variable 变量
+
+айрықша distinctive 独特
+
+айтарлықтай considerably,greatly,largely 相当，很大，很大程度上
+
+айту say,tell 说，告诉
+
+айыппұл penalty 罚款
+
+айыптау convict,condemn,accusation,accuse 定罪，谴责，指控，指控
+
+айырмашылығы unlike 与
+
+айырмашылық difference,distinction 区别，区别
+
+айқайлау yell 喊
+
+айқын apparent,explicit,evident,obvious,distinct 明显，明确，明显，明显，明显，明显
+
+академиялық academic 学术
+
+актер actor 演员
+
+актив asset 资产
+
+актриса actress 女演员
+
+акула shark 鲨鱼
+
+акционер shareholder 股东
+
+ал whereas 而
+
+алайда however 然而
+
+алаяқтық fraud 欺诈
+
+алақан palm 手掌
+
+алаңдату distract 分心
+
+алда ahead 提前
+
+алдау cheat 欺骗
+
+алдын ала preliminary,prior 初步，先前
+
+алдын алу prevention,prevent 预防，预防
+
+алдыңғы previous 以前
+
+алкоголь alcohol 酒精
+
+аллея alley 胡同
+
+алма apple 苹果
+
+алмасу exchange 交换
+
+алты six 六
+
+алтын gold,golden 金色，金色
+
+алтыншы sixth 第六
+
+алу get,gain,receive,obtain,take 获取，获得，接收，获取，获取
+
+алушы recipient 收件人
+
+алып giant 巨大
+
+алып жүру carry 抬
+
+алып тастау exclude 排除
+
+алыпсатарлық speculation,speculate 投机，投机
+
+алыс far,off,away,distant 远，远，远，远，远
+
+альбом album 影集
+
+алюминий aluminum 铝
+
+алғышарт premise 前提
+
+алқаби juror 陪审员
+
+аман қалу survive 生存
+
+амбиция ambition 野心
+
+анонимді anonymous 匿名
+
+ант swear 发誓
+
+анық clearly 清楚
+
+анықталған certain,particular 某些，特定
+
+анықтама determination,definition 确定，定义
+
+анықтау define,determine,detect,identify,finding,discover 定义，确定，检测，识别，查找，发现
+
+апай aunt 阿姨
+
+апат disaster,crash 灾难，崩溃
+
+апта week 周
+
+апта сайын weekly 周刊
+
+ар-ұждан conscience 良心
+
+ара bee 蜜蜂
+
+аралас mixed,combined 混合，混合
+
+араласу intervention,interfere 干预，干扰
+
+аралық interval 间隔
+
+арамшөп weed 杂草
+
+арандату provoke 惹
+
+арасында midst,amid,among,between 中间，中间，中间，之间
+
+арақатынасы ratio 率
+
+ардагер veteran 老兵
+
+арена arena 竞技场
+
+арзан cheap 便宜
+
+арман dream 梦
+
+армия army 军队
+
+арна channel 渠道
+
+арнау devote,dedicate 奉献，奉献
+
+артефакт artifact 人工制品
+
+артта behind 后
+
+артықшылығы advantage 优势
+
+артықшылық preference,privilege,prefer 偏好，特权，首选
+
+артқа back,ago 返回，前
+
+артқы rear 后
+
+артқы аула backyard 后院
+
+арқан rope 绳
+
+арқылы throughout,across,through,via 贯穿，贯穿，贯穿，通过
+
+ас қасық tablespoon 汤匙
+
+ас үй kitchen 厨房
+
+аспаз chef 厨师
+
+аспан sky,heaven 天空，天堂
+
+аспект aspect 方面
+
+астроном astronomer 天文学家
+
+астын сызу emphasize 强调
+
+астында under,beneath 下，下
+
+астық grain 粮食
+
+асшаяндар shrimp 虾
+
+асыл тұқымды tribal 部落
+
+асып кету exceed 超过
+
+асығыс rush 冲
+
+асығыңыз hurry 快 点
+
+асқазан stomach 胃
+
+ата grandfather 爷爷
+
+ата немесе әже grandparent 祖父母
+
+ата-ана parental,parent 家长，家长
+
+ата-баба ancestor 祖先
+
+атап айтқанда particularly 特别
+
+атауы title 标题
+
+атақты celebrity 名人
+
+атлетикалық athletic 运动
+
+атмосфера atmosphere 大气层
+
+атрибут attribute 属性
+
+ату shot,shoot,shooting 射击，射击，射击
+
+аты name 名字
+
+атынан behalf 代表
+
+атқарушы executive 执行的
+
+атқарушы директор CEO 首席执行官
+
+ауа air 空气
+
+ауа райы weather 天气
+
+аудан district 区
+
+ауданы square 广场
+
+аударма translate,translation 翻译，翻译
+
+аудитория audience 观众
+
+аукцион auction 拍卖
+
+аула yard 院子 里
+
+аумағы territory 领土
+
+ауру illness,disease 疾病，疾病
+
+аурухана hospital 医院
+
+аутсайдер outsider 局外人
+
+ауыз mouth 口
+
+ауыз су drinking 喝
+
+ауызша oral,verbal 口头，口头
+
+ауыл village,settlement 村庄，定居点
+
+ауыл шаруашылығы agricultural,agriculture 农业，农业
+
+ауылдық rural 农村
+
+ауыр painful,heavy 疼痛，沉重
+
+ауырсыну pain 疼痛
+
+ауыртпалық burden 负担
+
+ауыстыру replacement,replace 更换，更换
+
+ауысу transition 过渡
+
+ауысым shift 转变
+
+ауқымы range 范围
+
+ах ah 啊
+
+аш hungry 饿
+
+аштық hunger 饥饿
+
+ашу open,anger,unfold,reveal,discovery,opening,revelation,uncover,disclose,rage 开放，愤怒，展开，揭示，发现，打开，启示，发现，披露，披露，愤怒
+
+ашуланған angry 生气
+
+ашық openly 公然
+
+ашық ауада outdoor 户外的
+
+ащы bitter 苦
+
+аю bear 熊
+
+аялдама stop 停
+
+аяқ foot,leg 脚，腿
+
+аяқ киім shoe 鞋
+
+аяқ-қол limb 肢体
+
+аяқтау finish,trim 饰面，装饰
+
+аға senior,elder 老年人，老年人
+
+ағай uncle 叔叔
+
+ағаш timber,tree,wooden,wood 木材，树木，木制，木材
+
+ағымдағы current,ongoing 电流，当前，进行中
+
+ағымы stream 流
+
+ағын flow 流
+
+ақ white 白
+
+ақпарат information 信息
+
+ақуыз protein 蛋白
+
+ақша money 钱
+
+ақыл mind 介意
+
+ақыл-ой mentally,mental 精神上，精神上
+
+ақылды smart,intelligent 智能，智能
+
+ақылға қонымды reasonable 合理
+
+ақымақ fool,silly,stupid 傻瓜，傻瓜，傻瓜
+
+ақын poet 诗人
+
+ақыр соңында ultimately 最终
+
+аққұба blond 金发
+
+аң beast 野兽
+
+аңшы hunter 猎人
+
+аңшылық hunt,hunting 狩猎，狩猎
+
+аңыз legend 传说
+
+аңғар valley 山谷
+
+баж toll 收费
+
+база base 基础
+
+базар алаңы marketplace 市场
+
+бай wealthy,rich 富有，富有
+
+байланыс connection,communicate,bond,communication,compound,contact 连接，沟通，纽带，沟通，复合，联系
+
+байланысты related,depend,associated 相关，依赖，关联
+
+байланыстыру bind,associate 绑定，关联
+
+байлық wealth 财富
+
+байыпты serious,seriously 认真，认真
+
+байырғы indigenous 土著
+
+бакс buck 麚
+
+бактерия bacteria 细菌
+
+бал honey 蜂蜜
+
+бала infant,baby,boy,kid,child 婴儿，婴儿，男孩，儿童，儿童
+
+балалық шақ childhood 童年
+
+балама alternative 另类
+
+баламасы equivalent 等效
+
+баланс balance 平衡
+
+балшық clay 黏土
+
+балық fish 鱼
+
+балық аулау fishing 钓鱼
+
+балықшы fisherman 渔夫
+
+балғын fresh 新鲜
+
+балқыту melt 融化
+
+банан banana 香蕉
+
+банда gang 岗
+
+банк bank 岸
+
+банк дело banking 银行业
+
+банкир banker 银行家
+
+бар have,exist,existing,bar,eat 有，存在，存在，酒吧，吃
+
+барабан drum 鼓
+
+барабар adequate 足够
+
+баратын жері destination 目的地
+
+барлығы everybody,all,everything 每个人，所有人，一切
+
+барлық entire,whole,total 全部，整体，总计
+
+барлық жерде anywhere,everywhere 随时随地
+
+бару go,walk 走，走
+
+бас head 头
+
+бас ауруы headache 头痛
+
+бас бармақ thumb 拇指
+
+бас изеу nod 点头
+
+бас киім hat,cap 帽子，帽子
+
+бас сүйегі skull 头盖骨
+
+бас тарту refuse,cancel,deny,denial,reject,dismiss 拒绝，取消，拒绝，拒绝，拒绝，解雇
+
+баскетбол basketball 篮球
+
+баспагер publisher 发行人
+
+баспалдақ ladder 梯子
+
+баспалдақпен жоғары upstairs 楼上
+
+баспана refuge,shelter 避难所，避难所
+
+бассейн pool 池
+
+басталуы start,starting,beginning 开始，开始，开始
+
+бастама initiative 主动
+
+бастап from,of 从，的
+
+бастапқы initial,primary,elementary 初始，主要，初级
+
+бастапқыда initially,originally 最初，最初
+
+бастау initiate,begin 启动，开始
+
+бастаушы starter 起动机
+
+бастық boss 老板
+
+басшы supervisor 主管
+
+басшылық guidance,guide,leadership 指导、引导、领导
+
+басылым edition 版
+
+басым dominant,prevail,overwhelming 主导，占上风，压倒性
+
+басымдық priority 优先权
+
+басып кіру invade 入侵
+
+басып шығару print,seal 印刷，印章
+
+басыңыз press,snap 按，捕捉
+
+басқа another,other,except 其他，其他，除了
+
+басқа жерде elsewhere 别处
+
+басқалары others 别人
+
+басқару administer,steer,manage,management 管理，指导，管理，管理
+
+басқарушы ruling,managing 裁决，管理
+
+басқатырғыш puzzle 难题
+
+басқаша otherwise,differently 否则，不同
+
+бата blessing,bless 祝福，祝福
+
+батарея battery 电池
+
+батыл brave 勇敢
+
+батылдықcourage,dare勇于担当，敢于担当
+
+батыр hero 英雄
+
+батыру dip,plunge 浸泡，暴跌
+
+бауыр liver 肝
+
+баяндама report 报告
+
+баяндау narrative 叙事
+
+баяу slowly,slow 慢，慢
+
+бағалау appreciate,evaluation,assess,assessment,estimate,evaluate 欣赏，评估，评估，评估，估计，评估
+
+бағалау бойынша estimated 估计
+
+баған column 列
+
+бағасы price 价格
+
+бағдар landmark 地标
+
+бағдарлама program 程序
+
+бағдарламалау programming 编程
+
+бағдарламалық қамтамасыз ету software 软件
+
+бағдарлау orientation 取向
+
+бағыт route,direction 路线，方向
+
+бағыт бойынша towards,toward 朝向，朝向
+
+бақша garden 花园
+
+бақылау control,observation,surveillance,observe 控制，观察，监视，观察
+
+бақылауды жүзеге асыру oversee 监督
+
+бақылаушы observer 观察者
+
+бақыт happiness 幸福
+
+бақытсыз unhappy 不幸
+
+бақытты happy,pleased,happily,lucky 快乐，高兴，快乐，幸运
+
+бақытымызға орай fortunately 幸运
+
+беделі reputation 声誉
+
+безендіру decorate 装饰
+
+бейбіт peaceful 和平
+
+бейне video 视频
+
+бейнелеу depict,portray 描绘，描绘
+
+бейресми informal 便
+
+бейсбол baseball 棒球
+
+бейтаныс stranger 陌生人
+
+бейтарап neutral 中性
+
+бейімделу adapt 适应
+
+бейімдеу accommodate 容纳
+
+бекіту attach,allegation,approval,assert 附上，指控，批准，断言
+
+бел waist 腰
+
+белбеу belt 带
+
+белгі mark,tag,cue,sign 标记，标签，提示，签名
+
+белгілі famous,known 著名，知名
+
+белгісіз unknown,uncertain 未知，不确定
+
+белгісіздік uncertainty 不确定性
+
+белгіше icon 图标
+
+белсенді actively,active,activist 积极，积极，积极
+
+бензин gasoline 汽油
+
+беру pitch,convey,yield,transmit,give,concede 投球，传达，让步，传递，给予，让步
+
+беріліс tackle 用具
+
+беріліс қорабы transmission 传输
+
+бес five 五
+
+бесінші fifth 第五
+
+бет page 页
+
+бетон concrete 混凝土
+
+бетперде mask 面具
+
+беті surface 表面
+
+би dancing,dance 跳舞，跳舞
+
+бидай wheat 小麦
+
+бизнес business 商
+
+билет ticket 票
+
+билік authority 柄
+
+биология biology 生物学
+
+биологиялық biological 生物
+
+биші dancer 舞蹈家
+
+биіктігі height 高度
+
+блок block 块
+
+боб bean 豆
+
+бозғылт pale 苍白
+
+бойымен along 沿
+
+бойынша onto,on,upon,per onto，on，upon，per
+
+болады occur,happen,will 发生，发生，将
+
+болар еді would 愿意
+
+болашақ future 前途
+
+болдырмау avoid 避免
+
+болжалды supposed,alleged 假设，据称
+
+болжам assumption 假设
+
+болжам бойынша presumably,supposedly,allegedly 大概，据说，据称
+
+болжау guess,anticipate,assume,predict,prediction,suppose 猜测，预测，假设，预测，预测，假设
+
+болмауы absence,lack 缺席，缺乏
+
+болт bolt 螺栓
+
+болу being,be,become,existence 存在，成为，成为，存在
+
+бомба bomb 炸弹
+
+бомбалау bombing 轰炸
+
+бонус bonus 奖金
+
+бос empty,blank 空，空白
+
+бос емес occupy,busy 占用，繁忙
+
+бос орын gap 差距
+
+босату relieve,release 缓解，释放
+
+босаңсу chill 寒意
+
+босқын refugee 难民
+
+бояу paint 漆
+
+боқ shit 狗屎
+
+брондау reservation 保留
+
+бу steam 蒸汽
+
+бум boom 繁荣
+
+бюджет budget 预算
+
+бюро bureau 局
+
+біз we 我们
+
+бізге us 我们
+
+біздің our,ours 我们的，我们的
+
+білдіреді imply,mean 暗示，意思
+
+білек wrist 腕
+
+білу know 知道
+
+біліктілік qualify 资格
+
+білім formation,education,knowledge 形成，教育，知识
+
+білім беру educational 教育
+
+бір one,alone 一，孤身一人
+
+бір жерде somewhere 地方
+
+бір кездері someday 有一天
+
+бір нәрсе something 东西
+
+бір рет once 一次
+
+бір уақытта simultaneously 同时
+
+бір уыс handful 把
+
+бірақ but 但
+
+бірге together 一起
+
+бірдей identical 相同
+
+бірдеңе anything 什么
+
+бірегей unique 独特
+
+біреу anybody,somebody,someone 任何人，某人，某人
+
+біржақтылық bias 偏见
+
+бірлескен joint 关节
+
+бірлік unity 统一
+
+бірнеше several,few 几个，几个
+
+біртіндеп gradually 逐渐
+
+біртүрлі weird,odd,strange 奇怪，奇怪，奇怪
+
+біріктіру combine,unite,incorporate,integrate 合并、联合、合并、整合
+
+біріктірілген integrated 综合
+
+бірінші first 第一
+
+бірінші курс студенті freshman 新生
+
+бітіру graduation 毕业
+
+бүгін today 今天
+
+бүгін кешке tonight 今晚
+
+бүлік riot 骚乱
+
+бүлікші rebel 反叛
+
+бұзу violate 违反
+
+бұзушылық violation 违反
+
+бұзылу disorder 障碍
+
+бұйрық order 次序
+
+бұл this 这
+
+бұл ма whether 是否
+
+бұл туралы concerning 关于
+
+бұлт cloud 云
+
+бұлшықет muscle 肌肉
+
+бұралу twist 扭曲
+
+бұранда screw 螺 杆
+
+бұрын formerly,previously 以前，以前
+
+бұрын-соңды болмаған unprecedented 史无前例
+
+бұрынғы former 前
+
+бұрыш angle,corner,pepper 角，角，胡椒
+
+бұрғылау drill 钻
+
+бұта bush 灌木
+
+бұғы deer 鹿
+
+бұқа bull 牛
+
+бұқаралық ақпарат құралдары media 媒体
+
+бәсекеге қабілетті competitive 竞争
+
+бәсекелес competitor,compete 竞争对手，竞争
+
+бөгет dam 坝
+
+бөлек apart 分开
+
+бөлектеу highlight 高亮
+
+бөлме room 房间
+
+бөлу divide,split,separation,separate,division 分割，分裂，分离，分离，分割
+
+бөлшек particle 粒子
+
+бөлшек сатушы retailer 零售商
+
+бөлшек сауда retail 零售
+
+бөлігі part .part
+
+бөлім department,section 部门，科
+
+бөлісу share 共享
+
+бөтелке bottle 瓶
+
+бөшке barrel 桶
+
+в into,in 进，进
+
+вагон wagon 车皮
+
+вакуум vacuum 真空
+
+вакцина vaccine 疫苗
+
+валюта currency 货币
+
+ванна bath 浴
+
+велосипед bike,bicycle 自行车，自行车
+
+виртуалды virtual 虚拟
+
+вирус virus 病毒
+
+витамин vitamin 维生素
+
+вокалды vocal 声乐
+
+газ gas 气
+
+газет newspaper 报纸
+
+галактика galaxy 星系
+
+галерея gallery 画廊
+
+галстук tie 绑
+
+гараж garage 车库
+
+ген gene 基因
+
+генетикалық genetic 遗传
+
+гипотеза hypothesis 假设
+
+гитара guitar 吉他
+
+гольф golf 高尔夫球
+
+гомосексуал gay 男同
+
+гормон hormone 激素
+
+гравитация gravity 重力
+
+грант grant 授予
+
+губернатор governor 总督
+
+гүл flower 花
+
+дайын willing,ready 愿意，准备好
+
+дайындау prepare 准备
+
+дайындық preparation,willingness 准备，愿意
+
+даму development,evolve 发展，进化
+
+дамушы developing 发展
+
+дамыту develop,developmental 发展，发展
+
+дана piece,wise,chunk 一块，明智，块
+
+даналық wisdom 智慧
+
+данышпан genius 天才
+
+дарынды gifted 天才
+
+дау dispute 纠纷
+
+дауласу argue 认为
+
+даулы controversial 争议
+
+дауыл hurricane,storm 飓风，风暴
+
+дауыс voice,vote 语音，投票
+
+дауыс беру voting,ballot 投票，选票
+
+дағдарыс crisis 危机
+
+дағды skill 技能
+
+дақ spot 点
+
+дебют debut 出道
+
+дегенмен though,nonetheless,although,nevertheless 虽然，尽管如此，虽然，尽管如此
+
+дейін before 以前
+
+делдал broker 代理
+
+демалу relax 放松
+
+демалыс vacation 假期
+
+демалыс күндері weekend 周末
+
+демеуші sponsor 发起人
+
+демографиялық demographic 人口
+
+демократия democracy 民主
+
+демократиялық democratic 民主的
+
+демонстрация demonstration 示范
+
+дене body,organism 身体，有机体
+
+дені сау healthy 健康
+
+деп аталатын so-called 所谓
+
+депозит deposit 存款
+
+депрессия depressed,depression 抑郁，抑郁
+
+дереккөз source 源
+
+дерексіз abstract 抽象
+
+деректер data 数据
+
+деректі фильмдер documentary 记录片
+
+дереу immediately,instantly,immediate 立即，立即，立即
+
+дерлік almost 几乎
+
+десерт dessert 甜点
+
+детектив detective 侦探
+
+деңгей level 水平
+
+джаз jazz 爵士乐
+
+джентльмен gentleman 绅士
+
+джинсы jeans 牛仔裤
+
+джунгли jungle 丛林
+
+диагноз diagnosis 诊断
+
+диагностика diagnose 诊断
+
+диаграмма chart 图表
+
+диалог dialogue 对话
+
+диван sofa,couch 沙发，沙发
+
+диверсия undermine 破坏
+
+диета diet 节食
+
+дизайн design 设计
+
+дизайнер designer 设计师
+
+диктант dictate 口述
+
+дилемма dilemma 两难
+
+дилер dealer 贩子
+
+динамика dynamics 动力学
+
+динамикалық dynamic 动态
+
+дипломат diplomat 外交官
+
+дипломатиялық diplomatic 外交
+
+директива guideline 指引
+
+директор director 导演
+
+диск disc,disk 光盘，磁盘
+
+дисплей display 显示
+
+диірмен mill 磨
+
+доза dose 剂量
+
+док dock 码头
+
+доктрина doctrine 学说
+
+домалақ rolling 轧制
+
+домен domain 域
+
+донор donor 施主
+
+доп ball,bulb 球，灯泡
+
+досым mate,friend,buddy 伴侣，朋友，伙伴
+
+драма drama 戏剧
+
+драмалық dramatic,dramatically 戏剧性，戏剧性
+
+дрейф drift 漂移
+
+дулыға helmet 头盔
+
+душ shower 淋浴
+
+дыбыс sound 声音
+
+дымқыл wet 湿
+
+дін religion 宗教
+
+діни religious 宗教
+
+діни қызметкер priest 牧师
+
+дүкен shop,store 商店，商店
+
+дүрбелең panic 恐慌
+
+дұрыс correct,proper,loyal,properly,correctly 正确，适当，忠诚，正确，正确
+
+дұшпандық hostile 敌对的
+
+дұға prayer 祈祷
+
+дұға ету pray 祈祷
+
+дәйексөз quote,cite 引用，引用
+
+дәйекті consecutive,consistent 连续，一致
+
+дәйекті түрде consistently 一贯
+
+дәл accurate,precisely,accurately,precise,exact 准确，精确，准确，精密，精确
+
+дәл осылай exactly 完全
+
+дәлдік accuracy 准确性
+
+дәлел proof,argument 证明，论证
+
+дәлелдер evidence 证据
+
+дәлелдеу prove 证明
+
+дәліз corridor,hallway 走廊，走廊
+
+дәмі taste 味道
+
+дәптер notebook 笔记本
+
+дәрежесі extent,rank,degree 程度，等级，程度
+
+дәретхана toilet 厕所
+
+дәрі drug 药
+
+дәрігер physician,doctor 医生，医生
+
+дәріс lecture 演讲
+
+дәстүр tradition,custom 传统，习俗
+
+дәстүрлі traditionally,traditional 传统，传统
+
+дәуір era 时代
+
+дөрекі rough,roughly,brutal 粗暴，粗暴，残酷
+
+дөңгелек round,wheel 圆形，轮式
+
+егемендік sovereignty 主权
+
+егер if 如果
+
+егер жоқ болса unless 除非
+
+егеуқұйрық rat 鼠
+
+егіз twin 双
+
+егін crop 作物
+
+егін жинау harvest 收获
+
+еден gender,sex 性别，性别
+
+ежелгі ancient 古代
+
+екеуі де both 双
+
+екпін emphasis,accent 强调，重音
+
+екі two 二
+
+екі рет twice 两次
+
+екінші second 第二
+
+екінші реттік secondary 二 次
+
+екіталай unlikely 不可能
+
+ел country 国家
+
+елемеу overlook,ignore 忽略，忽略
+
+елес illusion,ghost 幻觉，幽灵
+
+елестету imagine,envision 想象，设想
+
+елеусіз slight,minor 轻微，轻微
+
+елу fifty 五十
+
+емдеу treat,heal,treatment,cure,medication 治疗，治愈，治疗，治愈，药物治疗
+
+емен oak 橡 木
+
+емтихан exam 考试
+
+емхана clinic 诊所
+
+енгізу introduce 介绍
+
+енді жоқ anymore 了
+
+ентігу pant 喘气
+
+епископ bishop 主教
+
+ереже rule 统治
+
+ерекше unusual,specific,extraordinary,special 不寻常的，特殊的，非凡的，特殊的
+
+ерекшелігі feature 特征
+
+ерекшелік exception 例外
+
+ересек adult 成人
+
+еркек male 雄
+
+еркін freely 自由
+
+ерте early 早
+
+ертегі tale 故事
+
+ертең tomorrow 明天
+
+ерікті voluntary,volunteer 自愿，志愿者
+
+ерін lip 唇
+
+еріту dissolve 溶解
+
+есеп reporting 报告
+
+есеп беру accountability,inform 问责，告知
+
+есепке алу accounting 会计学
+
+есептегіш counter 计数器
+
+есептеу calculate,calculation 计算，计算
+
+еске алу mention 提到
+
+еске салу remind,reminder 提醒，提醒
+
+ескерткіш monument 纪念碑
+
+ескерту warning,note,warn,remark 警告，注意，警告，备注
+
+ескі old 老
+
+ескі сән old-fashioned 老式
+
+есте сақтау remember 记得
+
+есту rumor,hearing,hear 谣言，听闻，听闻
+
+есік doorway,door 门口，门
+
+ет meat,flesh 肉，肉
+
+етік boot 靴子
+
+еш жерде nowhere 无处
+
+ешкі goat 山羊
+
+ешкім nobody,none 没有人，没有
+
+ештеңе nothing 无
+
+ешқашан never 从不
+
+ең жақын closest 最近
+
+ең кіші least 最小
+
+ең үлкен most 最
+
+ең үлкені greatest 最大
+
+еңбегі merit 优点
+
+еңбек labor 劳动
+
+жабайы wild 野生
+
+жабайы табиғат wildlife 野生生物
+
+жабдық outfit,hardware,equipment 服装，五金，设备
+
+жабдықтау equip 装备
+
+жабу close,shut 关闭，关闭
+
+жабысу cling 附着
+
+жабық closed 闭
+
+жад memory 记忆
+
+жаз summer 夏天
+
+жаза punishment 惩罚
+
+жазалау punish 惩罚
+
+жазатайым оқиға accident,casualty 事故，伤亡
+
+жазу record,recording,writing,write 记录，记录，写作，写作
+
+жазушы writer 作家
+
+жазылған written 写
+
+жазықсыз innocent 无罪
+
+жайлылық comfort 安慰
+
+жалақы salary,wage 工资，工资
+
+жалаңаш bare 裸
+
+жалдау hire 雇
+
+жалпы gross,shared,collective,common 总的，共享的，集体的，普通的
+
+жалпы алғанда overall,altogether 总体来说，总的来说
+
+жалпы қабылданған mainstream 主流
+
+жалпыға белгілі well-known 有名
+
+жалпыұлттық nationwide 全国
+
+жалын flame 火焰
+
+жалыну beg,plead 乞求，恳求
+
+жалға алу rent,rental 出租，出租
+
+жалған false 假
+
+жалғастыру resume,continue,proceed 继续，继续，继续
+
+жалғасуда continuing,continued 继续，继续
+
+жалғыз lonely,single 寂寞，单身
+
+жаман bad,badly 不好，不好
+
+жамбас thigh,hip 大腿，臀部
+
+жан soul 灵魂
+
+жанармай fuel 燃料
+
+жанашырлық sympathy 同情
+
+жанжал scandal,conflict 丑闻，冲突
+
+жанр genre 类型
+
+жану burning 灼烧痛
+
+жануар animal 动物
+
+жаппай massive 大规模
+
+жапсырма label 标签
+
+жара wound 伤口
+
+жарайды well,okay,ok,fine 好，好，好，好
+
+жарамды valid 有效
+
+жаратылыс creature 生物
+
+жарақат injury,hurt,injure,trauma 受伤，伤害，伤害，创伤
+
+жариялау publish,publication,announce,declare,proclaim 发布，出版，宣布，声明，声明
+
+жариялылық publicity 宣传
+
+жарна fee 费
+
+жарнама ad,advertising 广告，广告
+
+жартас cliff 悬崖
+
+жарты жолда halfway 一半
+
+жартысы half 半
+
+жарылыс blast,explode,burst,explosion 爆炸，爆炸，爆炸，爆炸
+
+жарыс competition,contest,race 比赛，竞赛，比赛
+
+жарықтандыру lighting 照明
+
+жарықшақ crack 裂纹
+
+жарғы charter,statute 章程，法规
+
+жарқанат bat .bat
+
+жарқыл flash 闪光
+
+жарқын bright 明亮
+
+жарқырау shine 照
+
+жас young,youngster 年轻，年轻
+
+жасанды artificial 假
+
+жасау commit,generate,create 提交，生成，创建
+
+жасақ troop 部队
+
+жастар youth 青年
+
+жастық pad,pillow 垫子，枕头
+
+жасы age 年龄
+
+жасыл green 绿
+
+жасыру hide 隐藏
+
+жасырын hidden 隐藏
+
+жасөспірім teenager,adolescent,teenage,teen 青少年，青少年，青少年，青少年
+
+жаттығу exercise,workout 运动，锻炼
+
+жаттықтырушы coach,trainer 教练，培训师
+
+жатын бөлме bedroom 卧室
+
+жау enemy 敌人
+
+жауап reply,response,answer 回复，响应，回答
+
+жауап беру react,respond 反应，回应
+
+жауапкер defendant 被告
+
+жауапкершілік liability,responsibility 责任，责任
+
+жауапты responsible,respondent 负责，被调查者
+
+жауынгер warrior,fighter 战士，战士
+
+жаяу жүру walking 走
+
+жағажай beach 海滩
+
+жағалау shore,coast,coastal 海岸，海岸，沿海
+
+жағасы collar 衣领
+
+жағдай circumstance,situation 情况，情况
+
+жағдайы condition,fortune 状况，财富
+
+жағы side 边
+
+жағымды pleasant 愉快
+
+жағымсыз nasty 讨厌
+
+жағына қарай aside 旁白
+
+жақ jaw 颚
+
+жақсарту improve,improvement 改进，改进
+
+жақсартылған improved 改进
+
+жақсы better,good 更好，更好
+
+жақсылық favor 喜爱
+
+жақтау frame,framework 框架，框架
+
+жақын near,intimate,beside,alongside 近，亲密，旁，旁
+
+жақын жерде nearby 附近
+
+жақында lately,soon,recently 最近，很快，最近
+
+жақындау suit,fit 西装，合身
+
+жақынырақ closer 近
+
+жаңа new 新增功能
+
+жаңалықтар news 新闻
+
+жаңарту update 更新
+
+жаңбыр rain 雨
+
+жаңғақ nut 坚果
+
+жаңғырық echo 回波
+
+жаһандық global 全球
+
+жебе arrow 箭
+
+жегіш eating 吃
+
+жеделдету accelerate 加速
+
+жек көру hate 恨
+
+жеке personally,individual,privately,private,personal 个人，私人
+
+жел wind 风
+
+желдеткіш fan 扇
+
+желкен sail 帆
+
+желі network,net,web 网络，网络，网络
+
+жемпір sweater 毛衣
+
+жемістер fruit 水果
+
+жер land,earth,ground 土地，地球，地面
+
+жер бедері terrain 地形
+
+жер сілкінісі earthquake 地震
+
+жер шары globe 球
+
+жергілікті local 当地
+
+жеребе лақтыру toss 折腾
+
+жержаңғақ peanut 花生
+
+жерлеу funeral 葬礼
+
+жерсерік satellite 卫星
+
+жертөле basement 地下室
+
+жесір widow 寡妇
+
+жетекші leading 主导
+
+жетекшілік ету lead 铅
+
+жеткізу supply,delivery,deliver 供应，交付，交付
+
+жеткізуші provider,supplier 供应商，供应商
+
+жеткілікті enough,sufficient 够了，够了
+
+жету achieve,reach 实现，达到
+
+жеті seven 七
+
+жетінші seventh 第七
+
+жетістік achievement 成就
+
+жең sleeve 袖
+
+жеңу overcome,win,handle,cope 克服，赢得，处理，应对
+
+жеңіл lightly,slightly 轻轻，略微
+
+жеңіл жел breeze 微风
+
+жеңілдік discount,ease,relief 折扣，轻松，缓解
+
+жеңіліс defeat 失败
+
+жеңімпаз winner 胜利者
+
+жиек rim 边缘
+
+жиналыс assembly 集会
+
+жинау collect,gathering,gather,assemble 收集，收集，收集，组装
+
+жинаушы collector 收藏家
+
+жинақ kit,suite,collection,set 套件，套件，收藏，套装
+
+жиырма twenty 二十
+
+жиырмасыншы twentieth 二十
+
+жиі frequently,frequent,often 频繁，频繁，经常
+
+жиілігі frequency 频率
+
+жиһаз furniture 家具
+
+жоба draft,project 草稿，项目
+
+жойқын devastating 毁灭性
+
+жол string,path,sneak,driveway,way,track,road 字符串，路径，潜行，车道，方式，轨道，道路
+
+жол ақысы fare 票价
+
+жолаушы passenger 乘客
+
+жолақ strip,streak,lane 条形，条纹，车道
+
+жолдас fellow 家伙
+
+жорғалау crawl 爬
+
+жоспар plan 计划
+
+жоспарлау planning 规划
+
+жоспарлаушы planner 计划
+
+жотасы ridge 脊
+
+жою remove,eliminate,destroy,removal,destruction,ruin 移除，消除，销毁，移除，破坏，毁坏
+
+жоғалту loss,lose 损失，损失
+
+жоғалу vanish 消失
+
+жоғалып кету disappear 消失
+
+жоғалған lost,missing 丢失，丢失
+
+жоғары high,highly,tall,up,superior 高，高，高，上，上，上
+
+жоғары деңгейдегі кездесу summit 峰会
+
+жоғары сорт premium 奖赏
+
+жоғары технологиялық high-tech 高科技
+
+жоғарыда above,over 以上，上方
+
+жоғарғы upper,top 上部，上部
+
+жоғарғы жағында atop 之上
+
+жоқ neither,nor,without 既不是，也不是，没有
+
+журнал magazine,journal,log 杂志，期刊，日志
+
+журналист journalist 记者
+
+журналистика journalism 新闻业
+
+жуу wash 洗
+
+жуынатын бөлме bathroom 浴室
+
+жыл year 年
+
+жыл сайын annually 每年
+
+жыл сайынғы annual 年刊
+
+жылан snake 蛇
+
+жылау scream,cry,shout 尖叫，哭泣，呐喊
+
+жылдам rapid,quick,rapidly,fast,quickly 快速，快速，快速，快速，快速，快速
+
+жылдамдық speed 速度
+
+жылдамырақ faster 更快
+
+жылжыту advance,move,promotion,transfer 前进，移动，晋升，转移
+
+жылтыр brilliant 明
+
+жылу warmth,heat 温暖，热
+
+жылы warm 温暖
+
+жылқы horse 马
+
+жынды crazy,mad 疯狂，疯狂
+
+жыныстық sexual,sexually,sexy 性，性，性感
+
+жыныстық қатынас sexuality 性取向
+
+жыпылықтау blink 眨眼
+
+жыртқыш predator 掠夺者
+
+жіберу send 发送
+
+жігерлендіру cheer 欢呼
+
+жігіт boyfriend,guy 男朋友，男生
+
+жіктеу classify 分类
+
+жіп thread 线
+
+жіңішке subtle,thin 微妙，薄薄
+
+жүгері corn 玉米
+
+жүгіру flee,run 逃跑，逃跑
+
+жүгіруші running,runner 跑步，跑步者
+
+жүз hundred 百
+
+жүзеге асыру implement 实现
+
+жүзу swim,swimming,float 游泳，游泳，漂浮
+
+жүзім grape 葡萄
+
+жүйе system 系统
+
+жүйке nervous,nerve 神经，神经
+
+жүк cargo 货物
+
+жүк көлігі truck 卡车
+
+жүктеу load 负荷
+
+жүкті pregnant 怀孕
+
+жүктілік pregnancy 怀孕
+
+жүн fur 毛皮
+
+жүргізу drive 驾驶
+
+жүргізуші driver 司机
+
+жүрек heart 心
+
+жұбайы spouse 配偶
+
+жұдырық fist 拳头
+
+жұлдыз star 星
+
+жұмбақ mysterious 神秘
+
+жұмсарту soften 软化
+
+жұмсау spend 花费
+
+жұмсақ soft,softly,gently,mild 柔软，柔软，温和，温和
+
+жұмыртқа egg 蛋
+
+жұмыс operate,job,working,work 操作，工作，工作，工作
+
+жұмыс беруші employer 雇主
+
+жұмыс орны workplace 工作单位
+
+жұмыс істейді works 工程
+
+жұмыс үстелі desk 书桌
+
+жұмыспен қамту occupation 职业
+
+жұмыссыздық unemployment 失业
+
+жұмысқа орналастыру employment 就业
+
+жұп pair,couple 对，情侣
+
+жұту swallow 吞
+
+жәбірленуші victim 受害者
+
+жәндік insect 昆虫
+
+және and 和
+
+және / немесе and/or 和/或
+
+және т. б. etc 等
+
+жәрдемдесу facilitate 促进
+
+жөндеу repair 修
+
+жөнелту departure 离开
+
+задница ass 屁股
+
+зайырлы secular 世俗
+
+заклинание spell 拼写
+
+зал lobby,hall 大堂，大厅
+
+заманауи contemporary,modern 现代，现代
+
+зарядтау charge 负责
+
+зат substance 物质
+
+зауыт factory 厂
+
+зақым damage 损伤
+
+заң law 法律
+
+заң жобасы bill 法案
+
+заң шығарушы legislator,lawmaker 立法者，立法者
+
+заң шығарушы билік legislature 立法机关
+
+заңгер lawyer 律师
+
+заңды legitimate,legal 合法，合法
+
+заңды түрде legally 合法
+
+заңнама legislation 立法
+
+заңнамалық legislative 立法
+
+заңсыз illegal 非法
+
+зейнетақы pension 养老金
+
+зергерлік бұйымдар jewelry 珠宝
+
+зерттеу explore,study,exploration,examine,research,investigate 探索，研究，探索，检查，研究，调查
+
+зерттеуші researcher 研究员
+
+зертхана laboratory,lab 实验室，实验室
+
+зеңбірек gun 枪
+
+зират cemetery 墓地
+
+зиян harm 伤害
+
+зорлау rape 强奸
+
+зорлық-зомбылық violence,violent 暴力，暴力
+
+зымыран missile,rocket 导弹，火箭
+
+зұлымдық evil 邪
+
+идеология ideology 思想
+
+идеологиялық ideological 意识形态的
+
+идея idea 想法
+
+иек chin 下巴
+
+иелену possess,possession,ownership 拥有，占有，所有权
+
+иесі owner 所有者
+
+икемді flexible 灵活
+
+икемділік flexibility 灵活性
+
+иммигрант immigrant 移民
+
+иммиграция immigration 移民
+
+иммундық immune 免疫的
+
+империя empire 帝国
+
+импорттау import 进口
+
+импульс pulse,impulse,momentum 脉冲，脉冲，动量
+
+инвестиция invest 投资
+
+инвестор investor 投资者
+
+ингредиент ingredient 成分
+
+индексі index 指数
+
+ине needle 针
+
+инженер engineer 工程师
+
+инженерлік өнер engineering 工程
+
+инновация innovation 创新
+
+инновациялық innovative 创新
+
+инспектор inspector 检查员
+
+инстинкт instinct 本能
+
+институционалдық institutional 制度
+
+интеграция integration 集成
+
+интеллект intelligence 情报
+
+интеллектуалды intellectual 知识分子
+
+интерьер interior 内部
+
+инфекция infection 感染
+
+инфляция inflation 通货膨胀
+
+ипотека mortgage 抵押
+
+ирония irony 讽刺
+
+ирониялық ironically 具有 讽刺 意味
+
+ит dog 狗
+
+итеру push 推
+
+иық shoulder 肩膀
+
+иық тіреу shrug 耸肩
+
+иілу bend,tuck,fold 弯曲，收起，折叠
+
+иісі smell,scent 气味，气味
+
+к to 自
+
+каб cab .cab
+
+кабель cable 电缆
+
+кабина cabin 舱
+
+кабинет cabinet 内阁
+
+казино casino 赌场
+
+камера chamber,camera 腔室，相机
+
+кампус campus 校园
+
+кандидат candidate 候选人
+
+капитан captain 船长
+
+карта card,map 卡片，地图
+
+картоп potato 土豆
+
+каталог catalog 目录
+
+кедей poor 穷
+
+кедейлік poverty 贫困
+
+кедергі barrier,obstacle,stir 屏障，障碍物，搅拌
+
+кез келген either 也
+
+кез келген адам anyone 任何人
+
+кез келген нәрсе whatever 无论什么
+
+кез келген уақытта whenever 每当
+
+кезбе wander 徘徊
+
+кездейсоқ random,occasional 随机，偶尔
+
+кездесу meeting,meet 会议，会议
+
+кезек turn 转
+
+кезең stage,period 阶段，期间
+
+кейбір any 任何
+
+кейбіреулер some 一些
+
+кейде sometime,sometimes 有时，有时
+
+кейін after 后
+
+кейіннен afterward 然后
+
+кейінірек later 后
+
+кейіп таныту pretend 假装
+
+кек spite 尽管
+
+келесі next,subsequent,following 下一个，后续，后续
+
+келу come,arrival,arrive,visit,attend 来，到，到达，参观，参加
+
+келуші visitor 游客
+
+келісемін agree 同意
+
+келіспеу disagree 反对
+
+келіспеушіліктер controversy 争议
+
+келіссөздер negotiation 谈判
+
+келіссөздер жүргізу negotiate 谈判
+
+келісім consensus,agreement,convention,engagement,consent 共识，协议，约定，承诺，同意
+
+келісімшарт contract 合同
+
+кеме vessel,ship 船舶，船舶
+
+кемсітушілік discrimination 歧视
+
+кенеп canvas 帆布
+
+кенеттен sudden,suddenly 突然，突然
+
+кептірілген dried 干
+
+кепілге алынған hostage 人质
+
+кепілдік ensure,guarantee 保证，保证
+
+керек ought,must,shall,should 应该，必须，应该，应该
+
+керемет terrific,great,amazing,striking,excellent,remarkable,incredibly,incredible,surprising 了不起，伟大，惊人，惊人，卓越，非凡，难以置信，难以置信，令人惊讶
+
+кернеу tension,strain 张力，应变
+
+кері reverse 反向
+
+кері байланыс feedback 反馈
+
+керісінше rather 而
+
+кесе cup 杯子
+
+кесте schedule 附表
+
+кесу cut,carve,chop 切割，雕刻，切碎
+
+кету depart 离开
+
+кеуде chest,breast 胸部，乳房
+
+кеш party,late,evening 派对，深夜，晚上
+
+кеше yesterday 昨天
+
+кешенді comprehensive 全面
+
+кешіру forgive 原谅
+
+кешірім apology 道歉
+
+кешірім сұрау apologize 道歉
+
+кешіріңіз sorry 不好意思
+
+кең widely,extensive,broad,vast,wide 广、广
+
+кең таралған widespread 广泛
+
+кеңейту extension,expansion,extend,expand 扩展，扩展，扩展，扩展
+
+кеңейтілген extended 扩展
+
+кеңес tip,advice,hint,council 提示，建议，提示，理事会
+
+кеңес беру counseling,consult,advise 咨询，咨询，建议
+
+кеңесші adviser,consultant,counselor 顾问，顾问，顾问
+
+кеңсе office 办公室
+
+кеңістік space 空间
+
+кино movie 电影
+
+кит whale 鲸鱼
+
+кию wear 穿
