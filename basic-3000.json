@@ -20,6 +20,11 @@
     "zh": "亚裔"
   },
   {
+    "kz": "лға",
+    "en": "forward,forth",
+    "zh": "前进，前进"
+  },
+  {
     "kz": "лғыс айту",
     "en": "Thanksgiving",
     "zh": "感恩"
@@ -28,6 +33,11 @@
     "kz": "мерикандық",
     "en": "American",
     "zh": "美国人"
+  },
+  {
+    "kz": "нашым",
+    "en": "mother,mom",
+    "zh": "妈妈，妈妈"
   },
   {
     "kz": "раб",
@@ -65,9 +75,24 @@
     "zh": "英语"
   },
   {
+    "kz": "қтау",
+    "en": "justify,excuse",
+    "zh": "辩解，辩解"
+  },
+  {
+    "kz": "атыс",
+    "en": "western,west",
+    "zh": "西方，西方"
+  },
+  {
     "kz": "олат",
     "en": "steel",
     "zh": "钢"
+  },
+  {
+    "kz": "остандық",
+    "en": "liberty,freedom",
+    "zh": "自由，自由"
   },
   {
     "kz": "ритандық",
@@ -105,6 +130,11 @@
     "zh": "希腊语"
   },
   {
+    "kz": "аңқ",
+    "en": "fame,glory",
+    "zh": "名声，荣耀"
+  },
+  {
     "kz": "емократ",
     "en": "Democrat",
     "zh": "民主党人"
@@ -113,6 +143,16 @@
     "kz": "енсаулық",
     "en": "health",
     "zh": "健康"
+  },
+  {
+    "kz": "остық",
+    "en": "friendship,friendly",
+    "zh": "友谊，友好"
+  },
+  {
+    "kz": "врей",
+    "en": "Jewish,Jew",
+    "zh": "犹太人，犹太人"
   },
   {
     "kz": "лші",
@@ -143,6 +183,11 @@
     "kz": "арық",
     "en": "light",
     "zh": "光"
+  },
+  {
+    "kz": "еңіс",
+    "en": "triumph,victory",
+    "zh": "胜利，胜利"
   },
   {
     "kz": "омарт",
@@ -190,6 +235,11 @@
     "zh": "爱尔兰语"
   },
   {
+    "kz": "слам",
+    "en": "Islam,Islamic",
+    "zh": "伊斯兰教，伊斯兰教"
+  },
+  {
     "kz": "спан",
     "en": "Spanish",
     "zh": "西班牙语"
@@ -198,6 +248,11 @@
     "kz": "тальян",
     "en": "Italian",
     "zh": "意大利语"
+  },
+  {
+    "kz": "ә",
+    "en": "yeah,yes",
+    "zh": "是的"
   },
   {
     "kz": "анадалық",
@@ -240,6 +295,11 @@
     "zh": "古巴"
   },
   {
+    "kz": "өңілді",
+    "en": "funny,fun",
+    "zh": "有趣，有趣"
+  },
+  {
     "kz": "атын",
     "en": "Latin",
     "zh": "拉丁语"
@@ -270,6 +330,11 @@
     "zh": "海洋"
   },
   {
+    "kz": "ұқият",
+    "en": "thoroughly,carefully",
+    "zh": "彻底，仔细"
+  },
+  {
     "kz": "аурыз",
     "en": "march",
     "zh": "三月"
@@ -278,6 +343,11 @@
     "kz": "еміс",
     "en": "German",
     "zh": "德语"
+  },
+  {
+    "kz": "ұсқаулық",
+    "en": "manual,instruction",
+    "zh": "手册，说明"
   },
   {
     "kz": "лимпиада",
@@ -305,6 +375,11 @@
     "zh": "家园"
   },
   {
+    "kz": "ңтүстік",
+    "en": "southern,south",
+    "zh": "南"
+  },
+  {
     "kz": "ығыс",
     "en": "southeast",
     "zh": "东南"
@@ -313,6 +388,11 @@
     "kz": "алестиналық",
     "en": "Palestinian",
     "zh": "巴勒斯坦人"
+  },
+  {
+    "kz": "арақ",
+    "en": "leaf,sheet",
+    "zh": "叶子，片材"
   },
   {
     "kz": "арсы",
@@ -350,6 +430,11 @@
     "zh": "同伴"
   },
   {
+    "kz": "олтүстік",
+    "en": "north,northern",
+    "zh": "北，北"
+  },
+  {
     "kz": "ұлулық",
     "en": "beauty",
     "zh": "美"
@@ -358,6 +443,11 @@
     "kz": "әлем",
     "en": "hi",
     "zh": "你好"
+  },
+  {
+    "kz": "арихи",
+    "en": "historic,historical",
+    "zh": "历史，历史"
   },
   {
     "kz": "еледидар",
@@ -405,6 +495,11 @@
     "zh": "特权"
   },
   {
+    "kz": "аным",
+    "en": "Ms,Mrs",
+    "zh": "女士，太太"
+  },
+  {
     "kz": "ристиан",
     "en": "Christian",
     "zh": "基督教"
@@ -433,6 +528,11 @@
     "kz": "ығанақ",
     "en": "bay",
     "zh": "湾"
+  },
+  {
+    "kz": "ығыс",
+    "en": "eastern,east",
+    "zh": "东，东"
   },
   {
     "kz": "аборт",
@@ -485,14 +585,29 @@
     "zh": "机构"
   },
   {
+    "kz": "агрессивті",
+    "en": "aggressive,offensive",
+    "zh": "侵略性，进攻性"
+  },
+  {
     "kz": "агрессия",
     "en": "aggression",
     "zh": "侵略"
   },
   {
+    "kz": "адал",
+    "en": "honestly,honest",
+    "zh": "诚实，诚实"
+  },
+  {
     "kz": "адалдық",
     "en": "loyalty",
     "zh": "忠诚"
+  },
+  {
+    "kz": "адам",
+    "en": "person,human,man",
+    "zh": "人，人，人"
   },
   {
     "kz": "адамдар",
@@ -505,9 +620,29 @@
     "zh": "人类"
   },
   {
+    "kz": "адвокат",
+    "en": "advocate,attorney,counsel",
+    "zh": "辩护人，律师，法律顾问"
+  },
+  {
+    "kz": "аз",
+    "en": "fewer,less",
+    "zh": "更少，更少"
+  },
+  {
+    "kz": "азайту",
+    "en": "decrease,reduce,minimize,diminish",
+    "zh": "减少，减少，最小化，减少"
+  },
+  {
     "kz": "азамат",
     "en": "citizen",
     "zh": "公民"
+  },
+  {
+    "kz": "азаматтық",
+    "en": "civic,civilian,civil,citizenship",
+    "zh": "公民，民事，公民，公民"
   },
   {
     "kz": "азап шегу",
@@ -535,9 +670,19 @@
     "zh": "杂货店"
   },
   {
+    "kz": "ай",
+    "en": "month,moon",
+    "zh": "月，月"
+  },
+  {
     "kz": "ай сайын",
     "en": "monthly",
     "zh": "每月"
+  },
+  {
+    "kz": "аймақ",
+    "en": "zone,region",
+    "zh": "区域，区域"
   },
   {
     "kz": "аймақтық",
@@ -570,9 +715,24 @@
     "zh": "独特"
   },
   {
+    "kz": "айтарлықтай",
+    "en": "considerably,greatly,largely",
+    "zh": "相当，很大，很大程度上"
+  },
+  {
+    "kz": "айту",
+    "en": "say,tell",
+    "zh": "说，告诉"
+  },
+  {
     "kz": "айыппұл",
     "en": "penalty",
     "zh": "罚款"
+  },
+  {
+    "kz": "айыптау",
+    "en": "convict,condemn,accusation,accuse",
+    "zh": "定罪，谴责，指控，指控"
   },
   {
     "kz": "айырмашылығы",
@@ -580,9 +740,19 @@
     "zh": "与"
   },
   {
+    "kz": "айырмашылық",
+    "en": "difference,distinction",
+    "zh": "区别，区别"
+  },
+  {
     "kz": "айқайлау",
     "en": "yell",
     "zh": "喊"
+  },
+  {
+    "kz": "айқын",
+    "en": "apparent,explicit,evident,obvious,distinct",
+    "zh": "明显，明确，明显，明显，明显，明显"
   },
   {
     "kz": "академиялық",
@@ -650,6 +820,16 @@
     "zh": "欺骗"
   },
   {
+    "kz": "алдын ала",
+    "en": "preliminary,prior",
+    "zh": "初步，先前"
+  },
+  {
+    "kz": "алдын алу",
+    "en": "prevention,prevent",
+    "zh": "预防，预防"
+  },
+  {
     "kz": "алдыңғы",
     "en": "previous",
     "zh": "以前"
@@ -680,9 +860,19 @@
     "zh": "六"
   },
   {
+    "kz": "алтын",
+    "en": "gold,golden",
+    "zh": "金色，金色"
+  },
+  {
     "kz": "алтыншы",
     "en": "sixth",
     "zh": "第六"
+  },
+  {
+    "kz": "алу",
+    "en": "get,gain,receive,obtain,take",
+    "zh": "获取，获得，接收，获取，获取"
   },
   {
     "kz": "алушы",
@@ -703,6 +893,16 @@
     "kz": "алып тастау",
     "en": "exclude",
     "zh": "排除"
+  },
+  {
+    "kz": "алыпсатарлық",
+    "en": "speculation,speculate",
+    "zh": "投机，投机"
+  },
+  {
+    "kz": "алыс",
+    "en": "far,off,away,distant",
+    "zh": "远，远，远，远，远"
   },
   {
     "kz": "альбом",
@@ -750,9 +950,29 @@
     "zh": "清楚"
   },
   {
+    "kz": "анықталған",
+    "en": "certain,particular",
+    "zh": "某些，特定"
+  },
+  {
+    "kz": "анықтама",
+    "en": "determination,definition",
+    "zh": "确定，定义"
+  },
+  {
+    "kz": "анықтау",
+    "en": "define,determine,detect,identify,finding,discover",
+    "zh": "定义，确定，检测，识别，查找，发现"
+  },
+  {
     "kz": "апай",
     "en": "aunt",
     "zh": "阿姨"
+  },
+  {
+    "kz": "апат",
+    "en": "disaster,crash",
+    "zh": "灾难，崩溃"
   },
   {
     "kz": "апта",
@@ -775,6 +995,16 @@
     "zh": "蜜蜂"
   },
   {
+    "kz": "аралас",
+    "en": "mixed,combined",
+    "zh": "混合，混合"
+  },
+  {
+    "kz": "араласу",
+    "en": "intervention,interfere",
+    "zh": "干预，干扰"
+  },
+  {
     "kz": "аралық",
     "en": "interval",
     "zh": "间隔"
@@ -788,6 +1018,11 @@
     "kz": "арандату",
     "en": "provoke",
     "zh": "惹"
+  },
+  {
+    "kz": "арасында",
+    "en": "midst,amid,among,between",
+    "zh": "中间，中间，中间，之间"
   },
   {
     "kz": "арақатынасы",
@@ -825,6 +1060,11 @@
     "zh": "渠道"
   },
   {
+    "kz": "арнау",
+    "en": "devote,dedicate",
+    "zh": "奉献，奉献"
+  },
+  {
     "kz": "артефакт",
     "en": "artifact",
     "zh": "人工制品"
@@ -838,6 +1078,16 @@
     "kz": "артықшылығы",
     "en": "advantage",
     "zh": "优势"
+  },
+  {
+    "kz": "артықшылық",
+    "en": "preference,privilege,prefer",
+    "zh": "偏好，特权，首选"
+  },
+  {
+    "kz": "артқа",
+    "en": "back,ago",
+    "zh": "返回，前"
   },
   {
     "kz": "артқы",
@@ -855,6 +1105,11 @@
     "zh": "绳"
   },
   {
+    "kz": "арқылы",
+    "en": "throughout,across,through,via",
+    "zh": "贯穿，贯穿，贯穿，通过"
+  },
+  {
     "kz": "ас қасық",
     "en": "tablespoon",
     "zh": "汤匙"
@@ -870,6 +1125,11 @@
     "zh": "厨师"
   },
   {
+    "kz": "аспан",
+    "en": "sky,heaven",
+    "zh": "天空，天堂"
+  },
+  {
     "kz": "аспект",
     "en": "aspect",
     "zh": "方面"
@@ -883,6 +1143,11 @@
     "kz": "астын сызу",
     "en": "emphasize",
     "zh": "强调"
+  },
+  {
+    "kz": "астында",
+    "en": "under,beneath",
+    "zh": "下，下"
   },
   {
     "kz": "астық",
@@ -930,6 +1195,11 @@
     "zh": "祖父母"
   },
   {
+    "kz": "ана",
+    "en": "parental,parent",
+    "zh": "家长，家长"
+  },
+  {
     "kz": "баба",
     "en": "ancestor",
     "zh": "祖先"
@@ -963,6 +1233,11 @@
     "kz": "атрибут",
     "en": "attribute",
     "zh": "属性"
+  },
+  {
+    "kz": "ату",
+    "en": "shot,shoot,shooting",
+    "zh": "射击，射击，射击"
   },
   {
     "kz": "аты",
@@ -1005,6 +1280,11 @@
     "zh": "广场"
   },
   {
+    "kz": "аударма",
+    "en": "translate,translation",
+    "zh": "翻译，翻译"
+  },
+  {
     "kz": "аудитория",
     "en": "audience",
     "zh": "观众"
@@ -1023,6 +1303,11 @@
     "kz": "аумағы",
     "en": "territory",
     "zh": "领土"
+  },
+  {
+    "kz": "ауру",
+    "en": "illness,disease",
+    "zh": "疾病，疾病"
   },
   {
     "kz": "аурухана",
@@ -1045,9 +1330,29 @@
     "zh": "喝"
   },
   {
+    "kz": "ауызша",
+    "en": "oral,verbal",
+    "zh": "口头，口头"
+  },
+  {
+    "kz": "ауыл",
+    "en": "village,settlement",
+    "zh": "村庄，定居点"
+  },
+  {
+    "kz": "ауыл шаруашылығы",
+    "en": "agricultural,agriculture",
+    "zh": "农业，农业"
+  },
+  {
     "kz": "ауылдық",
     "en": "rural",
     "zh": "农村"
+  },
+  {
+    "kz": "ауыр",
+    "en": "painful,heavy",
+    "zh": "疼痛，沉重"
   },
   {
     "kz": "ауырсыну",
@@ -1058,6 +1363,11 @@
     "kz": "ауыртпалық",
     "en": "burden",
     "zh": "负担"
+  },
+  {
+    "kz": "ауыстыру",
+    "en": "replacement,replace",
+    "zh": "更换，更换"
   },
   {
     "kz": "ауысу",
@@ -1090,6 +1400,11 @@
     "zh": "饥饿"
   },
   {
+    "kz": "ашу",
+    "en": "open,anger,unfold,reveal,discovery,opening,revelation,uncover,disclose,rage",
+    "zh": "开放，愤怒，展开，揭示，发现，打开，启示，发现，披露，披露，愤怒"
+  },
+  {
     "kz": "ашуланған",
     "en": "angry",
     "zh": "生气"
@@ -1120,6 +1435,11 @@
     "zh": "停"
   },
   {
+    "kz": "аяқ",
+    "en": "foot,leg",
+    "zh": "脚，腿"
+  },
+  {
     "kz": "аяқ киім",
     "en": "shoe",
     "zh": "鞋"
@@ -1130,9 +1450,29 @@
     "zh": "肢体"
   },
   {
+    "kz": "аяқтау",
+    "en": "finish,trim",
+    "zh": "饰面，装饰"
+  },
+  {
+    "kz": "аға",
+    "en": "senior,elder",
+    "zh": "老年人，老年人"
+  },
+  {
     "kz": "ағай",
     "en": "uncle",
     "zh": "叔叔"
+  },
+  {
+    "kz": "ағаш",
+    "en": "timber,tree,wooden,wood",
+    "zh": "木材，树木，木制，木材"
+  },
+  {
+    "kz": "ағымдағы",
+    "en": "current,ongoing",
+    "zh": "电流，当前，进行中"
   },
   {
     "kz": "ағымы",
@@ -1170,9 +1510,24 @@
     "zh": "介意"
   },
   {
+    "kz": "ой",
+    "en": "mentally,mental",
+    "zh": "精神上，精神上"
+  },
+  {
+    "kz": "ақылды",
+    "en": "smart,intelligent",
+    "zh": "智能，智能"
+  },
+  {
     "kz": "ақылға қонымды",
     "en": "reasonable",
     "zh": "合理"
+  },
+  {
+    "kz": "ақымақ",
+    "en": "fool,silly,stupid",
+    "zh": "傻瓜，傻瓜，傻瓜"
   },
   {
     "kz": "ақын",
@@ -1200,6 +1555,11 @@
     "zh": "猎人"
   },
   {
+    "kz": "аңшылық",
+    "en": "hunt,hunting",
+    "zh": "狩猎，狩猎"
+  },
+  {
     "kz": "аңыз",
     "en": "legend",
     "zh": "传说"
@@ -1225,9 +1585,34 @@
     "zh": "市场"
   },
   {
+    "kz": "бай",
+    "en": "wealthy,rich",
+    "zh": "富有，富有"
+  },
+  {
+    "kz": "байланыс",
+    "en": "connection,communicate,bond,communication,compound,contact",
+    "zh": "连接，沟通，纽带，沟通，复合，联系"
+  },
+  {
+    "kz": "байланысты",
+    "en": "related,depend,associated",
+    "zh": "相关，依赖，关联"
+  },
+  {
+    "kz": "байланыстыру",
+    "en": "bind,associate",
+    "zh": "绑定，关联"
+  },
+  {
     "kz": "байлық",
     "en": "wealth",
     "zh": "财富"
+  },
+  {
+    "kz": "байыпты",
+    "en": "serious,seriously",
+    "zh": "认真，认真"
   },
   {
     "kz": "байырғы",
@@ -1248,6 +1633,11 @@
     "kz": "бал",
     "en": "honey",
     "zh": "蜂蜜"
+  },
+  {
+    "kz": "бала",
+    "en": "infant,baby,boy,kid,child",
+    "zh": "婴儿，婴儿，男孩，儿童，儿童"
   },
   {
     "kz": "балалық шақ",
@@ -1325,6 +1715,11 @@
     "zh": "银行家"
   },
   {
+    "kz": "бар",
+    "en": "have,exist,existing,bar,eat",
+    "zh": "有，存在，存在，酒吧，吃"
+  },
+  {
     "kz": "барабан",
     "en": "drum",
     "zh": "鼓"
@@ -1338,6 +1733,26 @@
     "kz": "баратын жері",
     "en": "destination",
     "zh": "目的地"
+  },
+  {
+    "kz": "барлығы",
+    "en": "everybody,all,everything",
+    "zh": "每个人，所有人，一切"
+  },
+  {
+    "kz": "барлық",
+    "en": "entire,whole,total",
+    "zh": "全部，整体，总计"
+  },
+  {
+    "kz": "барлық жерде",
+    "en": "anywhere,everywhere",
+    "zh": "随时随地"
+  },
+  {
+    "kz": "бару",
+    "en": "go,walk",
+    "zh": "走，走"
   },
   {
     "kz": "бас",
@@ -1360,9 +1775,19 @@
     "zh": "点头"
   },
   {
+    "kz": "бас киім",
+    "en": "hat,cap",
+    "zh": "帽子，帽子"
+  },
+  {
     "kz": "бас сүйегі",
     "en": "skull",
     "zh": "头盖骨"
+  },
+  {
+    "kz": "бас тарту",
+    "en": "refuse,cancel,deny,denial,reject,dismiss",
+    "zh": "拒绝，取消，拒绝，拒绝，拒绝，解雇"
   },
   {
     "kz": "баскетбол",
@@ -1385,14 +1810,44 @@
     "zh": "楼上"
   },
   {
+    "kz": "баспана",
+    "en": "refuge,shelter",
+    "zh": "避难所，避难所"
+  },
+  {
     "kz": "бассейн",
     "en": "pool",
     "zh": "池"
   },
   {
+    "kz": "басталуы",
+    "en": "start,starting,beginning",
+    "zh": "开始，开始，开始"
+  },
+  {
     "kz": "бастама",
     "en": "initiative",
     "zh": "主动"
+  },
+  {
+    "kz": "бастап",
+    "en": "from,of",
+    "zh": "从，的"
+  },
+  {
+    "kz": "бастапқы",
+    "en": "initial,primary,elementary",
+    "zh": "初始，主要，初级"
+  },
+  {
+    "kz": "бастапқыда",
+    "en": "initially,originally",
+    "zh": "最初，最初"
+  },
+  {
+    "kz": "бастау",
+    "en": "initiate,begin",
+    "zh": "启动，开始"
   },
   {
     "kz": "бастаушы",
@@ -1410,9 +1865,19 @@
     "zh": "主管"
   },
   {
+    "kz": "басшылық",
+    "en": "guidance,guide,leadership",
+    "zh": "指导"
+  },
+  {
     "kz": "басылым",
     "en": "edition",
     "zh": "版"
+  },
+  {
+    "kz": "басым",
+    "en": "dominant,prevail,overwhelming",
+    "zh": "主导，占上风，压倒性"
   },
   {
     "kz": "басымдық",
@@ -1425,6 +1890,21 @@
     "zh": "入侵"
   },
   {
+    "kz": "басып шығару",
+    "en": "print,seal",
+    "zh": "印刷，印章"
+  },
+  {
+    "kz": "басыңыз",
+    "en": "press,snap",
+    "zh": "按，捕捉"
+  },
+  {
+    "kz": "басқа",
+    "en": "another,other,except",
+    "zh": "其他，其他，除了"
+  },
+  {
     "kz": "басқа жерде",
     "en": "elsewhere",
     "zh": "别处"
@@ -1435,9 +1915,29 @@
     "zh": "别人"
   },
   {
+    "kz": "басқару",
+    "en": "administer,steer,manage,management",
+    "zh": "管理，指导，管理，管理"
+  },
+  {
+    "kz": "басқарушы",
+    "en": "ruling,managing",
+    "zh": "裁决，管理"
+  },
+  {
     "kz": "басқатырғыш",
     "en": "puzzle",
     "zh": "难题"
+  },
+  {
+    "kz": "басқаша",
+    "en": "otherwise,differently",
+    "zh": "否则，不同"
+  },
+  {
+    "kz": "бата",
+    "en": "blessing,bless",
+    "zh": "祝福，祝福"
   },
   {
     "kz": "батарея",
@@ -1455,6 +1955,11 @@
     "zh": "英雄"
   },
   {
+    "kz": "батыру",
+    "en": "dip,plunge",
+    "zh": "浸泡，暴跌"
+  },
+  {
     "kz": "бауыр",
     "en": "liver",
     "zh": "肝"
@@ -1468,6 +1973,16 @@
     "kz": "баяндау",
     "en": "narrative",
     "zh": "叙事"
+  },
+  {
+    "kz": "баяу",
+    "en": "slowly,slow",
+    "zh": "慢，慢"
+  },
+  {
+    "kz": "бағалау",
+    "en": "appreciate,evaluation,assess,assessment,estimate,evaluate",
+    "zh": "欣赏，评估，评估，评估，估计，评估"
   },
   {
     "kz": "бағалау бойынша",
@@ -1510,9 +2025,24 @@
     "zh": "取向"
   },
   {
+    "kz": "бағыт",
+    "en": "route,direction",
+    "zh": "路线，方向"
+  },
+  {
+    "kz": "бағыт бойынша",
+    "en": "towards,toward",
+    "zh": "朝向，朝向"
+  },
+  {
     "kz": "бақша",
     "en": "garden",
     "zh": "花园"
+  },
+  {
+    "kz": "бақылау",
+    "en": "control,observation,surveillance,observe",
+    "zh": "控制，观察，监视，观察"
   },
   {
     "kz": "бақылауды жүзеге асыру",
@@ -1533,6 +2063,11 @@
     "kz": "бақытсыз",
     "en": "unhappy",
     "zh": "不幸"
+  },
+  {
+    "kz": "бақытты",
+    "en": "happy,pleased,happily,lucky",
+    "zh": "快乐，高兴，快乐，幸运"
   },
   {
     "kz": "бақытымызға орай",
@@ -1558,6 +2093,11 @@
     "kz": "бейне",
     "en": "video",
     "zh": "视频"
+  },
+  {
+    "kz": "бейнелеу",
+    "en": "depict,portray",
+    "zh": "描绘，描绘"
   },
   {
     "kz": "бейресми",
@@ -1590,6 +2130,11 @@
     "zh": "容纳"
   },
   {
+    "kz": "бекіту",
+    "en": "attach,allegation,approval,assert",
+    "zh": "附上，指控，批准，断言"
+  },
+  {
     "kz": "бел",
     "en": "waist",
     "zh": "腰"
@@ -1598,6 +2143,21 @@
     "kz": "белбеу",
     "en": "belt",
     "zh": "带"
+  },
+  {
+    "kz": "белгі",
+    "en": "mark,tag,cue,sign",
+    "zh": "标记，标签，提示，签名"
+  },
+  {
+    "kz": "белгілі",
+    "en": "famous,known",
+    "zh": "著名，知名"
+  },
+  {
+    "kz": "белгісіз",
+    "en": "unknown,uncertain",
+    "zh": "未知，不确定"
   },
   {
     "kz": "белгісіздік",
@@ -1610,9 +2170,19 @@
     "zh": "图标"
   },
   {
+    "kz": "белсенді",
+    "en": "actively,active,activist",
+    "zh": "积极，积极，积极"
+  },
+  {
     "kz": "бензин",
     "en": "gasoline",
     "zh": "汽油"
+  },
+  {
+    "kz": "беру",
+    "en": "pitch,convey,yield,transmit,give,concede",
+    "zh": "投球，传达，让步，传递，给予，让步"
   },
   {
     "kz": "беріліс",
@@ -1653,6 +2223,11 @@
     "kz": "беті",
     "en": "surface",
     "zh": "表面"
+  },
+  {
+    "kz": "би",
+    "en": "dancing,dance",
+    "zh": "跳舞，跳舞"
   },
   {
     "kz": "бидай",
@@ -1715,6 +2290,11 @@
     "zh": "沿"
   },
   {
+    "kz": "болады",
+    "en": "occur,happen,will",
+    "zh": "发生，发生，将"
+  },
+  {
     "kz": "болар еді",
     "en": "would",
     "zh": "愿意"
@@ -1730,14 +2310,39 @@
     "zh": "避免"
   },
   {
+    "kz": "болжалды",
+    "en": "supposed,alleged",
+    "zh": "假设，据称"
+  },
+  {
     "kz": "болжам",
     "en": "assumption",
     "zh": "假设"
   },
   {
+    "kz": "болжам бойынша",
+    "en": "presumably,supposedly,allegedly",
+    "zh": "大概，据说，据称"
+  },
+  {
+    "kz": "болжау",
+    "en": "guess,anticipate,assume,predict,prediction,suppose",
+    "zh": "猜测，预测，假设，预测，预测，假设"
+  },
+  {
+    "kz": "болмауы",
+    "en": "absence,lack",
+    "zh": "缺席，缺乏"
+  },
+  {
     "kz": "болт",
     "en": "bolt",
     "zh": "螺栓"
+  },
+  {
+    "kz": "болу",
+    "en": "being,be,become,existence",
+    "zh": "存在，成为，成为，存在"
   },
   {
     "kz": "бомба",
@@ -1755,9 +2360,24 @@
     "zh": "奖金"
   },
   {
+    "kz": "бос",
+    "en": "empty,blank",
+    "zh": "空，空白"
+  },
+  {
+    "kz": "бос емес",
+    "en": "occupy,busy",
+    "zh": "占用，繁忙"
+  },
+  {
     "kz": "бос орын",
     "en": "gap",
     "zh": "差距"
+  },
+  {
+    "kz": "босату",
+    "en": "relieve,release",
+    "zh": "缓解，释放"
   },
   {
     "kz": "босаңсу",
@@ -1815,6 +2435,16 @@
     "zh": "我们"
   },
   {
+    "kz": "біздің",
+    "en": "our,ours",
+    "zh": "我们的，我们的"
+  },
+  {
+    "kz": "білдіреді",
+    "en": "imply,mean",
+    "zh": "暗示，意思"
+  },
+  {
     "kz": "білек",
     "en": "wrist",
     "zh": "腕"
@@ -1830,9 +2460,19 @@
     "zh": "资格"
   },
   {
+    "kz": "білім",
+    "en": "formation,education,knowledge",
+    "zh": "形成，教育，知识"
+  },
+  {
     "kz": "білім беру",
     "en": "educational",
     "zh": "教育"
+  },
+  {
+    "kz": "бір",
+    "en": "one,alone",
+    "zh": "一，孤身一人"
   },
   {
     "kz": "бір жерде",
@@ -1890,6 +2530,11 @@
     "zh": "独特"
   },
   {
+    "kz": "біреу",
+    "en": "anybody,somebody,someone",
+    "zh": "任何人，某人，某人"
+  },
+  {
     "kz": "біржақтылық",
     "en": "bias",
     "zh": "偏见"
@@ -1905,9 +2550,24 @@
     "zh": "统一"
   },
   {
+    "kz": "бірнеше",
+    "en": "several,few",
+    "zh": "几个，几个"
+  },
+  {
     "kz": "біртіндеп",
     "en": "gradually",
     "zh": "逐渐"
+  },
+  {
+    "kz": "біртүрлі",
+    "en": "weird,odd,strange",
+    "zh": "奇怪，奇怪，奇怪"
+  },
+  {
+    "kz": "біріктіру",
+    "en": "combine,unite,incorporate,integrate",
+    "zh": "合并"
   },
   {
     "kz": "біріктірілген",
@@ -2005,6 +2665,11 @@
     "zh": "螺"
   },
   {
+    "kz": "бұрын",
+    "en": "formerly,previously",
+    "zh": "以前，以前"
+  },
+  {
     "kz": "соңды болмаған",
     "en": "unprecedented",
     "zh": "史无前例"
@@ -2013,6 +2678,11 @@
     "kz": "бұрынғы",
     "en": "former",
     "zh": "前"
+  },
+  {
+    "kz": "бұрыш",
+    "en": "angle,corner,pepper",
+    "zh": "角，角，胡椒"
   },
   {
     "kz": "бұрғылау",
@@ -2045,6 +2715,11 @@
     "zh": "竞争"
   },
   {
+    "kz": "бәсекелес",
+    "en": "competitor,compete",
+    "zh": "竞争对手，竞争"
+  },
+  {
     "kz": "бөгет",
     "en": "dam",
     "zh": "坝"
@@ -2065,6 +2740,11 @@
     "zh": "房间"
   },
   {
+    "kz": "бөлу",
+    "en": "divide,split,separation,separate,division",
+    "zh": "分割，分裂，分离，分离，分割"
+  },
+  {
     "kz": "бөлшек",
     "en": "particle",
     "zh": "粒子"
@@ -2080,6 +2760,11 @@
     "zh": "零售"
   },
   {
+    "kz": "бөлім",
+    "en": "department,section",
+    "zh": "部门，科"
+  },
+  {
     "kz": "бөлісу",
     "en": "share",
     "zh": "共享"
@@ -2093,6 +2778,11 @@
     "kz": "бөшке",
     "en": "barrel",
     "zh": "桶"
+  },
+  {
+    "kz": "в",
+    "en": "into,in",
+    "zh": "进，进"
   },
   {
     "kz": "вагон",
@@ -2118,6 +2808,11 @@
     "kz": "ванна",
     "en": "bath",
     "zh": "浴"
+  },
+  {
+    "kz": "велосипед",
+    "en": "bike,bicycle",
+    "zh": "自行车，自行车"
   },
   {
     "kz": "виртуалды",
@@ -2225,14 +2920,39 @@
     "zh": "花"
   },
   {
+    "kz": "дайын",
+    "en": "willing,ready",
+    "zh": "愿意，准备好"
+  },
+  {
     "kz": "дайындау",
     "en": "prepare",
     "zh": "准备"
   },
   {
+    "kz": "дайындық",
+    "en": "preparation,willingness",
+    "zh": "准备，愿意"
+  },
+  {
+    "kz": "даму",
+    "en": "development,evolve",
+    "zh": "发展，进化"
+  },
+  {
     "kz": "дамушы",
     "en": "developing",
     "zh": "发展"
+  },
+  {
+    "kz": "дамыту",
+    "en": "develop,developmental",
+    "zh": "发展，发展"
+  },
+  {
+    "kz": "дана",
+    "en": "piece,wise,chunk",
+    "zh": "一块，明智，块"
   },
   {
     "kz": "даналық",
@@ -2265,6 +2985,21 @@
     "zh": "争议"
   },
   {
+    "kz": "дауыл",
+    "en": "hurricane,storm",
+    "zh": "飓风，风暴"
+  },
+  {
+    "kz": "дауыс",
+    "en": "voice,vote",
+    "zh": "语音，投票"
+  },
+  {
+    "kz": "дауыс беру",
+    "en": "voting,ballot",
+    "zh": "投票，选票"
+  },
+  {
     "kz": "дағдарыс",
     "en": "crisis",
     "zh": "危机"
@@ -2283,6 +3018,11 @@
     "kz": "дебют",
     "en": "debut",
     "zh": "出道"
+  },
+  {
+    "kz": "дегенмен",
+    "en": "though,nonetheless,although,nevertheless",
+    "zh": "虽然，尽管如此，虽然，尽管如此"
   },
   {
     "kz": "дейін",
@@ -2335,6 +3075,11 @@
     "zh": "示范"
   },
   {
+    "kz": "дене",
+    "en": "body,organism",
+    "zh": "身体，有机体"
+  },
+  {
     "kz": "дені сау",
     "en": "healthy",
     "zh": "健康"
@@ -2343,6 +3088,11 @@
     "kz": "депозит",
     "en": "deposit",
     "zh": "存款"
+  },
+  {
+    "kz": "депрессия",
+    "en": "depressed,depression",
+    "zh": "抑郁，抑郁"
   },
   {
     "kz": "дереккөз",
@@ -2363,6 +3113,11 @@
     "kz": "деректі фильмдер",
     "en": "documentary",
     "zh": "记录片"
+  },
+  {
+    "kz": "дереу",
+    "en": "immediately,instantly,immediate",
+    "zh": "立即，立即，立即"
   },
   {
     "kz": "дерлік",
@@ -2423,6 +3178,11 @@
     "kz": "диалог",
     "en": "dialogue",
     "zh": "对话"
+  },
+  {
+    "kz": "диван",
+    "en": "sofa,couch",
+    "zh": "沙发，沙发"
   },
   {
     "kz": "диверсия",
@@ -2490,6 +3250,11 @@
     "zh": "导演"
   },
   {
+    "kz": "диск",
+    "en": "disc,disk",
+    "zh": "光盘，磁盘"
+  },
+  {
     "kz": "дисплей",
     "en": "display",
     "zh": "显示"
@@ -2530,9 +3295,24 @@
     "zh": "施主"
   },
   {
+    "kz": "доп",
+    "en": "ball,bulb",
+    "zh": "球，灯泡"
+  },
+  {
+    "kz": "досым",
+    "en": "mate,friend,buddy",
+    "zh": "伴侣，朋友，伙伴"
+  },
+  {
     "kz": "драма",
     "en": "drama",
     "zh": "戏剧"
+  },
+  {
+    "kz": "драмалық",
+    "en": "dramatic,dramatically",
+    "zh": "戏剧性，戏剧性"
   },
   {
     "kz": "дрейф",
@@ -2575,9 +3355,19 @@
     "zh": "牧师"
   },
   {
+    "kz": "дүкен",
+    "en": "shop,store",
+    "zh": "商店，商店"
+  },
+  {
     "kz": "дүрбелең",
     "en": "panic",
     "zh": "恐慌"
+  },
+  {
+    "kz": "дұрыс",
+    "en": "correct,proper,loyal,properly,correctly",
+    "zh": "正确，适当，忠诚，正确，正确"
   },
   {
     "kz": "дұшпандық",
@@ -2595,9 +3385,24 @@
     "zh": "祈祷"
   },
   {
+    "kz": "дәйексөз",
+    "en": "quote,cite",
+    "zh": "引用，引用"
+  },
+  {
+    "kz": "дәйекті",
+    "en": "consecutive,consistent",
+    "zh": "连续，一致"
+  },
+  {
     "kz": "дәйекті түрде",
     "en": "consistently",
     "zh": "一贯"
+  },
+  {
+    "kz": "дәл",
+    "en": "accurate,precisely,accurately,precise,exact",
+    "zh": "准确，精确，准确，精密，精确"
   },
   {
     "kz": "дәл осылай",
@@ -2610,6 +3415,11 @@
     "zh": "准确性"
   },
   {
+    "kz": "дәлел",
+    "en": "proof,argument",
+    "zh": "证明，论证"
+  },
+  {
     "kz": "дәлелдер",
     "en": "evidence",
     "zh": "证据"
@@ -2618,6 +3428,11 @@
     "kz": "дәлелдеу",
     "en": "prove",
     "zh": "证明"
+  },
+  {
+    "kz": "дәліз",
+    "en": "corridor,hallway",
+    "zh": "走廊，走廊"
   },
   {
     "kz": "дәмі",
@@ -2630,6 +3445,11 @@
     "zh": "笔记本"
   },
   {
+    "kz": "дәрежесі",
+    "en": "extent,rank,degree",
+    "zh": "程度，等级，程度"
+  },
+  {
     "kz": "дәретхана",
     "en": "toilet",
     "zh": "厕所"
@@ -2640,14 +3460,39 @@
     "zh": "药"
   },
   {
+    "kz": "дәрігер",
+    "en": "physician,doctor",
+    "zh": "医生，医生"
+  },
+  {
     "kz": "дәріс",
     "en": "lecture",
     "zh": "演讲"
   },
   {
+    "kz": "дәстүр",
+    "en": "tradition,custom",
+    "zh": "传统，习俗"
+  },
+  {
+    "kz": "дәстүрлі",
+    "en": "traditionally,traditional",
+    "zh": "传统，传统"
+  },
+  {
     "kz": "дәуір",
     "en": "era",
     "zh": "时代"
+  },
+  {
+    "kz": "дөрекі",
+    "en": "rough,roughly,brutal",
+    "zh": "粗暴，粗暴，残酷"
+  },
+  {
+    "kz": "дөңгелек",
+    "en": "round,wheel",
+    "zh": "圆形，轮式"
   },
   {
     "kz": "егемендік",
@@ -2685,6 +3530,11 @@
     "zh": "收获"
   },
   {
+    "kz": "еден",
+    "en": "gender,sex",
+    "zh": "性别，性别"
+  },
+  {
     "kz": "ежелгі",
     "en": "ancient",
     "zh": "古代"
@@ -2693,6 +3543,11 @@
     "kz": "екеуі де",
     "en": "both",
     "zh": "双"
+  },
+  {
+    "kz": "екпін",
+    "en": "emphasis,accent",
+    "zh": "强调，重音"
   },
   {
     "kz": "екі",
@@ -2725,9 +3580,34 @@
     "zh": "国家"
   },
   {
+    "kz": "елемеу",
+    "en": "overlook,ignore",
+    "zh": "忽略，忽略"
+  },
+  {
+    "kz": "елес",
+    "en": "illusion,ghost",
+    "zh": "幻觉，幽灵"
+  },
+  {
+    "kz": "елестету",
+    "en": "imagine,envision",
+    "zh": "想象，设想"
+  },
+  {
+    "kz": "елеусіз",
+    "en": "slight,minor",
+    "zh": "轻微，轻微"
+  },
+  {
     "kz": "елу",
     "en": "fifty",
     "zh": "五十"
+  },
+  {
+    "kz": "емдеу",
+    "en": "treat,heal,treatment,cure,medication",
+    "zh": "治疗，治愈，治疗，治愈，药物治疗"
   },
   {
     "kz": "емен",
@@ -2770,6 +3650,11 @@
     "zh": "统治"
   },
   {
+    "kz": "ерекше",
+    "en": "unusual,specific,extraordinary,special",
+    "zh": "不寻常的，特殊的，非凡的，特殊的"
+  },
+  {
     "kz": "ерекшелігі",
     "en": "feature",
     "zh": "特征"
@@ -2810,6 +3695,11 @@
     "zh": "明天"
   },
   {
+    "kz": "ерікті",
+    "en": "voluntary,volunteer",
+    "zh": "自愿，志愿者"
+  },
+  {
     "kz": "ерін",
     "en": "lip",
     "zh": "唇"
@@ -2825,6 +3715,11 @@
     "zh": "报告"
   },
   {
+    "kz": "есеп беру",
+    "en": "accountability,inform",
+    "zh": "问责，告知"
+  },
+  {
     "kz": "есепке алу",
     "en": "accounting",
     "zh": "会计学"
@@ -2835,14 +3730,29 @@
     "zh": "计数器"
   },
   {
+    "kz": "есептеу",
+    "en": "calculate,calculation",
+    "zh": "计算，计算"
+  },
+  {
     "kz": "еске алу",
     "en": "mention",
     "zh": "提到"
   },
   {
+    "kz": "еске салу",
+    "en": "remind,reminder",
+    "zh": "提醒，提醒"
+  },
+  {
     "kz": "ескерткіш",
     "en": "monument",
     "zh": "纪念碑"
+  },
+  {
+    "kz": "ескерту",
+    "en": "warning,note,warn,remark",
+    "zh": "警告，注意，警告，备注"
   },
   {
     "kz": "ескі",
@@ -2853,6 +3763,21 @@
     "kz": "есте сақтау",
     "en": "remember",
     "zh": "记得"
+  },
+  {
+    "kz": "есту",
+    "en": "rumor,hearing,hear",
+    "zh": "谣言，听闻，听闻"
+  },
+  {
+    "kz": "есік",
+    "en": "doorway,door",
+    "zh": "门口，门"
+  },
+  {
+    "kz": "ет",
+    "en": "meat,flesh",
+    "zh": "肉，肉"
   },
   {
     "kz": "етік",
@@ -2868,6 +3793,11 @@
     "kz": "ешкі",
     "en": "goat",
     "zh": "山羊"
+  },
+  {
+    "kz": "ешкім",
+    "en": "nobody,none",
+    "zh": "没有人，没有"
   },
   {
     "kz": "ештеңе",
@@ -2920,9 +3850,19 @@
     "zh": "野生生物"
   },
   {
+    "kz": "жабдық",
+    "en": "outfit,hardware,equipment",
+    "zh": "服装，五金，设备"
+  },
+  {
     "kz": "жабдықтау",
     "en": "equip",
     "zh": "装备"
+  },
+  {
+    "kz": "жабу",
+    "en": "close,shut",
+    "zh": "关闭，关闭"
   },
   {
     "kz": "жабысу",
@@ -2955,6 +3895,16 @@
     "zh": "惩罚"
   },
   {
+    "kz": "жазатайым оқиға",
+    "en": "accident,casualty",
+    "zh": "事故，伤亡"
+  },
+  {
+    "kz": "жазу",
+    "en": "record,recording,writing,write",
+    "zh": "记录，记录，写作，写作"
+  },
+  {
     "kz": "жазушы",
     "en": "writer",
     "zh": "作家"
@@ -2975,6 +3925,11 @@
     "zh": "安慰"
   },
   {
+    "kz": "жалақы",
+    "en": "salary,wage",
+    "zh": "工资，工资"
+  },
+  {
     "kz": "жалаңаш",
     "en": "bare",
     "zh": "裸"
@@ -2983,6 +3938,16 @@
     "kz": "жалдау",
     "en": "hire",
     "zh": "雇"
+  },
+  {
+    "kz": "жалпы",
+    "en": "gross,shared,collective,common",
+    "zh": "总的，共享的，集体的，普通的"
+  },
+  {
+    "kz": "жалпы алғанда",
+    "en": "overall,altogether",
+    "zh": "总体来说，总的来说"
   },
   {
     "kz": "жалпы қабылданған",
@@ -3000,9 +3965,44 @@
     "zh": "火焰"
   },
   {
+    "kz": "жалыну",
+    "en": "beg,plead",
+    "zh": "乞求，恳求"
+  },
+  {
+    "kz": "жалға алу",
+    "en": "rent,rental",
+    "zh": "出租，出租"
+  },
+  {
     "kz": "жалған",
     "en": "false",
     "zh": "假"
+  },
+  {
+    "kz": "жалғастыру",
+    "en": "resume,continue,proceed",
+    "zh": "继续，继续，继续"
+  },
+  {
+    "kz": "жалғасуда",
+    "en": "continuing,continued",
+    "zh": "继续，继续"
+  },
+  {
+    "kz": "жалғыз",
+    "en": "lonely,single",
+    "zh": "寂寞，单身"
+  },
+  {
+    "kz": "жаман",
+    "en": "bad,badly",
+    "zh": "不好，不好"
+  },
+  {
+    "kz": "жамбас",
+    "en": "thigh,hip",
+    "zh": "大腿，臀部"
   },
   {
     "kz": "жан",
@@ -3018,6 +4018,11 @@
     "kz": "жанашырлық",
     "en": "sympathy",
     "zh": "同情"
+  },
+  {
+    "kz": "жанжал",
+    "en": "scandal,conflict",
+    "zh": "丑闻，冲突"
   },
   {
     "kz": "жанр",
@@ -3050,6 +4055,11 @@
     "zh": "伤口"
   },
   {
+    "kz": "жарайды",
+    "en": "well,okay,ok,fine",
+    "zh": "好，好，好，好"
+  },
+  {
     "kz": "жарамды",
     "en": "valid",
     "zh": "有效"
@@ -3060,6 +4070,16 @@
     "zh": "生物"
   },
   {
+    "kz": "жарақат",
+    "en": "injury,hurt,injure,trauma",
+    "zh": "受伤，伤害，伤害，创伤"
+  },
+  {
+    "kz": "жариялау",
+    "en": "publish,publication,announce,declare,proclaim",
+    "zh": "发布，出版，宣布，声明，声明"
+  },
+  {
     "kz": "жариялылық",
     "en": "publicity",
     "zh": "宣传"
@@ -3068,6 +4088,11 @@
     "kz": "жарна",
     "en": "fee",
     "zh": "费"
+  },
+  {
+    "kz": "жарнама",
+    "en": "ad,advertising",
+    "zh": "广告，广告"
   },
   {
     "kz": "жартас",
@@ -3085,6 +4110,16 @@
     "zh": "半"
   },
   {
+    "kz": "жарылыс",
+    "en": "blast,explode,burst,explosion",
+    "zh": "爆炸，爆炸，爆炸，爆炸"
+  },
+  {
+    "kz": "жарыс",
+    "en": "competition,contest,race",
+    "zh": "比赛，竞赛，比赛"
+  },
+  {
     "kz": "жарықтандыру",
     "en": "lighting",
     "zh": "照明"
@@ -3093,6 +4128,11 @@
     "kz": "жарықшақ",
     "en": "crack",
     "zh": "裂纹"
+  },
+  {
+    "kz": "жарғы",
+    "en": "charter,statute",
+    "zh": "章程，法规"
   },
   {
     "kz": "жарқыл",
@@ -3110,9 +4150,19 @@
     "zh": "照"
   },
   {
+    "kz": "жас",
+    "en": "young,youngster",
+    "zh": "年轻，年轻"
+  },
+  {
     "kz": "жасанды",
     "en": "artificial",
     "zh": "假"
+  },
+  {
+    "kz": "жасау",
+    "en": "commit,generate,create",
+    "zh": "提交，生成，创建"
   },
   {
     "kz": "жасақ",
@@ -3123,6 +4173,11 @@
     "kz": "жастар",
     "en": "youth",
     "zh": "青年"
+  },
+  {
+    "kz": "жастық",
+    "en": "pad,pillow",
+    "zh": "垫子，枕头"
   },
   {
     "kz": "жасы",
@@ -3145,6 +4200,21 @@
     "zh": "隐藏"
   },
   {
+    "kz": "жасөспірім",
+    "en": "teenager,adolescent,teenage,teen",
+    "zh": "青少年，青少年，青少年，青少年"
+  },
+  {
+    "kz": "жаттығу",
+    "en": "exercise,workout",
+    "zh": "运动，锻炼"
+  },
+  {
+    "kz": "жаттықтырушы",
+    "en": "coach,trainer",
+    "zh": "教练，培训师"
+  },
+  {
     "kz": "жатын бөлме",
     "en": "bedroom",
     "zh": "卧室"
@@ -3155,9 +4225,34 @@
     "zh": "敌人"
   },
   {
+    "kz": "жауап",
+    "en": "reply,response,answer",
+    "zh": "回复，响应，回答"
+  },
+  {
+    "kz": "жауап беру",
+    "en": "react,respond",
+    "zh": "反应，回应"
+  },
+  {
     "kz": "жауапкер",
     "en": "defendant",
     "zh": "被告"
+  },
+  {
+    "kz": "жауапкершілік",
+    "en": "liability,responsibility",
+    "zh": "责任，责任"
+  },
+  {
+    "kz": "жауапты",
+    "en": "responsible,respondent",
+    "zh": "负责，被调查者"
+  },
+  {
+    "kz": "жауынгер",
+    "en": "warrior,fighter",
+    "zh": "战士，战士"
   },
   {
     "kz": "жаяу жүру",
@@ -3170,9 +4265,24 @@
     "zh": "海滩"
   },
   {
+    "kz": "жағалау",
+    "en": "shore,coast,coastal",
+    "zh": "海岸，海岸，沿海"
+  },
+  {
     "kz": "жағасы",
     "en": "collar",
     "zh": "衣领"
+  },
+  {
+    "kz": "жағдай",
+    "en": "circumstance,situation",
+    "zh": "情况，情况"
+  },
+  {
+    "kz": "жағдайы",
+    "en": "condition,fortune",
+    "zh": "状况，财富"
   },
   {
     "kz": "жағы",
@@ -3200,9 +4310,19 @@
     "zh": "颚"
   },
   {
+    "kz": "жақсарту",
+    "en": "improve,improvement",
+    "zh": "改进，改进"
+  },
+  {
     "kz": "жақсартылған",
     "en": "improved",
     "zh": "改进"
+  },
+  {
+    "kz": "жақсы",
+    "en": "better,good",
+    "zh": "更好，更好"
   },
   {
     "kz": "жақсылық",
@@ -3210,9 +4330,29 @@
     "zh": "喜爱"
   },
   {
+    "kz": "жақтау",
+    "en": "frame,framework",
+    "zh": "框架，框架"
+  },
+  {
+    "kz": "жақын",
+    "en": "near,intimate,beside,alongside",
+    "zh": "近，亲密，旁，旁"
+  },
+  {
     "kz": "жақын жерде",
     "en": "nearby",
     "zh": "附近"
+  },
+  {
+    "kz": "жақында",
+    "en": "lately,soon,recently",
+    "zh": "最近，很快，最近"
+  },
+  {
+    "kz": "жақындау",
+    "en": "suit,fit",
+    "zh": "西装，合身"
   },
   {
     "kz": "жақынырақ",
@@ -3275,6 +4415,11 @@
     "zh": "恨"
   },
   {
+    "kz": "жеке",
+    "en": "personally,individual,privately,private,personal",
+    "zh": "个人，私人"
+  },
+  {
     "kz": "жел",
     "en": "wind",
     "zh": "风"
@@ -3290,6 +4435,11 @@
     "zh": "帆"
   },
   {
+    "kz": "желі",
+    "en": "network,net,web",
+    "zh": "网络，网络，网络"
+  },
+  {
     "kz": "жемпір",
     "en": "sweater",
     "zh": "毛衣"
@@ -3298,6 +4448,11 @@
     "kz": "жемістер",
     "en": "fruit",
     "zh": "水果"
+  },
+  {
+    "kz": "жер",
+    "en": "land,earth,ground",
+    "zh": "土地，地球，地面"
   },
   {
     "kz": "жер бедері",
@@ -3360,6 +4515,26 @@
     "zh": "铅"
   },
   {
+    "kz": "жеткізу",
+    "en": "supply,delivery,deliver",
+    "zh": "供应，交付，交付"
+  },
+  {
+    "kz": "жеткізуші",
+    "en": "provider,supplier",
+    "zh": "供应商，供应商"
+  },
+  {
+    "kz": "жеткілікті",
+    "en": "enough,sufficient",
+    "zh": "够了，够了"
+  },
+  {
+    "kz": "жету",
+    "en": "achieve,reach",
+    "zh": "实现，达到"
+  },
+  {
     "kz": "жеті",
     "en": "seven",
     "zh": "七"
@@ -3380,9 +4555,24 @@
     "zh": "袖"
   },
   {
+    "kz": "жеңу",
+    "en": "overcome,win,handle,cope",
+    "zh": "克服，赢得，处理，应对"
+  },
+  {
+    "kz": "жеңіл",
+    "en": "lightly,slightly",
+    "zh": "轻轻，略微"
+  },
+  {
     "kz": "жеңіл жел",
     "en": "breeze",
     "zh": "微风"
+  },
+  {
+    "kz": "жеңілдік",
+    "en": "discount,ease,relief",
+    "zh": "折扣，轻松，缓解"
   },
   {
     "kz": "жеңіліс",
@@ -3405,9 +4595,19 @@
     "zh": "集会"
   },
   {
+    "kz": "жинау",
+    "en": "collect,gathering,gather,assemble",
+    "zh": "收集，收集，收集，组装"
+  },
+  {
     "kz": "жинаушы",
     "en": "collector",
     "zh": "收藏家"
+  },
+  {
+    "kz": "жинақ",
+    "en": "kit,suite,collection,set",
+    "zh": "套件，套件，收藏，套装"
   },
   {
     "kz": "жиырма",
@@ -3420,6 +4620,11 @@
     "zh": "二十"
   },
   {
+    "kz": "жиі",
+    "en": "frequently,frequent,often",
+    "zh": "频繁，频繁，经常"
+  },
+  {
     "kz": "жиілігі",
     "en": "frequency",
     "zh": "频率"
@@ -3430,9 +4635,19 @@
     "zh": "家具"
   },
   {
+    "kz": "жоба",
+    "en": "draft,project",
+    "zh": "草稿，项目"
+  },
+  {
     "kz": "жойқын",
     "en": "devastating",
     "zh": "毁灭性"
+  },
+  {
+    "kz": "жол",
+    "en": "string,path,sneak,driveway,way,track,road",
+    "zh": "字符串，路径，潜行，车道，方式，轨道，道路"
   },
   {
     "kz": "жол ақысы",
@@ -3443,6 +4658,11 @@
     "kz": "жолаушы",
     "en": "passenger",
     "zh": "乘客"
+  },
+  {
+    "kz": "жолақ",
+    "en": "strip,streak,lane",
+    "zh": "条形，条纹，车道"
   },
   {
     "kz": "жолдас",
@@ -3475,6 +4695,16 @@
     "zh": "脊"
   },
   {
+    "kz": "жою",
+    "en": "remove,eliminate,destroy,removal,destruction,ruin",
+    "zh": "移除，消除，销毁，移除，破坏，毁坏"
+  },
+  {
+    "kz": "жоғалту",
+    "en": "loss,lose",
+    "zh": "损失，损失"
+  },
+  {
     "kz": "жоғалу",
     "en": "vanish",
     "zh": "消失"
@@ -3483,6 +4713,16 @@
     "kz": "жоғалып кету",
     "en": "disappear",
     "zh": "消失"
+  },
+  {
+    "kz": "жоғалған",
+    "en": "lost,missing",
+    "zh": "丢失，丢失"
+  },
+  {
+    "kz": "жоғары",
+    "en": "high,highly,tall,up,superior",
+    "zh": "高，高，高，上，上，上"
   },
   {
     "kz": "жоғары деңгейдегі кездесу",
@@ -3495,9 +4735,29 @@
     "zh": "奖赏"
   },
   {
+    "kz": "жоғарыда",
+    "en": "above,over",
+    "zh": "以上，上方"
+  },
+  {
+    "kz": "жоғарғы",
+    "en": "upper,top",
+    "zh": "上部，上部"
+  },
+  {
     "kz": "жоғарғы жағында",
     "en": "atop",
     "zh": "之上"
+  },
+  {
+    "kz": "жоқ",
+    "en": "neither,nor,without",
+    "zh": "既不是，也不是，没有"
+  },
+  {
+    "kz": "журнал",
+    "en": "magazine,journal,log",
+    "zh": "杂志，期刊，日志"
   },
   {
     "kz": "журналист",
@@ -3540,6 +4800,16 @@
     "zh": "蛇"
   },
   {
+    "kz": "жылау",
+    "en": "scream,cry,shout",
+    "zh": "尖叫，哭泣，呐喊"
+  },
+  {
+    "kz": "жылдам",
+    "en": "rapid,quick,rapidly,fast,quickly",
+    "zh": "快速，快速，快速，快速，快速，快速"
+  },
+  {
     "kz": "жылдамдық",
     "en": "speed",
     "zh": "速度"
@@ -3550,9 +4820,19 @@
     "zh": "更快"
   },
   {
+    "kz": "жылжыту",
+    "en": "advance,move,promotion,transfer",
+    "zh": "前进，移动，晋升，转移"
+  },
+  {
     "kz": "жылтыр",
     "en": "brilliant",
     "zh": "明"
+  },
+  {
+    "kz": "жылу",
+    "en": "warmth,heat",
+    "zh": "温暖，热"
   },
   {
     "kz": "жылы",
@@ -3563,6 +4843,16 @@
     "kz": "жылқы",
     "en": "horse",
     "zh": "马"
+  },
+  {
+    "kz": "жынды",
+    "en": "crazy,mad",
+    "zh": "疯狂，疯狂"
+  },
+  {
+    "kz": "жыныстық",
+    "en": "sexual,sexually,sexy",
+    "zh": "性，性，性感"
   },
   {
     "kz": "жыныстық қатынас",
@@ -3590,6 +4880,11 @@
     "zh": "欢呼"
   },
   {
+    "kz": "жігіт",
+    "en": "boyfriend,guy",
+    "zh": "男朋友，男生"
+  },
+  {
     "kz": "жіктеу",
     "en": "classify",
     "zh": "分类"
@@ -3600,9 +4895,24 @@
     "zh": "线"
   },
   {
+    "kz": "жіңішке",
+    "en": "subtle,thin",
+    "zh": "微妙，薄薄"
+  },
+  {
     "kz": "жүгері",
     "en": "corn",
     "zh": "玉米"
+  },
+  {
+    "kz": "жүгіру",
+    "en": "flee,run",
+    "zh": "逃跑，逃跑"
+  },
+  {
+    "kz": "жүгіруші",
+    "en": "running,runner",
+    "zh": "跑步，跑步者"
   },
   {
     "kz": "жүз",
@@ -3615,6 +4925,11 @@
     "zh": "实现"
   },
   {
+    "kz": "жүзу",
+    "en": "swim,swimming,float",
+    "zh": "游泳，游泳，漂浮"
+  },
+  {
     "kz": "жүзім",
     "en": "grape",
     "zh": "葡萄"
@@ -3623,6 +4938,11 @@
     "kz": "жүйе",
     "en": "system",
     "zh": "系统"
+  },
+  {
+    "kz": "жүйке",
+    "en": "nervous,nerve",
+    "zh": "神经，神经"
   },
   {
     "kz": "жүк",
@@ -3700,9 +5020,19 @@
     "zh": "花费"
   },
   {
+    "kz": "жұмсақ",
+    "en": "soft,softly,gently,mild",
+    "zh": "柔软，柔软，温和，温和"
+  },
+  {
     "kz": "жұмыртқа",
     "en": "egg",
     "zh": "蛋"
+  },
+  {
+    "kz": "жұмыс",
+    "en": "operate,job,working,work",
+    "zh": "操作，工作，工作，工作"
   },
   {
     "kz": "жұмыс беруші",
@@ -3738,6 +5068,11 @@
     "kz": "жұмысқа орналастыру",
     "en": "employment",
     "zh": "就业"
+  },
+  {
+    "kz": "жұп",
+    "en": "pair,couple",
+    "zh": "对，情侣"
   },
   {
     "kz": "жұту",
@@ -3790,6 +5125,16 @@
     "zh": "拼写"
   },
   {
+    "kz": "зал",
+    "en": "lobby,hall",
+    "zh": "大堂，大厅"
+  },
+  {
+    "kz": "заманауи",
+    "en": "contemporary,modern",
+    "zh": "现代，现代"
+  },
+  {
     "kz": "зарядтау",
     "en": "charge",
     "zh": "负责"
@@ -3820,6 +5165,11 @@
     "zh": "法案"
   },
   {
+    "kz": "заң шығарушы",
+    "en": "legislator,lawmaker",
+    "zh": "立法者，立法者"
+  },
+  {
     "kz": "заң шығарушы билік",
     "en": "legislature",
     "zh": "立法机关"
@@ -3828,6 +5178,11 @@
     "kz": "заңгер",
     "en": "lawyer",
     "zh": "律师"
+  },
+  {
+    "kz": "заңды",
+    "en": "legitimate,legal",
+    "zh": "合法，合法"
   },
   {
     "kz": "заңды түрде",
@@ -3860,9 +5215,19 @@
     "zh": "珠宝"
   },
   {
+    "kz": "зерттеу",
+    "en": "explore,study,exploration,examine,research,investigate",
+    "zh": "探索，研究，探索，检查，研究，调查"
+  },
+  {
     "kz": "зерттеуші",
     "en": "researcher",
     "zh": "研究员"
+  },
+  {
+    "kz": "зертхана",
+    "en": "laboratory,lab",
+    "zh": "实验室，实验室"
   },
   {
     "kz": "зеңбірек",
@@ -3883,6 +5248,16 @@
     "kz": "зорлау",
     "en": "rape",
     "zh": "强奸"
+  },
+  {
+    "kz": "зомбылық",
+    "en": "violence,violent",
+    "zh": "暴力，暴力"
+  },
+  {
+    "kz": "зымыран",
+    "en": "missile,rocket",
+    "zh": "导弹，火箭"
   },
   {
     "kz": "зұлымдық",
@@ -3908,6 +5283,11 @@
     "kz": "иек",
     "en": "chin",
     "zh": "下巴"
+  },
+  {
+    "kz": "иелену",
+    "en": "possess,possession,ownership",
+    "zh": "拥有，占有，所有权"
   },
   {
     "kz": "иесі",
@@ -3948,6 +5328,11 @@
     "kz": "импорттау",
     "en": "import",
     "zh": "进口"
+  },
+  {
+    "kz": "импульс",
+    "en": "pulse,impulse,momentum",
+    "zh": "脉冲，脉冲，动量"
   },
   {
     "kz": "инвестиция",
@@ -4075,6 +5460,16 @@
     "zh": "耸肩"
   },
   {
+    "kz": "иілу",
+    "en": "bend,tuck,fold",
+    "zh": "弯曲，收起，折叠"
+  },
+  {
+    "kz": "иісі",
+    "en": "smell,scent",
+    "zh": "气味，气味"
+  },
+  {
     "kz": "к",
     "en": "to",
     "zh": "自"
@@ -4100,6 +5495,11 @@
     "zh": "赌场"
   },
   {
+    "kz": "камера",
+    "en": "chamber,camera",
+    "zh": "腔室，相机"
+  },
+  {
     "kz": "кампус",
     "en": "campus",
     "zh": "校园"
@@ -4113,6 +5513,11 @@
     "kz": "капитан",
     "en": "captain",
     "zh": "船长"
+  },
+  {
+    "kz": "карта",
+    "en": "card,map",
+    "zh": "卡片，地图"
   },
   {
     "kz": "картоп",
@@ -4133,6 +5538,11 @@
     "kz": "кедейлік",
     "en": "poverty",
     "zh": "贫困"
+  },
+  {
+    "kz": "кедергі",
+    "en": "barrier,obstacle,stir",
+    "zh": "屏障，障碍物，搅拌"
   },
   {
     "kz": "кез келген",
@@ -4160,9 +5570,24 @@
     "zh": "徘徊"
   },
   {
+    "kz": "кездейсоқ",
+    "en": "random,occasional",
+    "zh": "随机，偶尔"
+  },
+  {
+    "kz": "кездесу",
+    "en": "meeting,meet",
+    "zh": "会议，会议"
+  },
+  {
     "kz": "кезек",
     "en": "turn",
     "zh": "转"
+  },
+  {
+    "kz": "кезең",
+    "en": "stage,period",
+    "zh": "阶段，期间"
   },
   {
     "kz": "кейбір",
@@ -4173,6 +5598,11 @@
     "kz": "кейбіреулер",
     "en": "some",
     "zh": "一些"
+  },
+  {
+    "kz": "кейде",
+    "en": "sometime,sometimes",
+    "zh": "有时，有时"
   },
   {
     "kz": "кейін",
@@ -4198,6 +5628,16 @@
     "kz": "кек",
     "en": "spite",
     "zh": "尽管"
+  },
+  {
+    "kz": "келесі",
+    "en": "next,subsequent,following",
+    "zh": "下一个，后续，后续"
+  },
+  {
+    "kz": "келу",
+    "en": "come,arrival,arrive,visit,attend",
+    "zh": "来，到，到达，参观，参加"
   },
   {
     "kz": "келуші",
@@ -4230,9 +5670,19 @@
     "zh": "谈判"
   },
   {
+    "kz": "келісім",
+    "en": "consensus,agreement,convention,engagement,consent",
+    "zh": "共识，协议，约定，承诺，同意"
+  },
+  {
     "kz": "келісімшарт",
     "en": "contract",
     "zh": "合同"
+  },
+  {
+    "kz": "кеме",
+    "en": "vessel,ship",
+    "zh": "船舶，船舶"
   },
   {
     "kz": "кемсітушілік",
@@ -4245,6 +5695,11 @@
     "zh": "帆布"
   },
   {
+    "kz": "кенеттен",
+    "en": "sudden,suddenly",
+    "zh": "突然，突然"
+  },
+  {
     "kz": "кептірілген",
     "en": "dried",
     "zh": "干"
@@ -4253,6 +5708,26 @@
     "kz": "кепілге алынған",
     "en": "hostage",
     "zh": "人质"
+  },
+  {
+    "kz": "кепілдік",
+    "en": "ensure,guarantee",
+    "zh": "保证，保证"
+  },
+  {
+    "kz": "керек",
+    "en": "ought,must,shall,should",
+    "zh": "应该，必须，应该，应该"
+  },
+  {
+    "kz": "керемет",
+    "en": "terrific,great,amazing,striking,excellent,remarkable,incredibly,incredible,surprising",
+    "zh": "了不起，伟大，惊人，惊人，卓越，非凡，难以置信，难以置信，令人惊讶"
+  },
+  {
+    "kz": "кернеу",
+    "en": "tension,strain",
+    "zh": "张力，应变"
   },
   {
     "kz": "кері",
@@ -4280,9 +5755,24 @@
     "zh": "附表"
   },
   {
+    "kz": "кесу",
+    "en": "cut,carve,chop",
+    "zh": "切割，雕刻，切碎"
+  },
+  {
     "kz": "кету",
     "en": "depart",
     "zh": "离开"
+  },
+  {
+    "kz": "кеуде",
+    "en": "chest,breast",
+    "zh": "胸部，乳房"
+  },
+  {
+    "kz": "кеш",
+    "en": "party,late,evening",
+    "zh": "派对，深夜，晚上"
   },
   {
     "kz": "кеше",
@@ -4315,14 +5805,39 @@
     "zh": "不好意思"
   },
   {
+    "kz": "кең",
+    "en": "widely,extensive,broad,vast,wide",
+    "zh": "广"
+  },
+  {
     "kz": "кең таралған",
     "en": "widespread",
     "zh": "广泛"
   },
   {
+    "kz": "кеңейту",
+    "en": "extension,expansion,extend,expand",
+    "zh": "扩展，扩展，扩展，扩展"
+  },
+  {
     "kz": "кеңейтілген",
     "en": "extended",
     "zh": "扩展"
+  },
+  {
+    "kz": "кеңес",
+    "en": "tip,advice,hint,council",
+    "zh": "提示，建议，提示，理事会"
+  },
+  {
+    "kz": "кеңес беру",
+    "en": "counseling,consult,advise",
+    "zh": "咨询，咨询，建议"
+  },
+  {
+    "kz": "кеңесші",
+    "en": "adviser,consultant,counselor",
+    "zh": "顾问，顾问，顾问"
   },
   {
     "kz": "кеңсе",
@@ -4348,5 +5863,6045 @@
     "kz": "кию",
     "en": "wear",
     "zh": "穿"
+  },
+  {
+    "kz": "киім",
+    "en": "clothes,clothing",
+    "zh": "衣服，衣服"
+  },
+  {
+    "kz": "классикалық",
+    "en": "classic,classical",
+    "zh": "经典，古典"
+  },
+  {
+    "kz": "кластер",
+    "en": "cluster",
+    "zh": "簇"
+  },
+  {
+    "kz": "клиент",
+    "en": "client",
+    "zh": "客户"
+  },
+  {
+    "kz": "климаты",
+    "en": "climate",
+    "zh": "气候"
+  },
+  {
+    "kz": "клиникалық",
+    "en": "clinical",
+    "zh": "临床"
+  },
+  {
+    "kz": "клуб",
+    "en": "club",
+    "zh": "俱乐部"
+  },
+  {
+    "kz": "коалиция",
+    "en": "coalition",
+    "zh": "联盟"
+  },
+  {
+    "kz": "код",
+    "en": "code",
+    "zh": "法典"
+  },
+  {
+    "kz": "кокаин",
+    "en": "cocaine",
+    "zh": "可卡因"
+  },
+  {
+    "kz": "колледж",
+    "en": "college",
+    "zh": "大学"
+  },
+  {
+    "kz": "колония",
+    "en": "colony",
+    "zh": "殖民地"
+  },
+  {
+    "kz": "команда",
+    "en": "squad,command,team",
+    "zh": "班，指挥，团队"
+  },
+  {
+    "kz": "командалас",
+    "en": "teammate",
+    "zh": "队友"
+  },
+  {
+    "kz": "командир",
+    "en": "commander",
+    "zh": "指挥官"
+  },
+  {
+    "kz": "комбинация",
+    "en": "combination",
+    "zh": "组合"
+  },
+  {
+    "kz": "комедия",
+    "en": "comedy",
+    "zh": "喜剧"
+  },
+  {
+    "kz": "комиссия",
+    "en": "commission",
+    "zh": "委员会"
+  },
+  {
+    "kz": "комитет",
+    "en": "committee",
+    "zh": "委员会"
+  },
+  {
+    "kz": "коммерциялық",
+    "en": "commercial",
+    "zh": "商业"
+  },
+  {
+    "kz": "коммерциялық емес",
+    "en": "nonprofit",
+    "zh": "公益性"
+  },
+  {
+    "kz": "компания",
+    "en": "company",
+    "zh": "公司"
+  },
+  {
+    "kz": "компаға келу",
+    "en": "compromise",
+    "zh": "妥协"
+  },
+  {
+    "kz": "композиция",
+    "en": "composition",
+    "zh": "组成"
+  },
+  {
+    "kz": "компонент",
+    "en": "component",
+    "zh": "元件"
+  },
+  {
+    "kz": "компьютер",
+    "en": "computer",
+    "zh": "计算机"
+  },
+  {
+    "kz": "конверт",
+    "en": "envelope",
+    "zh": "信封"
+  },
+  {
+    "kz": "конгрессмен",
+    "en": "congressional",
+    "zh": "国会"
+  },
+  {
+    "kz": "консервативті",
+    "en": "conservative",
+    "zh": "保守的"
+  },
+  {
+    "kz": "конституция",
+    "en": "constitution",
+    "zh": "宪法"
+  },
+  {
+    "kz": "контейнер",
+    "en": "container",
+    "zh": "容器"
+  },
+  {
+    "kz": "контекст",
+    "en": "context",
+    "zh": "上下文"
+  },
+  {
+    "kz": "контраст",
+    "en": "contrast",
+    "zh": "反差"
+  },
+  {
+    "kz": "контур",
+    "en": "outline",
+    "zh": "大纲"
+  },
+  {
+    "kz": "конференция",
+    "en": "conference",
+    "zh": "会议"
+  },
+  {
+    "kz": "концентрат",
+    "en": "concentrate",
+    "zh": "集中"
+  },
+  {
+    "kz": "концерт",
+    "en": "concert",
+    "zh": "音乐会"
+  },
+  {
+    "kz": "кооператив",
+    "en": "cooperative",
+    "zh": "合作社"
+  },
+  {
+    "kz": "корольдік",
+    "en": "royal",
+    "zh": "皇家"
+  },
+  {
+    "kz": "корпоративтік",
+    "en": "corporate",
+    "zh": "企业"
+  },
+  {
+    "kz": "корпорация",
+    "en": "corporation",
+    "zh": "公司"
+  },
+  {
+    "kz": "костюм",
+    "en": "costume",
+    "zh": "服装"
+  },
+  {
+    "kz": "коттедж",
+    "en": "cottage",
+    "zh": "山寨"
+  },
+  {
+    "kz": "кофе",
+    "en": "coffee",
+    "zh": "咖啡"
+  },
+  {
+    "kz": "кран",
+    "en": "tap",
+    "zh": "水龙头"
+  },
+  {
+    "kz": "крем",
+    "en": "cream",
+    "zh": "奶油"
+  },
+  {
+    "kz": "кристалл",
+    "en": "crystal",
+    "zh": "晶体"
+  },
+  {
+    "kz": "критерий",
+    "en": "criteria",
+    "zh": "标准"
+  },
+  {
+    "kz": "круиз",
+    "en": "cruise",
+    "zh": "巡航"
+  },
+  {
+    "kz": "курорт",
+    "en": "resort",
+    "zh": "诉诸"
+  },
+  {
+    "kz": "курс",
+    "en": "course",
+    "zh": "课程"
+  },
+  {
+    "kz": "куәгер",
+    "en": "witness",
+    "zh": "证人"
+  },
+  {
+    "kz": "куәлік",
+    "en": "testify,testimony",
+    "zh": "作证，作证"
+  },
+  {
+    "kz": "кідірту",
+    "en": "pause,suspend",
+    "zh": "暂停，暂停"
+  },
+  {
+    "kz": "кідіріс",
+    "en": "delay",
+    "zh": "延迟"
+  },
+  {
+    "kz": "кілем",
+    "en": "carpet",
+    "zh": "地毯"
+  },
+  {
+    "kz": "кілт",
+    "en": "clue,key",
+    "zh": "线索，钥匙"
+  },
+  {
+    "kz": "кім",
+    "en": "who",
+    "zh": "谁"
+  },
+  {
+    "kz": "кім болса да",
+    "en": "whoever",
+    "zh": "谁"
+  },
+  {
+    "kz": "кімге",
+    "en": "whom",
+    "zh": "谁"
+  },
+  {
+    "kz": "кімнің",
+    "en": "whose",
+    "zh": "谁的"
+  },
+  {
+    "kz": "кінә сезімі",
+    "en": "guilt",
+    "zh": "内疚"
+  },
+  {
+    "kz": "кінәлі",
+    "en": "guilty",
+    "zh": "有罪"
+  },
+  {
+    "kz": "кір",
+    "en": "mud,dirt",
+    "zh": "泥土，泥土"
+  },
+  {
+    "kz": "кір жуу",
+    "en": "laundry",
+    "zh": "洗衣店"
+  },
+  {
+    "kz": "кіреберіс",
+    "en": "porch",
+    "zh": "门廊"
+  },
+  {
+    "kz": "кірпіш",
+    "en": "brick",
+    "zh": "砖"
+  },
+  {
+    "kz": "кіру",
+    "en": "entry,input,enter,admission,entrance",
+    "zh": "入口，输入，进入，入场，入口"
+  },
+  {
+    "kz": "кіріспе",
+    "en": "introduction",
+    "zh": "介绍"
+  },
+  {
+    "kz": "кірістіру",
+    "en": "insert",
+    "zh": "插入"
+  },
+  {
+    "kz": "кісі өлтіру",
+    "en": "killing,murder",
+    "zh": "杀戮，杀人"
+  },
+  {
+    "kz": "кітап",
+    "en": "book",
+    "zh": "书"
+  },
+  {
+    "kz": "кітапхана",
+    "en": "library",
+    "zh": "图书馆"
+  },
+  {
+    "kz": "кішкентай",
+    "en": "small,shallow,little,tiny",
+    "zh": "小，浅，小，小"
+  },
+  {
+    "kz": "кіші",
+    "en": "junior",
+    "zh": "初级"
+  },
+  {
+    "kz": "кішіпейіл",
+    "en": "modest",
+    "zh": "谦虚"
+  },
+  {
+    "kz": "күдік",
+    "en": "suspicion",
+    "zh": "怀疑"
+  },
+  {
+    "kz": "күдіктену",
+    "en": "suspect",
+    "zh": "怀疑"
+  },
+  {
+    "kz": "күдікті",
+    "en": "suspicious",
+    "zh": "可疑"
+  },
+  {
+    "kz": "күзет",
+    "en": "guard",
+    "zh": "警卫"
+  },
+  {
+    "kz": "күйдіру",
+    "en": "burn",
+    "zh": "烧"
+  },
+  {
+    "kz": "күйеуі",
+    "en": "husband",
+    "zh": "老公"
+  },
+  {
+    "kz": "күл",
+    "en": "ash",
+    "zh": "灰"
+  },
+  {
+    "kz": "күлгін",
+    "en": "purple",
+    "zh": "紫色"
+  },
+  {
+    "kz": "күлкі",
+    "en": "laughter",
+    "zh": "笑声"
+  },
+  {
+    "kz": "күлкілі",
+    "en": "ridiculous",
+    "zh": "荒谬"
+  },
+  {
+    "kz": "күлу",
+    "en": "laugh",
+    "zh": "笑"
+  },
+  {
+    "kz": "күлімсіреу",
+    "en": "smile",
+    "zh": "微笑"
+  },
+  {
+    "kz": "күміс",
+    "en": "silver",
+    "zh": "银"
+  },
+  {
+    "kz": "күмән",
+    "en": "doubt",
+    "zh": "怀疑"
+  },
+  {
+    "kz": "күн",
+    "en": "day,sun",
+    "zh": "白天，太阳"
+  },
+  {
+    "kz": "күн сәулесі",
+    "en": "sunlight",
+    "zh": "阳光"
+  },
+  {
+    "kz": "күн тәртібі",
+    "en": "agenda",
+    "zh": "议程"
+  },
+  {
+    "kz": "күн шуақты",
+    "en": "sunny,solar",
+    "zh": "晴朗，太阳能"
+  },
+  {
+    "kz": "күнделік",
+    "en": "diary",
+    "zh": "日记"
+  },
+  {
+    "kz": "күнделікті",
+    "en": "daily,everyday,casual,routine",
+    "zh": "每日，日常，休闲，例行公事"
+  },
+  {
+    "kz": "күндіз",
+    "en": "afternoon",
+    "zh": "下午"
+  },
+  {
+    "kz": "күнтізбе",
+    "en": "calendar",
+    "zh": "日历"
+  },
+  {
+    "kz": "күні",
+    "en": "date",
+    "zh": "日期"
+  },
+  {
+    "kz": "күнә",
+    "en": "sin",
+    "zh": "罪"
+  },
+  {
+    "kz": "күрделі",
+    "en": "complicated,complex",
+    "zh": "复杂，复杂"
+  },
+  {
+    "kz": "күрделілігі",
+    "en": "complexity",
+    "zh": "复杂性"
+  },
+  {
+    "kz": "күрес",
+    "en": "struggle,contend",
+    "zh": "奋斗，争斗"
+  },
+  {
+    "kz": "күрсіну",
+    "en": "sigh",
+    "zh": "叹息"
+  },
+  {
+    "kz": "күрт",
+    "en": "sharply",
+    "zh": "大幅"
+  },
+  {
+    "kz": "күріш",
+    "en": "rice",
+    "zh": "米"
+  },
+  {
+    "kz": "күтпеген",
+    "en": "unexpected",
+    "zh": "意外"
+  },
+  {
+    "kz": "күту",
+    "en": "wait,expect,await,expectation",
+    "zh": "等待，期待，等待，期待"
+  },
+  {
+    "kz": "күтілуде",
+    "en": "expected",
+    "zh": "预期"
+  },
+  {
+    "kz": "күш",
+    "en": "effort,force,power,strength",
+    "zh": "努力，力量，力量，力量"
+  },
+  {
+    "kz": "күшейту",
+    "en": "reinforce,enhance,increasingly,strengthen",
+    "zh": "加强，增强，日益加强，加强"
+  },
+  {
+    "kz": "күшті",
+    "en": "strong",
+    "zh": "强"
+  },
+  {
+    "kz": "күңкілдеу",
+    "en": "mutter",
+    "zh": "穆特"
+  },
+  {
+    "kz": "кәмпит",
+    "en": "candy",
+    "zh": "糖果"
+  },
+  {
+    "kz": "кәстрөл",
+    "en": "pan,pot",
+    "zh": "平底锅，锅"
+  },
+  {
+    "kz": "кәсіби",
+    "en": "professional",
+    "zh": "专业的"
+  },
+  {
+    "kz": "кәсіпкер",
+    "en": "entrepreneur,businessman",
+    "zh": "企业家，商人"
+  },
+  {
+    "kz": "кәсіпорын",
+    "en": "enterprise,venture",
+    "zh": "企业，风险投资"
+  },
+  {
+    "kz": "көбелек",
+    "en": "butterfly",
+    "zh": "蝴蝶"
+  },
+  {
+    "kz": "көбірек",
+    "en": "more",
+    "zh": "更多"
+  },
+  {
+    "kz": "көгал",
+    "en": "lawn",
+    "zh": "草坪"
+  },
+  {
+    "kz": "көз",
+    "en": "stare,eye",
+    "zh": "盯着，眼睛"
+  },
+  {
+    "kz": "көйлек",
+    "en": "shirt,dress",
+    "zh": "衬衫，连衣裙"
+  },
+  {
+    "kz": "көк",
+    "en": "blue",
+    "zh": "蓝"
+  },
+  {
+    "kz": "көкжиек",
+    "en": "horizon",
+    "zh": "地平线"
+  },
+  {
+    "kz": "көктем",
+    "en": "spring",
+    "zh": "春天"
+  },
+  {
+    "kz": "көкөніс",
+    "en": "vegetable",
+    "zh": "蔬菜"
+  },
+  {
+    "kz": "көл",
+    "en": "lake",
+    "zh": "湖"
+  },
+  {
+    "kz": "көлбеу",
+    "en": "slope",
+    "zh": "坡"
+  },
+  {
+    "kz": "көлемі",
+    "en": "volume",
+    "zh": "卷"
+  },
+  {
+    "kz": "көлеңке",
+    "en": "shade,shadow",
+    "zh": "阴影，阴影"
+  },
+  {
+    "kz": "көлік",
+    "en": "automobile,transport",
+    "zh": "汽车，运输"
+  },
+  {
+    "kz": "көлік жүргізу",
+    "en": "driving",
+    "zh": "驾驶"
+  },
+  {
+    "kz": "көлік құралы",
+    "en": "vehicle",
+    "zh": "车辆"
+  },
+  {
+    "kz": "көмек",
+    "en": "aid,assist,help,assistance",
+    "zh": "援助，协助，帮助，协助"
+  },
+  {
+    "kz": "көмекші",
+    "en": "assistant,aide",
+    "zh": "助理，助理"
+  },
+  {
+    "kz": "көму",
+    "en": "bury",
+    "zh": "埋葬"
+  },
+  {
+    "kz": "көмір",
+    "en": "coal",
+    "zh": "煤"
+  },
+  {
+    "kz": "көмірсулар",
+    "en": "carbohydrate",
+    "zh": "碳水化合物"
+  },
+  {
+    "kz": "көміртек",
+    "en": "carbon",
+    "zh": "碳"
+  },
+  {
+    "kz": "көп",
+    "en": "plenty,much,lots,lot,numerous,many",
+    "zh": "很多，很多，很多，很多，很多，很多"
+  },
+  {
+    "kz": "көпше",
+    "en": "multiple",
+    "zh": "倍数"
+  },
+  {
+    "kz": "көпшілігі",
+    "en": "majority",
+    "zh": "大多数"
+  },
+  {
+    "kz": "көпшілік",
+    "en": "crowd",
+    "zh": "人群"
+  },
+  {
+    "kz": "көпшілік алдында",
+    "en": "publicly",
+    "zh": "公然地"
+  },
+  {
+    "kz": "көпір",
+    "en": "bridge",
+    "zh": "桥"
+  },
+  {
+    "kz": "көпіршік",
+    "en": "bubble",
+    "zh": "泡沫"
+  },
+  {
+    "kz": "көрермен",
+    "en": "viewer",
+    "zh": "观众"
+  },
+  {
+    "kz": "көркем",
+    "en": "artistic",
+    "zh": "艺术的"
+  },
+  {
+    "kz": "көркем әдебиет",
+    "en": "fiction",
+    "zh": "小说"
+  },
+  {
+    "kz": "көрме",
+    "en": "exhibition,exhibit",
+    "zh": "展览，展览"
+  },
+  {
+    "kz": "көрнекті",
+    "en": "outstanding,prominent",
+    "zh": "杰出，突出"
+  },
+  {
+    "kz": "көрнекі",
+    "en": "visual",
+    "zh": "视觉"
+  },
+  {
+    "kz": "көрпе",
+    "en": "blanket",
+    "zh": "毯子"
+  },
+  {
+    "kz": "көрсеткіш",
+    "en": "indicator,indication",
+    "zh": "指示器，指示"
+  },
+  {
+    "kz": "көрсету",
+    "en": "demonstrate,show,indicate,specify,render",
+    "zh": "演示，显示，指示，指定，呈现"
+  },
+  {
+    "kz": "көру",
+    "en": "vision",
+    "zh": "视觉"
+  },
+  {
+    "kz": "көрші",
+    "en": "neighbor,neighboring",
+    "zh": "邻居，邻居"
+  },
+  {
+    "kz": "көршілік",
+    "en": "neighborhood",
+    "zh": "附近"
+  },
+  {
+    "kz": "көрінбейтін",
+    "en": "invisible",
+    "zh": "无形"
+  },
+  {
+    "kz": "көрінетін",
+    "en": "visible",
+    "zh": "可见"
+  },
+  {
+    "kz": "көріну",
+    "en": "seem",
+    "zh": "似乎"
+  },
+  {
+    "kz": "көрініс",
+    "en": "glance,sight,glimpse",
+    "zh": "一瞥，视线，一瞥"
+  },
+  {
+    "kz": "көріңіз",
+    "en": "try",
+    "zh": "尝试"
+  },
+  {
+    "kz": "көтеру",
+    "en": "lift,rise,raise,boost",
+    "zh": "提升，上升，提升，提升"
+  },
+  {
+    "kz": "көшбасшы",
+    "en": "leader",
+    "zh": "领导"
+  },
+  {
+    "kz": "көше",
+    "en": "street",
+    "zh": "街"
+  },
+  {
+    "kz": "қон",
+    "en": "migration",
+    "zh": "迁移"
+  },
+  {
+    "kz": "көшірмесі",
+    "en": "counterpart",
+    "zh": "对方"
+  },
+  {
+    "kz": "көшіру",
+    "en": "copy",
+    "zh": "复制"
+  },
+  {
+    "kz": "көңіл көтеру",
+    "en": "entertainment",
+    "zh": "娱乐"
+  },
+  {
+    "kz": "күй",
+    "en": "sentiment,mood",
+    "zh": "情绪，情绪"
+  },
+  {
+    "kz": "көңілсіздік",
+    "en": "disappointment,frustration",
+    "zh": "失望，沮丧"
+  },
+  {
+    "kz": "көңілі қалған",
+    "en": "disappointed",
+    "zh": "失望"
+  },
+  {
+    "kz": "лагерь",
+    "en": "camp",
+    "zh": "营地"
+  },
+  {
+    "kz": "лазер",
+    "en": "laser",
+    "zh": "激光"
+  },
+  {
+    "kz": "лайық",
+    "en": "deserve",
+    "zh": "值得"
+  },
+  {
+    "kz": "лайықты",
+    "en": "decent",
+    "zh": "体面"
+  },
+  {
+    "kz": "лас",
+    "en": "dirty",
+    "zh": "脏"
+  },
+  {
+    "kz": "ластану",
+    "en": "pollution",
+    "zh": "污染"
+  },
+  {
+    "kz": "лақтыру",
+    "en": "throw,cast",
+    "zh": "投掷，投掷"
+  },
+  {
+    "kz": "лезде",
+    "en": "instant",
+    "zh": "瞬间"
+  },
+  {
+    "kz": "либералды",
+    "en": "liberal",
+    "zh": "自由"
+  },
+  {
+    "kz": "лига",
+    "en": "league",
+    "zh": "联盟"
+  },
+  {
+    "kz": "лимон",
+    "en": "lemon",
+    "zh": "柠檬"
+  },
+  {
+    "kz": "лифт",
+    "en": "elevator",
+    "zh": "电梯"
+  },
+  {
+    "kz": "лицензия",
+    "en": "license",
+    "zh": "许可证"
+  },
+  {
+    "kz": "логика",
+    "en": "logic",
+    "zh": "逻辑"
+  },
+  {
+    "kz": "логикалық",
+    "en": "logical",
+    "zh": "逻辑"
+  },
+  {
+    "kz": "лосось",
+    "en": "salmon",
+    "zh": "鲑鱼"
+  },
+  {
+    "kz": "ләззат",
+    "en": "pleasure",
+    "zh": "快乐"
+  },
+  {
+    "kz": "ләззат алыңыз",
+    "en": "enjoy",
+    "zh": "享受"
+  },
+  {
+    "kz": "мазалаңыз",
+    "en": "bother,disturb",
+    "zh": "打扰，打扰"
+  },
+  {
+    "kz": "мазасыз",
+    "en": "disturbing,concerned,troubled",
+    "zh": "烦恼，关心，烦恼"
+  },
+  {
+    "kz": "мазасыздық",
+    "en": "alarm,concern,anxiety",
+    "zh": "惊慌，担忧，焦虑"
+  },
+  {
+    "kz": "мазмұны",
+    "en": "content",
+    "zh": "内容"
+  },
+  {
+    "kz": "май",
+    "en": "fat,oil",
+    "zh": "脂肪，油"
+  },
+  {
+    "kz": "майлы",
+    "en": "bold",
+    "zh": "大胆"
+  },
+  {
+    "kz": "маймыл",
+    "en": "monkey",
+    "zh": "猴子"
+  },
+  {
+    "kz": "макарон",
+    "en": "pasta",
+    "zh": "意大利面食"
+  },
+  {
+    "kz": "максималды",
+    "en": "maximum",
+    "zh": "最大"
+  },
+  {
+    "kz": "маман",
+    "en": "specialist",
+    "zh": "专家"
+  },
+  {
+    "kz": "мамандандыру",
+    "en": "specialize",
+    "zh": "专攻"
+  },
+  {
+    "kz": "мамандығы",
+    "en": "specialty",
+    "zh": "专业"
+  },
+  {
+    "kz": "мамандық",
+    "en": "profession",
+    "zh": "职业"
+  },
+  {
+    "kz": "мандат",
+    "en": "mandate",
+    "zh": "命令"
+  },
+  {
+    "kz": "манипуляциялау",
+    "en": "manipulate",
+    "zh": "操纵"
+  },
+  {
+    "kz": "мансап",
+    "en": "career",
+    "zh": "生涯"
+  },
+  {
+    "kz": "маркасы",
+    "en": "brand",
+    "zh": "品牌"
+  },
+  {
+    "kz": "маркер",
+    "en": "marker",
+    "zh": "标记"
+  },
+  {
+    "kz": "маркетинг",
+    "en": "marketing",
+    "zh": "营销"
+  },
+  {
+    "kz": "мас",
+    "en": "drunk",
+    "zh": "醉"
+  },
+  {
+    "kz": "массасы",
+    "en": "mass",
+    "zh": "质量"
+  },
+  {
+    "kz": "массив",
+    "en": "array",
+    "zh": "数组"
+  },
+  {
+    "kz": "масштаб",
+    "en": "scale,scope",
+    "zh": "规模，范围"
+  },
+  {
+    "kz": "мата",
+    "en": "fabric,tissue,cloth",
+    "zh": "面料，纸巾，布料"
+  },
+  {
+    "kz": "математика",
+    "en": "mathematics,math",
+    "zh": "数学，数学"
+  },
+  {
+    "kz": "материал",
+    "en": "stuff,material",
+    "zh": "东西，材料"
+  },
+  {
+    "kz": "маусым",
+    "en": "season",
+    "zh": "季节"
+  },
+  {
+    "kz": "махаббат",
+    "en": "love",
+    "zh": "爱"
+  },
+  {
+    "kz": "машина",
+    "en": "machine,car",
+    "zh": "机器，汽车"
+  },
+  {
+    "kz": "маған",
+    "en": "me",
+    "zh": "我"
+  },
+  {
+    "kz": "мағынасы",
+    "en": "meaning",
+    "zh": "意义"
+  },
+  {
+    "kz": "мақала",
+    "en": "article",
+    "zh": "品"
+  },
+  {
+    "kz": "мақсаты",
+    "en": "objective,assignment,purpose,target,nomination,appointment,aim,goal",
+    "zh": "目标，分配，目的，目标，提名，任命，宗旨，目标"
+  },
+  {
+    "kz": "мақта",
+    "en": "cotton,pop",
+    "zh": "棉花，流行音乐"
+  },
+  {
+    "kz": "мақтану",
+    "en": "boast",
+    "zh": "吹嘘"
+  },
+  {
+    "kz": "мақтаншақ",
+    "en": "proud",
+    "zh": "骄傲"
+  },
+  {
+    "kz": "мақтаныш",
+    "en": "pride",
+    "zh": "自豪"
+  },
+  {
+    "kz": "мақтау",
+    "en": "praise",
+    "zh": "赞美"
+  },
+  {
+    "kz": "мақұлдау",
+    "en": "approve,endorse",
+    "zh": "批准，认可"
+  },
+  {
+    "kz": "маңдай",
+    "en": "forehead",
+    "zh": "前额"
+  },
+  {
+    "kz": "маңызды",
+    "en": "importantly,important,substantial,essential,considerable,significantly,meaningful,significant",
+    "zh": "重要，重要，实质性，必要，相当，显着，有意义，重要"
+  },
+  {
+    "kz": "маңыздылығы",
+    "en": "importance,worth,significance",
+    "zh": "重要性，价值，意义"
+  },
+  {
+    "kz": "медаль",
+    "en": "medal",
+    "zh": "奖章"
+  },
+  {
+    "kz": "медбике",
+    "en": "nurse",
+    "zh": "护士"
+  },
+  {
+    "kz": "медициналық",
+    "en": "medical",
+    "zh": "医疗"
+  },
+  {
+    "kz": "мейрамхана",
+    "en": "restaurant",
+    "zh": "餐厅"
+  },
+  {
+    "kz": "мейірімді",
+    "en": "kind",
+    "zh": "类"
+  },
+  {
+    "kz": "мекеме",
+    "en": "establishment,institution",
+    "zh": "机构，机构"
+  },
+  {
+    "kz": "жайы",
+    "en": "address",
+    "zh": "地址"
+  },
+  {
+    "kz": "мектеп",
+    "en": "school",
+    "zh": "学校"
+  },
+  {
+    "kz": "мемлекет",
+    "en": "state",
+    "zh": "州"
+  },
+  {
+    "kz": "менеджер",
+    "en": "manager",
+    "zh": "经理"
+  },
+  {
+    "kz": "меншік",
+    "en": "property",
+    "zh": "财产"
+  },
+  {
+    "kz": "меншікті",
+    "en": "own",
+    "zh": "有"
+  },
+  {
+    "kz": "менің",
+    "en": "mine,my",
+    "zh": "我的，我的"
+  },
+  {
+    "kz": "мердігер",
+    "en": "contractor",
+    "zh": "承包商"
+  },
+  {
+    "kz": "мерейтой",
+    "en": "anniversary",
+    "zh": "周年"
+  },
+  {
+    "kz": "мереке",
+    "en": "holiday,celebration",
+    "zh": "节日，庆典"
+  },
+  {
+    "kz": "мерекелеу",
+    "en": "celebrate",
+    "zh": "庆祝"
+  },
+  {
+    "kz": "мерзімді түрде",
+    "en": "occasionally",
+    "zh": "偶尔"
+  },
+  {
+    "kz": "мерзімі",
+    "en": "term,deadline",
+    "zh": "期限，截止日期"
+  },
+  {
+    "kz": "металл",
+    "en": "metal",
+    "zh": "金属"
+  },
+  {
+    "kz": "метафора",
+    "en": "metaphor",
+    "zh": "隐喻"
+  },
+  {
+    "kz": "метр",
+    "en": "meter",
+    "zh": "米"
+  },
+  {
+    "kz": "механизмі",
+    "en": "mechanism,gear",
+    "zh": "机构，齿轮"
+  },
+  {
+    "kz": "механик",
+    "en": "mechanic",
+    "zh": "技工"
+  },
+  {
+    "kz": "механикалық",
+    "en": "mechanical",
+    "zh": "机械"
+  },
+  {
+    "kz": "меценат",
+    "en": "patron",
+    "zh": "靠山"
+  },
+  {
+    "kz": "ми",
+    "en": "brain",
+    "zh": "脑"
+  },
+  {
+    "kz": "миллиард",
+    "en": "billion",
+    "zh": "十亿"
+  },
+  {
+    "kz": "миллион",
+    "en": "million",
+    "zh": "百万"
+  },
+  {
+    "kz": "минерал",
+    "en": "mineral",
+    "zh": "矿物"
+  },
+  {
+    "kz": "минималды",
+    "en": "minimum,minimal",
+    "zh": "最小值，最小值"
+  },
+  {
+    "kz": "министр",
+    "en": "minister",
+    "zh": "部长"
+  },
+  {
+    "kz": "министрлік",
+    "en": "ministry",
+    "zh": "部"
+  },
+  {
+    "kz": "минут",
+    "en": "minute",
+    "zh": "分钟"
+  },
+  {
+    "kz": "мисс",
+    "en": "miss",
+    "zh": "思念"
+  },
+  {
+    "kz": "миссионерлік",
+    "en": "missionary",
+    "zh": "传教士"
+  },
+  {
+    "kz": "миссия",
+    "en": "mission",
+    "zh": "任务"
+  },
+  {
+    "kz": "митрополит",
+    "en": "metropolitan",
+    "zh": "大主教"
+  },
+  {
+    "kz": "миф",
+    "en": "myth",
+    "zh": "神话"
+  },
+  {
+    "kz": "мойын",
+    "en": "neck",
+    "zh": "脖子"
+  },
+  {
+    "kz": "мойындау",
+    "en": "confess,acknowledge,admit",
+    "zh": "坦白"
+  },
+  {
+    "kz": "молекула",
+    "en": "molecule",
+    "zh": "分子"
+  },
+  {
+    "kz": "монета",
+    "en": "coin",
+    "zh": "硬币"
+  },
+  {
+    "kz": "монитор",
+    "en": "monitor",
+    "zh": "监控"
+  },
+  {
+    "kz": "моральдық",
+    "en": "moral",
+    "zh": "道德"
+  },
+  {
+    "kz": "мотив",
+    "en": "motive",
+    "zh": "动机"
+  },
+  {
+    "kz": "мотивация",
+    "en": "motivation",
+    "zh": "赋予动机"
+  },
+  {
+    "kz": "музыка",
+    "en": "music",
+    "zh": "音乐"
+  },
+  {
+    "kz": "музыкалық",
+    "en": "musical",
+    "zh": "音樂劇"
+  },
+  {
+    "kz": "музыкант",
+    "en": "musician",
+    "zh": "音乐家"
+  },
+  {
+    "kz": "мультфильм",
+    "en": "cartoon",
+    "zh": "卡通"
+  },
+  {
+    "kz": "муниципалды",
+    "en": "municipal",
+    "zh": "市政"
+  },
+  {
+    "kz": "мылтық",
+    "en": "rifle,pistol",
+    "zh": "步枪，手枪"
+  },
+  {
+    "kz": "мылқау",
+    "en": "dumb",
+    "zh": "哑"
+  },
+  {
+    "kz": "мыналар",
+    "en": "these",
+    "zh": "这些"
+  },
+  {
+    "kz": "мырза",
+    "en": "sir",
+    "zh": "先生"
+  },
+  {
+    "kz": "мысал",
+    "en": "instance,example",
+    "zh": "实例，示例"
+  },
+  {
+    "kz": "мысық",
+    "en": "cat",
+    "zh": "猫"
+  },
+  {
+    "kz": "мың",
+    "en": "thousand",
+    "zh": "千"
+  },
+  {
+    "kz": "міндеттеме",
+    "en": "obligation,commitment",
+    "zh": "义务，承诺"
+  },
+  {
+    "kz": "міндетті",
+    "en": "necessarily",
+    "zh": "必然"
+  },
+  {
+    "kz": "міндетті болу",
+    "en": "owe",
+    "zh": "欠"
+  },
+  {
+    "kz": "міндеті",
+    "en": "duty",
+    "zh": "责任"
+  },
+  {
+    "kz": "құлық",
+    "en": "behavioral,behavior",
+    "zh": "行为，行为"
+  },
+  {
+    "kz": "мінездің ерекшелігі",
+    "en": "trait",
+    "zh": "特性"
+  },
+  {
+    "kz": "мінезі",
+    "en": "character",
+    "zh": "字符"
+  },
+  {
+    "kz": "мінсіз",
+    "en": "perfectly,ideal,perfect",
+    "zh": "完美，理想，完美"
+  },
+  {
+    "kz": "міну",
+    "en": "ride",
+    "zh": "骑"
+  },
+  {
+    "kz": "мүгедектер арбасы",
+    "en": "wheelchair",
+    "zh": "轮椅"
+  },
+  {
+    "kz": "мүгедектік",
+    "en": "disability",
+    "zh": "残疾"
+  },
+  {
+    "kz": "мүдделі",
+    "en": "interested",
+    "zh": "感兴趣"
+  },
+  {
+    "kz": "мүйіз",
+    "en": "horn",
+    "zh": "角"
+  },
+  {
+    "kz": "мүлдем",
+    "en": "absolutely",
+    "zh": "绝对"
+  },
+  {
+    "kz": "мүлік",
+    "en": "estate",
+    "zh": "房地产"
+  },
+  {
+    "kz": "мүмкін",
+    "en": "probably,maybe,could,possible,apparently,may,might,perhaps,possibly,can",
+    "zh": "可能，也许，可能，可能，显然，可能，可能，也许，可能，可以"
+  },
+  {
+    "kz": "мүмкін емес",
+    "en": "unable,impossible",
+    "zh": "无法，不可能"
+  },
+  {
+    "kz": "мүмкіндік",
+    "en": "chance,possibility,opportunity",
+    "zh": "机会，可能性，机会"
+  },
+  {
+    "kz": "мүмкіндіктер",
+    "en": "odds",
+    "zh": "赔率"
+  },
+  {
+    "kz": "мүсін",
+    "en": "sculpture,statue",
+    "zh": "雕塑，雕像"
+  },
+  {
+    "kz": "мүшелік",
+    "en": "membership",
+    "zh": "会员"
+  },
+  {
+    "kz": "мүшесі",
+    "en": "member",
+    "zh": "成员"
+  },
+  {
+    "kz": "мұз",
+    "en": "ice",
+    "zh": "冰"
+  },
+  {
+    "kz": "мұздату",
+    "en": "freeze",
+    "zh": "冻结"
+  },
+  {
+    "kz": "мұздатылған",
+    "en": "frozen",
+    "zh": "冷冻"
+  },
+  {
+    "kz": "мұнара",
+    "en": "tower",
+    "zh": "塔"
+  },
+  {
+    "kz": "мұнда",
+    "en": "here",
+    "zh": "这里"
+  },
+  {
+    "kz": "мұндай",
+    "en": "such",
+    "zh": "这样"
+  },
+  {
+    "kz": "мұра",
+    "en": "legacy,heritage",
+    "zh": "遗产，遗产"
+  },
+  {
+    "kz": "мұрагерлік",
+    "en": "inherit",
+    "zh": "继承"
+  },
+  {
+    "kz": "мұражай",
+    "en": "museum",
+    "zh": "博物馆"
+  },
+  {
+    "kz": "мұрын",
+    "en": "nose",
+    "zh": "鼻子"
+  },
+  {
+    "kz": "мұғалім",
+    "en": "teacher",
+    "zh": "老师"
+  },
+  {
+    "kz": "мұқият қарау",
+    "en": "gaze",
+    "zh": "目光"
+  },
+  {
+    "kz": "мәдени",
+    "en": "cultural",
+    "zh": "文化"
+  },
+  {
+    "kz": "мәдениет",
+    "en": "culture",
+    "zh": "文化"
+  },
+  {
+    "kz": "мәжбүрлеу",
+    "en": "compel,enforce,enforcement",
+    "zh": "强制"
+  },
+  {
+    "kz": "мәзір",
+    "en": "menu",
+    "zh": "菜单"
+  },
+  {
+    "kz": "мәліметтер базасы",
+    "en": "database",
+    "zh": "数据库"
+  },
+  {
+    "kz": "мәміле",
+    "en": "deal",
+    "zh": "交易"
+  },
+  {
+    "kz": "мәні",
+    "en": "entity,essence",
+    "zh": "实体，本质"
+  },
+  {
+    "kz": "мәні бойынша",
+    "en": "essentially,substantially",
+    "zh": "本质上，实质上"
+  },
+  {
+    "kz": "мәрмәр",
+    "en": "marble",
+    "zh": "大理石"
+  },
+  {
+    "kz": "мәртебесі",
+    "en": "status",
+    "zh": "地位"
+  },
+  {
+    "kz": "мәселе",
+    "en": "problem",
+    "zh": "问题"
+  },
+  {
+    "kz": "мәтін",
+    "en": "text",
+    "zh": "发短信"
+  },
+  {
+    "kz": "мәңгі",
+    "en": "forever",
+    "zh": "永远"
+  },
+  {
+    "kz": "мөлдір",
+    "en": "sheer",
+    "zh": "纯粹"
+  },
+  {
+    "kz": "назар аударыңыз",
+    "en": "attention",
+    "zh": "注意力"
+  },
+  {
+    "kz": "найзағай",
+    "en": "lightning",
+    "zh": "闪电"
+  },
+  {
+    "kz": "нан",
+    "en": "bread",
+    "zh": "面包"
+  },
+  {
+    "kz": "наразылық",
+    "en": "protest",
+    "zh": "抗议"
+  },
+  {
+    "kz": "нарық",
+    "en": "market",
+    "zh": "市场"
+  },
+  {
+    "kz": "натрий",
+    "en": "sodium",
+    "zh": "钠"
+  },
+  {
+    "kz": "науа",
+    "en": "tray",
+    "zh": "托盘"
+  },
+  {
+    "kz": "науқан",
+    "en": "campaign",
+    "zh": "运动"
+  },
+  {
+    "kz": "науқас",
+    "en": "sick,ill",
+    "zh": "生病，生病"
+  },
+  {
+    "kz": "нақты",
+    "en": "specifically,actual,real",
+    "zh": "具体"
+  },
+  {
+    "kz": "не",
+    "en": "what",
+    "zh": "什么"
+  },
+  {
+    "kz": "негізгі",
+    "en": "prime,crucial,general,chief,principal,fundamental,major,main,basic",
+    "zh": "主要，关键，一般，主要，主要，基本，主要，主要，基本"
+  },
+  {
+    "kz": "негізі",
+    "en": "stem,foundation,basis",
+    "zh": "茎，基础，基础"
+  },
+  {
+    "kz": "негізін қалаушы",
+    "en": "founder",
+    "zh": "创始人"
+  },
+  {
+    "kz": "негізінен",
+    "en": "mostly,primarily,mainly,basically",
+    "zh": "大部分，主要，主要，基本上"
+  },
+  {
+    "kz": "неке",
+    "en": "marriage",
+    "zh": "婚"
+  },
+  {
+    "kz": "некеде тұрған",
+    "en": "married",
+    "zh": "已婚"
+  },
+  {
+    "kz": "некені бұзу",
+    "en": "divorce",
+    "zh": "离婚"
+  },
+  {
+    "kz": "немере ағасы",
+    "en": "cousin",
+    "zh": "表弟"
+  },
+  {
+    "kz": "немересі",
+    "en": "grandchild",
+    "zh": "孙子"
+  },
+  {
+    "kz": "немесе",
+    "en": "or",
+    "zh": "或"
+  },
+  {
+    "kz": "несие",
+    "en": "credit,loan",
+    "zh": "信贷，贷款"
+  },
+  {
+    "kz": "ниет",
+    "en": "intention,intent,intend",
+    "zh": "意图，意图，意图"
+  },
+  {
+    "kz": "номинант",
+    "en": "nominee",
+    "zh": "候选人"
+  },
+  {
+    "kz": "норма",
+    "en": "norm",
+    "zh": "规范"
+  },
+  {
+    "kz": "нормативтік",
+    "en": "regulatory",
+    "zh": "监管"
+  },
+  {
+    "kz": "нысан",
+    "en": "object,facility",
+    "zh": "对象，设施"
+  },
+  {
+    "kz": "нүкте",
+    "en": "point,dot",
+    "zh": "点，点"
+  },
+  {
+    "kz": "нұсқа",
+    "en": "version",
+    "zh": "版本"
+  },
+  {
+    "kz": "нұсқау",
+    "en": "instruct",
+    "zh": "指导"
+  },
+  {
+    "kz": "нұсқаушы",
+    "en": "instructor",
+    "zh": "教练"
+  },
+  {
+    "kz": "нұқыңыз",
+    "en": "click",
+    "zh": "点击"
+  },
+  {
+    "kz": "нәзік",
+    "en": "tender,delicate,gentle",
+    "zh": "温柔"
+  },
+  {
+    "kz": "нәрсе",
+    "en": "thing",
+    "zh": "东西"
+  },
+  {
+    "kz": "нәсілдік",
+    "en": "racial",
+    "zh": "种族"
+  },
+  {
+    "kz": "нәсілшілдік",
+    "en": "racism",
+    "zh": "种族主义"
+  },
+  {
+    "kz": "нәтиже",
+    "en": "outcome",
+    "zh": "结果"
+  },
+  {
+    "kz": "нәтижесі",
+    "en": "result",
+    "zh": "结果"
+  },
+  {
+    "kz": "нәтижесінде",
+    "en": "eventually,consequently",
+    "zh": "最终，因此"
+  },
+  {
+    "kz": "нөмірі",
+    "en": "number",
+    "zh": "数"
+  },
+  {
+    "kz": "облыс",
+    "en": "area,realm",
+    "zh": "面积，领域"
+  },
+  {
+    "kz": "обнаженный",
+    "en": "naked",
+    "zh": "裸体"
+  },
+  {
+    "kz": "объектив",
+    "en": "lens",
+    "zh": "镜头"
+  },
+  {
+    "kz": "одақ",
+    "en": "union,alliance",
+    "zh": "联盟，联盟"
+  },
+  {
+    "kz": "одақтас",
+    "en": "ally",
+    "zh": "盟友"
+  },
+  {
+    "kz": "озат",
+    "en": "advanced",
+    "zh": "高深"
+  },
+  {
+    "kz": "ой",
+    "en": "combat,thought",
+    "zh": "战斗，思想"
+  },
+  {
+    "kz": "ойланыңыз",
+    "en": "contemplate",
+    "zh": "考虑"
+  },
+  {
+    "kz": "ойлап табу",
+    "en": "invent",
+    "zh": "发明"
+  },
+  {
+    "kz": "ойлау",
+    "en": "cognitive,think",
+    "zh": "认知，思考"
+  },
+  {
+    "kz": "ойнау",
+    "en": "play",
+    "zh": "玩"
+  },
+  {
+    "kz": "ойын",
+    "en": "game",
+    "zh": "游戏"
+  },
+  {
+    "kz": "ойыншы",
+    "en": "player",
+    "zh": "选手"
+  },
+  {
+    "kz": "ойыншық",
+    "en": "toy",
+    "zh": "玩具"
+  },
+  {
+    "kz": "округ",
+    "en": "county",
+    "zh": "县"
+  },
+  {
+    "kz": "ол",
+    "en": "she,he,it",
+    "zh": "她，他，它"
+  },
+  {
+    "kz": "олар",
+    "en": "they",
+    "zh": "他们"
+  },
+  {
+    "kz": "олардың",
+    "en": "their,them",
+    "zh": "他们的，他们"
+  },
+  {
+    "kz": "омыртқа",
+    "en": "spine",
+    "zh": "脊柱"
+  },
+  {
+    "kz": "он",
+    "en": "ten",
+    "zh": "十"
+  },
+  {
+    "kz": "он бес",
+    "en": "fifteen",
+    "zh": "十五"
+  },
+  {
+    "kz": "он бір",
+    "en": "eleven",
+    "zh": "十一"
+  },
+  {
+    "kz": "он екі",
+    "en": "twelve",
+    "zh": "十二"
+  },
+  {
+    "kz": "онда",
+    "en": "the,there",
+    "zh": "的，那里"
+  },
+  {
+    "kz": "онжылдық",
+    "en": "decade",
+    "zh": "十"
+  },
+  {
+    "kz": "онлайн",
+    "en": "online",
+    "zh": "在线"
+  },
+  {
+    "kz": "оншақты",
+    "en": "dozen",
+    "zh": "打"
+  },
+  {
+    "kz": "оның",
+    "en": "his,its,hers,her,him",
+    "zh": "他的，它的，她的，她，他"
+  },
+  {
+    "kz": "опера",
+    "en": "opera",
+    "zh": "歌剧"
+  },
+  {
+    "kz": "оператор",
+    "en": "operator",
+    "zh": "算子"
+  },
+  {
+    "kz": "операция",
+    "en": "transaction,operation",
+    "zh": "交易，操作"
+  },
+  {
+    "kz": "операциялық",
+    "en": "operating",
+    "zh": "经营"
+  },
+  {
+    "kz": "оптимистік",
+    "en": "optimistic",
+    "zh": "乐观的"
+  },
+  {
+    "kz": "опция",
+    "en": "option",
+    "zh": "选择"
+  },
+  {
+    "kz": "орам",
+    "en": "roll",
+    "zh": "辊"
+  },
+  {
+    "kz": "орау",
+    "en": "pack,wrap",
+    "zh": "包装，包装"
+  },
+  {
+    "kz": "орбита",
+    "en": "orbit",
+    "zh": "轨道"
+  },
+  {
+    "kz": "орган",
+    "en": "organ",
+    "zh": "风琴"
+  },
+  {
+    "kz": "органикалық",
+    "en": "organic",
+    "zh": "有机"
+  },
+  {
+    "kz": "орман",
+    "en": "forest",
+    "zh": "森林"
+  },
+  {
+    "kz": "орналастыру",
+    "en": "locate,placement,deploy",
+    "zh": "定位，放置，部署"
+  },
+  {
+    "kz": "орналасқан жері",
+    "en": "arrangement,location",
+    "zh": "安排，位置"
+  },
+  {
+    "kz": "орнату",
+    "en": "install,installation,mount,establish,setting,grasp",
+    "zh": "安装，安装，安装，建立，设置，掌握"
+  },
+  {
+    "kz": "орнына",
+    "en": "instead",
+    "zh": "相反"
+  },
+  {
+    "kz": "орталығы",
+    "en": "center",
+    "zh": "中心"
+  },
+  {
+    "kz": "орталық",
+    "en": "central",
+    "zh": "中央"
+  },
+  {
+    "kz": "орташа",
+    "en": "medium,middle,moderate,average",
+    "zh": "中，中，中，中等，中等"
+  },
+  {
+    "kz": "орын",
+    "en": "seat,place",
+    "zh": "座位，位置"
+  },
+  {
+    "kz": "орынбасары",
+    "en": "deputy",
+    "zh": "副"
+  },
+  {
+    "kz": "орындау",
+    "en": "accomplish,execute,execution,perform,accomplishment",
+    "zh": "完成，执行，执行，执行，完成"
+  },
+  {
+    "kz": "орындық",
+    "en": "chair,bench",
+    "zh": "椅子，长凳"
+  },
+  {
+    "kz": "осал",
+    "en": "vulnerable",
+    "zh": "脆弱"
+  },
+  {
+    "kz": "осы уақытта",
+    "en": "meanwhile,meantime",
+    "zh": "同时，同时"
+  },
+  {
+    "kz": "осы уақытқа дейін",
+    "en": "until",
+    "zh": "直到"
+  },
+  {
+    "kz": "осылайша",
+    "en": "thereby,thus",
+    "zh": "因此，因此"
+  },
+  {
+    "kz": "от",
+    "en": "fire",
+    "zh": "火灾"
+  },
+  {
+    "kz": "отарлық",
+    "en": "colonial",
+    "zh": "殖民的"
+  },
+  {
+    "kz": "отбасы",
+    "en": "family",
+    "zh": "家庭"
+  },
+  {
+    "kz": "отставка",
+    "en": "retirement",
+    "zh": "退休"
+  },
+  {
+    "kz": "отставкаға кету",
+    "en": "retired,resign,retire",
+    "zh": "退休，辞职，退休"
+  },
+  {
+    "kz": "оттегі",
+    "en": "oxygen",
+    "zh": "氧"
+  },
+  {
+    "kz": "отыз",
+    "en": "thirty",
+    "zh": "三十"
+  },
+  {
+    "kz": "отыру",
+    "en": "sit",
+    "zh": "坐"
+  },
+  {
+    "kz": "офицер",
+    "en": "officer",
+    "zh": "军官"
+  },
+  {
+    "kz": "охотыласпен",
+    "en": "readily",
+    "zh": "欣然"
+  },
+  {
+    "kz": "очарование",
+    "en": "charm",
+    "zh": "魅力"
+  },
+  {
+    "kz": "ояну",
+    "en": "awake,wake",
+    "zh": "醒，醒"
+  },
+  {
+    "kz": "оқ",
+    "en": "bullet",
+    "zh": "子弹"
+  },
+  {
+    "kz": "оқиға",
+    "en": "event,incident",
+    "zh": "事件，事件"
+  },
+  {
+    "kz": "оқу",
+    "en": "reading",
+    "zh": "读数"
+  },
+  {
+    "kz": "оқу жоспары",
+    "en": "curriculum",
+    "zh": "课程"
+  },
+  {
+    "kz": "оқулық",
+    "en": "textbook",
+    "zh": "教科书"
+  },
+  {
+    "kz": "оқшауланған",
+    "en": "isolated",
+    "zh": "孤立"
+  },
+  {
+    "kz": "оқшаулау",
+    "en": "isolation,isolate",
+    "zh": "隔离，隔离"
+  },
+  {
+    "kz": "оқырман",
+    "en": "reader",
+    "zh": "读者"
+  },
+  {
+    "kz": "оқыту",
+    "en": "instructional,teaching,training,educate",
+    "zh": "教学，教学，培训，教育"
+  },
+  {
+    "kz": "оқыңыз",
+    "en": "read",
+    "zh": "读"
+  },
+  {
+    "kz": "оң",
+    "en": "positive",
+    "zh": "阳性"
+  },
+  {
+    "kz": "оңай",
+    "en": "easily",
+    "zh": "容易"
+  },
+  {
+    "kz": "оңалту",
+    "en": "rehabilitation",
+    "zh": "康复"
+  },
+  {
+    "kz": "батыс",
+    "en": "southwest",
+    "zh": "西南"
+  },
+  {
+    "kz": "пайда",
+    "en": "margin,profit,benefit,earnings",
+    "zh": "保证金，利润，收益，收益"
+  },
+  {
+    "kz": "пайда болу",
+    "en": "arise,emerging,appear",
+    "zh": "出现，出现，出现"
+  },
+  {
+    "kz": "пайдалану",
+    "en": "use,employ,exploit",
+    "zh": "使用，使用，利用"
+  },
+  {
+    "kz": "пайдаланушы",
+    "en": "user",
+    "zh": "用户"
+  },
+  {
+    "kz": "пайдаланылған",
+    "en": "used",
+    "zh": "使用"
+  },
+  {
+    "kz": "пайдалы",
+    "en": "useful,helpful",
+    "zh": "有用，有帮助"
+  },
+  {
+    "kz": "пайдасы",
+    "en": "utility",
+    "zh": "效用"
+  },
+  {
+    "kz": "пайыз",
+    "en": "percentage",
+    "zh": "百分比"
+  },
+  {
+    "kz": "пайымдау",
+    "en": "discourse",
+    "zh": "话语"
+  },
+  {
+    "kz": "пакет",
+    "en": "package",
+    "zh": "包"
+  },
+  {
+    "kz": "палуба",
+    "en": "deck",
+    "zh": "甲板"
+  },
+  {
+    "kz": "пальто",
+    "en": "coat",
+    "zh": "外套"
+  },
+  {
+    "kz": "панель",
+    "en": "panel",
+    "zh": "面板"
+  },
+  {
+    "kz": "пастор",
+    "en": "pastor",
+    "zh": "牧师"
+  },
+  {
+    "kz": "патент",
+    "en": "patent",
+    "zh": "专利"
+  },
+  {
+    "kz": "патруль",
+    "en": "patrol",
+    "zh": "巡逻"
+  },
+  {
+    "kz": "патч",
+    "en": "patch",
+    "zh": "补丁"
+  },
+  {
+    "kz": "патша",
+    "en": "king",
+    "zh": "王"
+  },
+  {
+    "kz": "патшайым",
+    "en": "queen",
+    "zh": "女王"
+  },
+  {
+    "kz": "патшалық",
+    "en": "kingdom",
+    "zh": "王国"
+  },
+  {
+    "kz": "пейзаж",
+    "en": "landscape",
+    "zh": "景观"
+  },
+  {
+    "kz": "перде",
+    "en": "curtain",
+    "zh": "窗帘"
+  },
+  {
+    "kz": "перспектива",
+    "en": "perspective,prospect",
+    "zh": "展望，展望"
+  },
+  {
+    "kz": "перспективалы",
+    "en": "promising",
+    "zh": "有为"
+  },
+  {
+    "kz": "періште",
+    "en": "angel",
+    "zh": "天使"
+  },
+  {
+    "kz": "печенье",
+    "en": "cookie",
+    "zh": "饼干"
+  },
+  {
+    "kz": "пеш",
+    "en": "bake,oven,stove",
+    "zh": "烘烤，烤箱，炉子"
+  },
+  {
+    "kz": "пиджак",
+    "en": "jacket",
+    "zh": "夹克"
+  },
+  {
+    "kz": "пин",
+    "en": "pin",
+    "zh": "针"
+  },
+  {
+    "kz": "пионер",
+    "en": "pioneer",
+    "zh": "先锋"
+  },
+  {
+    "kz": "пицца",
+    "en": "pizza",
+    "zh": "比萨饼"
+  },
+  {
+    "kz": "пияз",
+    "en": "onion,bow",
+    "zh": "洋葱，弓"
+  },
+  {
+    "kz": "планета",
+    "en": "planet",
+    "zh": "行星"
+  },
+  {
+    "kz": "пластик",
+    "en": "plastic",
+    "zh": "塑胶"
+  },
+  {
+    "kz": "платформа",
+    "en": "platform",
+    "zh": "平台"
+  },
+  {
+    "kz": "офф",
+    "en": "playoff",
+    "zh": "季后赛"
+  },
+  {
+    "kz": "плитка",
+    "en": "tile",
+    "zh": "瓦"
+  },
+  {
+    "kz": "плюс",
+    "en": "plus",
+    "zh": "加"
+  },
+  {
+    "kz": "позиция",
+    "en": "stance,position",
+    "zh": "立场，位置"
+  },
+  {
+    "kz": "пойыз",
+    "en": "train",
+    "zh": "火车"
+  },
+  {
+    "kz": "полигон",
+    "en": "dump",
+    "zh": "转"
+  },
+  {
+    "kz": "полиция",
+    "en": "police",
+    "zh": "警察"
+  },
+  {
+    "kz": "полиция қызметкері",
+    "en": "cop,policeman",
+    "zh": "警察，警察"
+  },
+  {
+    "kz": "полюс",
+    "en": "pole",
+    "zh": "极"
+  },
+  {
+    "kz": "порт",
+    "en": "port",
+    "zh": "港口"
+  },
+  {
+    "kz": "портрет",
+    "en": "portrait",
+    "zh": "肖像"
+  },
+  {
+    "kz": "портфолио",
+    "en": "portfolio",
+    "zh": "投资"
+  },
+  {
+    "kz": "пост",
+    "en": "post",
+    "zh": "发布"
+  },
+  {
+    "kz": "постер",
+    "en": "poster",
+    "zh": "海报"
+  },
+  {
+    "kz": "пошта",
+    "en": "mail",
+    "zh": "邮件"
+  },
+  {
+    "kz": "поэзия",
+    "en": "poetry",
+    "zh": "诗歌"
+  },
+  {
+    "kz": "практикалық",
+    "en": "practical",
+    "zh": "实际"
+  },
+  {
+    "kz": "презентация",
+    "en": "presentation",
+    "zh": "介绍"
+  },
+  {
+    "kz": "президент",
+    "en": "president",
+    "zh": "总统"
+  },
+  {
+    "kz": "президенттік",
+    "en": "presidency,presidential",
+    "zh": "总统，总统"
+  },
+  {
+    "kz": "препарат",
+    "en": "medicine",
+    "zh": "药"
+  },
+  {
+    "kz": "принципі",
+    "en": "principle",
+    "zh": "原则"
+  },
+  {
+    "kz": "приход",
+    "en": "parish,coming",
+    "zh": "堂区，来了"
+  },
+  {
+    "kz": "провинция",
+    "en": "province",
+    "zh": "省"
+  },
+  {
+    "kz": "прогресс",
+    "en": "progress",
+    "zh": "进展"
+  },
+  {
+    "kz": "прогрессивті",
+    "en": "progressive",
+    "zh": "进步"
+  },
+  {
+    "kz": "проекция",
+    "en": "projection",
+    "zh": "投影"
+  },
+  {
+    "kz": "прокурор",
+    "en": "prosecutor",
+    "zh": "检察官"
+  },
+  {
+    "kz": "пропорция",
+    "en": "proportion",
+    "zh": "比例"
+  },
+  {
+    "kz": "профессор",
+    "en": "professor",
+    "zh": "教授"
+  },
+  {
+    "kz": "профиль",
+    "en": "profile",
+    "zh": "轮廓"
+  },
+  {
+    "kz": "процесс",
+    "en": "process",
+    "zh": "过程"
+  },
+  {
+    "kz": "процессор",
+    "en": "processor",
+    "zh": "处理器"
+  },
+  {
+    "kz": "психолог",
+    "en": "psychologist",
+    "zh": "心理学家"
+  },
+  {
+    "kz": "психология",
+    "en": "psychology",
+    "zh": "心理学"
+  },
+  {
+    "kz": "психологиялық",
+    "en": "psychological",
+    "zh": "心理"
+  },
+  {
+    "kz": "пышақ",
+    "en": "knife,blade",
+    "zh": "刀片"
+  },
+  {
+    "kz": "пікір",
+    "en": "opinion,comment",
+    "zh": "意见，评论"
+  },
+  {
+    "kz": "пікірталас",
+    "en": "debate",
+    "zh": "争论"
+  },
+  {
+    "kz": "піл",
+    "en": "elephant",
+    "zh": "象"
+  },
+  {
+    "kz": "пісіру",
+    "en": "boil,cook",
+    "zh": "煮，煮"
+  },
+  {
+    "kz": "пішін",
+    "en": "shape,form",
+    "zh": "形状，形式"
+  },
+  {
+    "kz": "пәтер",
+    "en": "flat,apartment",
+    "zh": "公寓，公寓"
+  },
+  {
+    "kz": "радар",
+    "en": "radar",
+    "zh": "雷达"
+  },
+  {
+    "kz": "радикалды",
+    "en": "radical",
+    "zh": "激进"
+  },
+  {
+    "kz": "радио",
+    "en": "radio",
+    "zh": "收音机"
+  },
+  {
+    "kz": "раковина",
+    "en": "sink",
+    "zh": "沉"
+  },
+  {
+    "kz": "ралли",
+    "en": "rally",
+    "zh": "集会"
+  },
+  {
+    "kz": "ранчо",
+    "en": "ranch",
+    "zh": "牧场"
+  },
+  {
+    "kz": "рас",
+    "en": "truth",
+    "zh": "真理"
+  },
+  {
+    "kz": "растау",
+    "en": "confirm",
+    "zh": "确认"
+  },
+  {
+    "kz": "раушан",
+    "en": "rose",
+    "zh": "玫"
+  },
+  {
+    "kz": "рахмет",
+    "en": "thank,thanks",
+    "zh": "谢谢，谢谢"
+  },
+  {
+    "kz": "рақмет",
+    "en": "grateful",
+    "zh": "感激"
+  },
+  {
+    "kz": "рақым",
+    "en": "grace",
+    "zh": "恩典"
+  },
+  {
+    "kz": "ре",
+    "en": "re",
+    "zh": "再"
+  },
+  {
+    "kz": "реакция",
+    "en": "reaction",
+    "zh": "反应"
+  },
+  {
+    "kz": "революционер",
+    "en": "revolutionary",
+    "zh": "革命性"
+  },
+  {
+    "kz": "революция",
+    "en": "revolution",
+    "zh": "革命"
+  },
+  {
+    "kz": "редактор",
+    "en": "editor",
+    "zh": "编辑"
+  },
+  {
+    "kz": "режим",
+    "en": "mode,regime",
+    "zh": "模式，制度"
+  },
+  {
+    "kz": "резерв",
+    "en": "reserve",
+    "zh": "储备"
+  },
+  {
+    "kz": "резиденция",
+    "en": "residence",
+    "zh": "住宅"
+  },
+  {
+    "kz": "рейтинг",
+    "en": "rating",
+    "zh": "额定值"
+  },
+  {
+    "kz": "рельс",
+    "en": "rail",
+    "zh": "轨"
+  },
+  {
+    "kz": "ренжіді",
+    "en": "upset",
+    "zh": "沮丧"
+  },
+  {
+    "kz": "ренжіту",
+    "en": "frustrate",
+    "zh": "挫"
+  },
+  {
+    "kz": "репортер",
+    "en": "reporter",
+    "zh": "记者"
+  },
+  {
+    "kz": "ресми",
+    "en": "official,formal",
+    "zh": "官方，正式"
+  },
+  {
+    "kz": "ресми түрде",
+    "en": "officially",
+    "zh": "正式"
+  },
+  {
+    "kz": "республика",
+    "en": "republic",
+    "zh": "共和国"
+  },
+  {
+    "kz": "республикалық",
+    "en": "republican",
+    "zh": "共和"
+  },
+  {
+    "kz": "ресурс",
+    "en": "resource",
+    "zh": "资源"
+  },
+  {
+    "kz": "реттеу",
+    "en": "regulation,adjust,regulate,adjustment",
+    "zh": "调节，调整，调节，调整"
+  },
+  {
+    "kz": "реттеуші",
+    "en": "regulator",
+    "zh": "调节器"
+  },
+  {
+    "kz": "реттілік",
+    "en": "sequence",
+    "zh": "序列"
+  },
+  {
+    "kz": "рефлексия",
+    "en": "reflection,reflect,thinking",
+    "zh": "反思，反思，思考"
+  },
+  {
+    "kz": "реформа",
+    "en": "reform",
+    "zh": "改革"
+  },
+  {
+    "kz": "рецепт",
+    "en": "recipe,prescription",
+    "zh": "食谱，处方"
+  },
+  {
+    "kz": "ризашылық",
+    "en": "appreciation",
+    "zh": "升值"
+  },
+  {
+    "kz": "ритақ",
+    "en": "rhythm",
+    "zh": "节奏"
+  },
+  {
+    "kz": "риторикалық",
+    "en": "rhetoric",
+    "zh": "修辞"
+  },
+  {
+    "kz": "ритуал",
+    "en": "ritual",
+    "zh": "仪式"
+  },
+  {
+    "kz": "робот",
+    "en": "robot",
+    "zh": "机器人"
+  },
+  {
+    "kz": "рок",
+    "en": "rock",
+    "zh": "岩石"
+  },
+  {
+    "kz": "роман",
+    "en": "novel",
+    "zh": "小说"
+  },
+  {
+    "kz": "романс",
+    "en": "romance",
+    "zh": "浪漫"
+  },
+  {
+    "kz": "романтикалық",
+    "en": "romantic",
+    "zh": "浪漫"
+  },
+  {
+    "kz": "рух",
+    "en": "spirit",
+    "zh": "精神"
+  },
+  {
+    "kz": "рухани",
+    "en": "spiritual",
+    "zh": "精神"
+  },
+  {
+    "kz": "рұқсат",
+    "en": "permission,resolution,validity",
+    "zh": "许可，决议，有效性"
+  },
+  {
+    "kz": "рұқсат ету",
+    "en": "resolve,permit",
+    "zh": "决议，许可"
+  },
+  {
+    "kz": "рұқсат етіңіз",
+    "en": "let,allow",
+    "zh": "让，允许"
+  },
+  {
+    "kz": "рәсім",
+    "en": "procedure,ceremony",
+    "zh": "程序，仪式"
+  },
+  {
+    "kz": "рөлі",
+    "en": "role",
+    "zh": "角色"
+  },
+  {
+    "kz": "с",
+    "en": "since,with",
+    "zh": "从此，与"
+  },
+  {
+    "kz": "сабан",
+    "en": "straw",
+    "zh": "秸秆"
+  },
+  {
+    "kz": "сабақ",
+    "en": "lesson",
+    "zh": "课"
+  },
+  {
+    "kz": "сабаққа қатысу",
+    "en": "attendance",
+    "zh": "出席"
+  },
+  {
+    "kz": "сабын",
+    "en": "soap",
+    "zh": "肥皂"
+  },
+  {
+    "kz": "садақа беру",
+    "en": "donate,sacrifice",
+    "zh": "捐赠，牺牲"
+  },
+  {
+    "kz": "сайлау",
+    "en": "elect,election",
+    "zh": "选举，选举"
+  },
+  {
+    "kz": "сайлаушы",
+    "en": "voter",
+    "zh": "选民"
+  },
+  {
+    "kz": "сайт",
+    "en": "site",
+    "zh": "网站"
+  },
+  {
+    "kz": "саке",
+    "en": "sake",
+    "zh": "清酒"
+  },
+  {
+    "kz": "салат",
+    "en": "salad",
+    "zh": "沙拉"
+  },
+  {
+    "kz": "салдары",
+    "en": "consequence",
+    "zh": "后果"
+  },
+  {
+    "kz": "салмағы",
+    "en": "weigh",
+    "zh": "权衡"
+  },
+  {
+    "kz": "салмақ",
+    "en": "weight",
+    "zh": "重量"
+  },
+  {
+    "kz": "салу",
+    "en": "build,construct",
+    "zh": "构建，构造"
+  },
+  {
+    "kz": "салым",
+    "en": "contribution",
+    "zh": "贡献"
+  },
+  {
+    "kz": "салыстырмалы",
+    "en": "relatively,comparable,regarding",
+    "zh": "相对而言，可比性，关于"
+  },
+  {
+    "kz": "салыстыру",
+    "en": "comparison,compare",
+    "zh": "比较，比较"
+  },
+  {
+    "kz": "салық",
+    "en": "tax",
+    "zh": "税"
+  },
+  {
+    "kz": "салық салу",
+    "en": "impose",
+    "zh": "强加"
+  },
+  {
+    "kz": "салық төлеуші",
+    "en": "taxpayer",
+    "zh": "纳税人"
+  },
+  {
+    "kz": "сальто",
+    "en": "flip",
+    "zh": "空翻"
+  },
+  {
+    "kz": "салқын",
+    "en": "cool,steep",
+    "zh": "凉爽，陡峭"
+  },
+  {
+    "kz": "сана",
+    "en": "consciousness",
+    "zh": "意识"
+  },
+  {
+    "kz": "саналы",
+    "en": "conscious",
+    "zh": "意识"
+  },
+  {
+    "kz": "санат",
+    "en": "category",
+    "zh": "类别"
+  },
+  {
+    "kz": "санау",
+    "en": "count,deem",
+    "zh": "计数，认为"
+  },
+  {
+    "kz": "сандық",
+    "en": "digital",
+    "zh": "数字"
+  },
+  {
+    "kz": "санкция",
+    "en": "sanction",
+    "zh": "制裁"
+  },
+  {
+    "kz": "саны",
+    "en": "quantity",
+    "zh": "数量"
+  },
+  {
+    "kz": "сапар",
+    "en": "trip",
+    "zh": "旅行"
+  },
+  {
+    "kz": "сапасы",
+    "en": "quality",
+    "zh": "质量"
+  },
+  {
+    "kz": "сарай",
+    "en": "shed,barn,palace,mansion",
+    "zh": "棚屋，谷仓，宫殿，豪宅"
+  },
+  {
+    "kz": "сараптама",
+    "en": "expertise",
+    "zh": "专门知识"
+  },
+  {
+    "kz": "сарапшы",
+    "en": "expert",
+    "zh": "专家"
+  },
+  {
+    "kz": "сарбаз",
+    "en": "soldier",
+    "zh": "士兵"
+  },
+  {
+    "kz": "сары",
+    "en": "yellow",
+    "zh": "黄色"
+  },
+  {
+    "kz": "сары май",
+    "en": "butter",
+    "zh": "黄油"
+  },
+  {
+    "kz": "сарымсақ",
+    "en": "garlic",
+    "zh": "蒜"
+  },
+  {
+    "kz": "сарқылу",
+    "en": "drain,exhaust",
+    "zh": "排水，排气"
+  },
+  {
+    "kz": "сату",
+    "en": "sell,sales,sale",
+    "zh": "销售，销售，销售"
+  },
+  {
+    "kz": "сатушы",
+    "en": "seller,vendor",
+    "zh": "卖方，供应商"
+  },
+  {
+    "kz": "сатып алу",
+    "en": "purchase,buy,acquisition,acquire",
+    "zh": "购买，购买，收购，获取"
+  },
+  {
+    "kz": "сатып алушы",
+    "en": "buyer,customer",
+    "zh": "买家，客户"
+  },
+  {
+    "kz": "сауалнама",
+    "en": "survey,poll,questionnaire",
+    "zh": "调查，投票，问卷"
+  },
+  {
+    "kz": "сауда",
+    "en": "trading,trade",
+    "zh": "交易，贸易"
+  },
+  {
+    "kz": "сауда орталығы",
+    "en": "mall",
+    "zh": "商场"
+  },
+  {
+    "kz": "сауда сапары",
+    "en": "shopping",
+    "zh": "购物"
+  },
+  {
+    "kz": "саудагер",
+    "en": "merchant",
+    "zh": "商人"
+  },
+  {
+    "kz": "саусақ",
+    "en": "toe,finger",
+    "zh": "脚趾，手指"
+  },
+  {
+    "kz": "сахна",
+    "en": "scene",
+    "zh": "现场"
+  },
+  {
+    "kz": "саябақ",
+    "en": "park",
+    "zh": "公园"
+  },
+  {
+    "kz": "саясат",
+    "en": "politics,policy",
+    "zh": "政治，政策"
+  },
+  {
+    "kz": "саясаткер",
+    "en": "politician",
+    "zh": "政治家"
+  },
+  {
+    "kz": "саяси",
+    "en": "political,politically",
+    "zh": "政治，政治"
+  },
+  {
+    "kz": "саяхат",
+    "en": "travel,journey",
+    "zh": "旅行，旅程"
+  },
+  {
+    "kz": "саяхатшы",
+    "en": "traveler",
+    "zh": "旅客"
+  },
+  {
+    "kz": "сақ болыңыз",
+    "en": "careful",
+    "zh": "小心"
+  },
+  {
+    "kz": "сақал",
+    "en": "beard",
+    "zh": "胡子"
+  },
+  {
+    "kz": "сақина",
+    "en": "ring",
+    "zh": "戒指"
+  },
+  {
+    "kz": "сақтандыру",
+    "en": "insurance",
+    "zh": "保险"
+  },
+  {
+    "kz": "сақтау",
+    "en": "preserve,save,conservation,comply",
+    "zh": "保存，保存，保存，遵守"
+  },
+  {
+    "kz": "сақтау орны",
+    "en": "storage",
+    "zh": "存储"
+  },
+  {
+    "kz": "саңырауқұлақ",
+    "en": "mushroom",
+    "zh": "蘑菇"
+  },
+  {
+    "kz": "себебі",
+    "en": "because,reason,cause",
+    "zh": "因为，原因，原因"
+  },
+  {
+    "kz": "себет",
+    "en": "cart,basket",
+    "zh": "推车，篮子"
+  },
+  {
+    "kz": "сегмент",
+    "en": "segment",
+    "zh": "段"
+  },
+  {
+    "kz": "сегіз",
+    "en": "eight",
+    "zh": "八"
+  },
+  {
+    "kz": "сегізінші",
+    "en": "eighth",
+    "zh": "第八"
+  },
+  {
+    "kz": "сезім",
+    "en": "feeling,sensation,sense",
+    "zh": "感觉，感觉，感觉"
+  },
+  {
+    "kz": "сезімтал",
+    "en": "sensitive",
+    "zh": "灵敏"
+  },
+  {
+    "kz": "сезімталдық",
+    "en": "sensitivity",
+    "zh": "敏感性"
+  },
+  {
+    "kz": "сезіну",
+    "en": "feel",
+    "zh": "感觉"
+  },
+  {
+    "kz": "сектор",
+    "en": "sector",
+    "zh": "扇形"
+  },
+  {
+    "kz": "секіру",
+    "en": "bounce,jump,leap",
+    "zh": "弹跳，跳跃，跳跃"
+  },
+  {
+    "kz": "семинар",
+    "en": "seminar",
+    "zh": "研讨会"
+  },
+  {
+    "kz": "сенатор",
+    "en": "senator",
+    "zh": "参议员"
+  },
+  {
+    "kz": "сендіру",
+    "en": "conviction,persuade,discourage,assure,convince",
+    "zh": "信念，说服，劝阻，保证，说服"
+  },
+  {
+    "kz": "сенсор",
+    "en": "sensor",
+    "zh": "传感器"
+  },
+  {
+    "kz": "сену",
+    "en": "rely,believe",
+    "zh": "依靠，相信"
+  },
+  {
+    "kz": "сенікі",
+    "en": "yours,your",
+    "zh": "你的，你的"
+  },
+  {
+    "kz": "сенім",
+    "en": "credibility,belief,faith,trust",
+    "zh": "信誉"
+  },
+  {
+    "kz": "сенімді",
+    "en": "convinced,confident,reliable",
+    "zh": "令人信服"
+  },
+  {
+    "kz": "сенімділік",
+    "en": "reliability,confidence",
+    "zh": "可靠性，信心"
+  },
+  {
+    "kz": "серия",
+    "en": "series",
+    "zh": "系列"
+  },
+  {
+    "kz": "серуендеу",
+    "en": "hike",
+    "zh": "远足"
+  },
+  {
+    "kz": "серіктес",
+    "en": "partner",
+    "zh": "伙伴"
+  },
+  {
+    "kz": "сессия",
+    "en": "session",
+    "zh": "会期"
+  },
+  {
+    "kz": "сигнал",
+    "en": "signal",
+    "zh": "信号"
+  },
+  {
+    "kz": "символдық",
+    "en": "symbolic",
+    "zh": "符号"
+  },
+  {
+    "kz": "симптом",
+    "en": "symptom",
+    "zh": "症状"
+  },
+  {
+    "kz": "синдром",
+    "en": "syndrome",
+    "zh": "症候群"
+  },
+  {
+    "kz": "синхрондау",
+    "en": "timing",
+    "zh": "定时"
+  },
+  {
+    "kz": "сипаттама",
+    "en": "description",
+    "zh": "描述"
+  },
+  {
+    "kz": "сипаттамасы",
+    "en": "characteristic",
+    "zh": "特征"
+  },
+  {
+    "kz": "сипаттау",
+    "en": "describe,characterize",
+    "zh": "描述，表征"
+  },
+  {
+    "kz": "сипау",
+    "en": "pat",
+    "zh": "帕特"
+  },
+  {
+    "kz": "сирек",
+    "en": "rarely,rare,seldom",
+    "zh": "很少，很少，很少"
+  },
+  {
+    "kz": "сиыр",
+    "en": "cow",
+    "zh": "牛"
+  },
+  {
+    "kz": "сиыр еті",
+    "en": "beef",
+    "zh": "牛肉"
+  },
+  {
+    "kz": "сиқыр",
+    "en": "magic",
+    "zh": "魔法"
+  },
+  {
+    "kz": "сканерлеу",
+    "en": "scan",
+    "zh": "扫描"
+  },
+  {
+    "kz": "скрининг",
+    "en": "screening",
+    "zh": "筛分"
+  },
+  {
+    "kz": "скучно",
+    "en": "boring",
+    "zh": "无聊的"
+  },
+  {
+    "kz": "слайд",
+    "en": "slide",
+    "zh": "滑"
+  },
+  {
+    "kz": "слот",
+    "en": "slot",
+    "zh": "槽"
+  },
+  {
+    "kz": "совать",
+    "en": "shove",
+    "zh": "推"
+  },
+  {
+    "kz": "содан кейін",
+    "en": "then",
+    "zh": "然后"
+  },
+  {
+    "kz": "созылмалы",
+    "en": "chronic",
+    "zh": "慢性"
+  },
+  {
+    "kz": "сол",
+    "en": "that",
+    "zh": "那"
+  },
+  {
+    "kz": "сол жақ",
+    "en": "left",
+    "zh": "左"
+  },
+  {
+    "kz": "сол сияқты",
+    "en": "same,similarly",
+    "zh": "相同，相似"
+  },
+  {
+    "kz": "солар",
+    "en": "those",
+    "zh": "那些"
+  },
+  {
+    "kz": "батыс",
+    "en": "northwest",
+    "zh": "西北"
+  },
+  {
+    "kz": "шығыс",
+    "en": "northeast",
+    "zh": "东北"
+  },
+  {
+    "kz": "солу",
+    "en": "fade",
+    "zh": "褪色"
+  },
+  {
+    "kz": "сомасы",
+    "en": "sum,amount",
+    "zh": "总和，金额"
+  },
+  {
+    "kz": "ақ",
+    "en": "too,likewise,also",
+    "zh": "也，同样，也"
+  },
+  {
+    "kz": "сондықтан",
+    "en": "therefore,hence",
+    "zh": "因此，因此"
+  },
+  {
+    "kz": "сонымен",
+    "en": "so",
+    "zh": "所以"
+  },
+  {
+    "kz": "сонымен қатар",
+    "en": "furthermore,besides,moreover",
+    "zh": "此外，此外，此外"
+  },
+  {
+    "kz": "соның ішінде",
+    "en": "including",
+    "zh": "包括"
+  },
+  {
+    "kz": "сорпа",
+    "en": "soup",
+    "zh": "汤"
+  },
+  {
+    "kz": "сорғы",
+    "en": "pump",
+    "zh": "泵"
+  },
+  {
+    "kz": "сосать",
+    "en": "suck",
+    "zh": "吸"
+  },
+  {
+    "kz": "сот",
+    "en": "court,judicial",
+    "zh": "法院，司法"
+  },
+  {
+    "kz": "сот залы",
+    "en": "courtroom",
+    "zh": "法庭"
+  },
+  {
+    "kz": "сот процесс",
+    "en": "lawsuit",
+    "zh": "诉讼"
+  },
+  {
+    "kz": "соғыс",
+    "en": "war",
+    "zh": "战争"
+  },
+  {
+    "kz": "соқтығысу",
+    "en": "encounter",
+    "zh": "遇到"
+  },
+  {
+    "kz": "соқыр",
+    "en": "blind",
+    "zh": "盲"
+  },
+  {
+    "kz": "соққы",
+    "en": "stroke,strike,hit",
+    "zh": "击球，击打，击球"
+  },
+  {
+    "kz": "соққы жұдырықпен",
+    "en": "punch",
+    "zh": "冲床"
+  },
+  {
+    "kz": "соңы",
+    "en": "butt,end",
+    "zh": "屁股，端部"
+  },
+  {
+    "kz": "соңында",
+    "en": "finally",
+    "zh": "最后"
+  },
+  {
+    "kz": "соңғы",
+    "en": "ultimate,recent,final,latter,last",
+    "zh": "终极，最近，最终，后者，最后"
+  },
+  {
+    "kz": "спектр",
+    "en": "spectrum",
+    "zh": "光谱"
+  },
+  {
+    "kz": "спорт",
+    "en": "sport",
+    "zh": "运动"
+  },
+  {
+    "kz": "спорт залы",
+    "en": "gym",
+    "zh": "健身房"
+  },
+  {
+    "kz": "спортшы",
+    "en": "athlete",
+    "zh": "运动员"
+  },
+  {
+    "kz": "спрей",
+    "en": "spray",
+    "zh": "喷雾"
+  },
+  {
+    "kz": "ставка",
+    "en": "bet,rate",
+    "zh": "投注，率"
+  },
+  {
+    "kz": "стадион",
+    "en": "stadium",
+    "zh": "体育场"
+  },
+  {
+    "kz": "стандарт",
+    "en": "standard",
+    "zh": "标准"
+  },
+  {
+    "kz": "станция",
+    "en": "station",
+    "zh": "站"
+  },
+  {
+    "kz": "статистика",
+    "en": "statistics",
+    "zh": "统计学"
+  },
+  {
+    "kz": "статистикалық",
+    "en": "statistical",
+    "zh": "统计"
+  },
+  {
+    "kz": "стейк",
+    "en": "steak",
+    "zh": "牛排"
+  },
+  {
+    "kz": "стек",
+    "en": "stack",
+    "zh": "叠"
+  },
+  {
+    "kz": "стенд",
+    "en": "booth",
+    "zh": "摊位"
+  },
+  {
+    "kz": "стереотип",
+    "en": "stereotype",
+    "zh": "刻板印象"
+  },
+  {
+    "kz": "стиль",
+    "en": "style",
+    "zh": "风格"
+  },
+  {
+    "kz": "стипендия",
+    "en": "scholarship",
+    "zh": "奖学金"
+  },
+  {
+    "kz": "стратегия",
+    "en": "strategy",
+    "zh": "策略"
+  },
+  {
+    "kz": "стратегиялық",
+    "en": "strategic",
+    "zh": "战略的"
+  },
+  {
+    "kz": "стресс",
+    "en": "stress",
+    "zh": "强调"
+  },
+  {
+    "kz": "студент",
+    "en": "student,undergraduate",
+    "zh": "学生，本科生"
+  },
+  {
+    "kz": "студия",
+    "en": "studio",
+    "zh": "演播室"
+  },
+  {
+    "kz": "су",
+    "en": "water",
+    "zh": "水"
+  },
+  {
+    "kz": "су тасқыны",
+    "en": "flood",
+    "zh": "洪水"
+  },
+  {
+    "kz": "субсидия",
+    "en": "subsidy",
+    "zh": "补贴"
+  },
+  {
+    "kz": "судья",
+    "en": "judge",
+    "zh": "法官"
+  },
+  {
+    "kz": "суицид",
+    "en": "suicide",
+    "zh": "自杀"
+  },
+  {
+    "kz": "супер",
+    "en": "super",
+    "zh": "超"
+  },
+  {
+    "kz": "супермаркет",
+    "en": "supermarket",
+    "zh": "超级市场"
+  },
+  {
+    "kz": "сурет",
+    "en": "drawing,picture,painting,image",
+    "zh": "绘画，图片，绘画，图像"
+  },
+  {
+    "kz": "сурет салу",
+    "en": "draw,pose",
+    "zh": "绘制，摆姿势"
+  },
+  {
+    "kz": "суреттеу",
+    "en": "illustrate",
+    "zh": "说明"
+  },
+  {
+    "kz": "суретші",
+    "en": "painter,artist",
+    "zh": "画家，艺术家"
+  },
+  {
+    "kz": "суық",
+    "en": "cold",
+    "zh": "冷"
+  },
+  {
+    "kz": "суға бату",
+    "en": "drown",
+    "zh": "淹死"
+  },
+  {
+    "kz": "сфера",
+    "en": "sphere",
+    "zh": "球"
+  },
+  {
+    "kz": "схема",
+    "en": "circuit,scheme",
+    "zh": "电路，方案"
+  },
+  {
+    "kz": "сценарий",
+    "en": "scenario,script",
+    "zh": "场景，脚本"
+  },
+  {
+    "kz": "сыбайлас жемқорлық",
+    "en": "corruption",
+    "zh": "腐败"
+  },
+  {
+    "kz": "сыбырлау",
+    "en": "whisper",
+    "zh": "耳语"
+  },
+  {
+    "kz": "сызат",
+    "en": "scratch",
+    "zh": "抓"
+  },
+  {
+    "kz": "сызық",
+    "en": "line",
+    "zh": "线"
+  },
+  {
+    "kz": "сыйлық",
+    "en": "award,present,reward,gift,prize",
+    "zh": "奖项，礼物，奖励，礼品，奖品"
+  },
+  {
+    "kz": "сыйымдылығы",
+    "en": "capacity",
+    "zh": "能力"
+  },
+  {
+    "kz": "сыйға тартылды",
+    "en": "given",
+    "zh": "鉴于"
+  },
+  {
+    "kz": "сым",
+    "en": "cord,wire",
+    "zh": "线，线"
+  },
+  {
+    "kz": "сын",
+    "en": "criticism,criticize",
+    "zh": "批评，批评"
+  },
+  {
+    "kz": "сынақ",
+    "en": "trial",
+    "zh": "试验"
+  },
+  {
+    "kz": "сыни",
+    "en": "critical",
+    "zh": "危急"
+  },
+  {
+    "kz": "сыншы",
+    "en": "critic",
+    "zh": "评论家"
+  },
+  {
+    "kz": "сынып",
+    "en": "classroom,grade,class",
+    "zh": "教室，年级，班级"
+  },
+  {
+    "kz": "сынған",
+    "en": "broken",
+    "zh": "破碎"
+  },
+  {
+    "kz": "сынғыш",
+    "en": "fragile",
+    "zh": "脆弱"
+  },
+  {
+    "kz": "сыпыру",
+    "en": "sweep",
+    "zh": "扫"
+  },
+  {
+    "kz": "сыра",
+    "en": "beer",
+    "zh": "啤酒"
+  },
+  {
+    "kz": "сыртта",
+    "en": "outside",
+    "zh": "外面"
+  },
+  {
+    "kz": "сыртқы",
+    "en": "external,outer",
+    "zh": "外部，外部"
+  },
+  {
+    "kz": "сыртқы түрі",
+    "en": "appearance",
+    "zh": "外观"
+  },
+  {
+    "kz": "сырғанау",
+    "en": "slip",
+    "zh": "滑"
+  },
+  {
+    "kz": "сэндвич",
+    "en": "sandwich",
+    "zh": "三明治"
+  },
+  {
+    "kz": "сюжет",
+    "en": "plot",
+    "zh": "情节"
+  },
+  {
+    "kz": "сілтеме",
+    "en": "reference,link",
+    "zh": "参考，链接"
+  },
+  {
+    "kz": "сірә",
+    "en": "likely",
+    "zh": "可能"
+  },
+  {
+    "kz": "сіңіру",
+    "en": "soak,absorb",
+    "zh": "浸泡，吸收"
+  },
+  {
+    "kz": "сүзгі",
+    "en": "filter",
+    "zh": "滤波器"
+  },
+  {
+    "kz": "сүйек",
+    "en": "bone",
+    "zh": "骨"
+  },
+  {
+    "kz": "сүйемелдеу",
+    "en": "accompany",
+    "zh": "陪"
+  },
+  {
+    "kz": "сүйену",
+    "en": "lean",
+    "zh": "瘦"
+  },
+  {
+    "kz": "сүйкімді",
+    "en": "nice,cute,fascinating",
+    "zh": "漂亮，可爱，迷人"
+  },
+  {
+    "kz": "сүйреу",
+    "en": "haul,drag",
+    "zh": "牵引，拖拽"
+  },
+  {
+    "kz": "сүйікті",
+    "en": "favorite",
+    "zh": "喜欢"
+  },
+  {
+    "kz": "сүйісу",
+    "en": "kiss",
+    "zh": "吻"
+  },
+  {
+    "kz": "сүлгі",
+    "en": "towel",
+    "zh": "毛巾"
+  },
+  {
+    "kz": "сүртіңіз",
+    "en": "wipe",
+    "zh": "擦"
+  },
+  {
+    "kz": "сүріну",
+    "en": "stumble",
+    "zh": "绊倒"
+  },
+  {
+    "kz": "сүт",
+    "en": "milk",
+    "zh": "牛奶"
+  },
+  {
+    "kz": "сүю",
+    "en": "like",
+    "zh": "喜欢"
+  },
+  {
+    "kz": "сұйықтық",
+    "en": "liquid,fluid",
+    "zh": "液体，流体"
+  },
+  {
+    "kz": "сұмдық",
+    "en": "horror",
+    "zh": "恐怖"
+  },
+  {
+    "kz": "сұр",
+    "en": "gray",
+    "zh": "灰色"
+  },
+  {
+    "kz": "сұрау",
+    "en": "ask,request",
+    "zh": "询问，请求"
+  },
+  {
+    "kz": "сұрақ",
+    "en": "issue,question",
+    "zh": "问题，问题"
+  },
+  {
+    "kz": "сұрыптау",
+    "en": "sort",
+    "zh": "排序"
+  },
+  {
+    "kz": "сұхбат",
+    "en": "interview",
+    "zh": "面试"
+  },
+  {
+    "kz": "сәбіз",
+    "en": "carrot",
+    "zh": "胡萝卜"
+  },
+  {
+    "kz": "сәйкес",
+    "en": "according",
+    "zh": "根据"
+  },
+  {
+    "kz": "сәйкестендіру",
+    "en": "identification",
+    "zh": "鉴定"
+  },
+  {
+    "kz": "сәйкестік",
+    "en": "compliance,identity,match",
+    "zh": "合规性，身份，匹配"
+  },
+  {
+    "kz": "сәлемдесу",
+    "en": "greet",
+    "zh": "迎接"
+  },
+  {
+    "kz": "сән",
+    "en": "fashion",
+    "zh": "时尚"
+  },
+  {
+    "kz": "сәт",
+    "en": "moment",
+    "zh": "时刻"
+  },
+  {
+    "kz": "сәтсіздік",
+    "en": "failure",
+    "zh": "失败"
+  },
+  {
+    "kz": "сәтсіздікке ұшырау",
+    "en": "fail",
+    "zh": "失败"
+  },
+  {
+    "kz": "сәтті",
+    "en": "successfully",
+    "zh": "成功"
+  },
+  {
+    "kz": "сәттілік",
+    "en": "luck",
+    "zh": "运气"
+  },
+  {
+    "kz": "сәуле",
+    "en": "beam",
+    "zh": "梁"
+  },
+  {
+    "kz": "сәулелену",
+    "en": "emission,radiation",
+    "zh": "发射，辐射"
+  },
+  {
+    "kz": "сәулет",
+    "en": "architecture",
+    "zh": "建筑"
+  },
+  {
+    "kz": "сәулетші",
+    "en": "architect",
+    "zh": "建筑师"
+  },
+  {
+    "kz": "сөз",
+    "en": "word",
+    "zh": "词"
+  },
+  {
+    "kz": "сөз тіркесі",
+    "en": "phrase",
+    "zh": "短语"
+  },
+  {
+    "kz": "сөзбе сөз",
+    "en": "literally",
+    "zh": "按照字面"
+  },
+  {
+    "kz": "сөзсіз",
+    "en": "inevitably,definitely,inevitable",
+    "zh": "不可避免，绝对，不可避免"
+  },
+  {
+    "kz": "сөйлеу",
+    "en": "speak,talk,speech",
+    "zh": "说话，说话，演讲"
+  },
+  {
+    "kz": "сөмке",
+    "en": "bag",
+    "zh": "袋"
+  },
+  {
+    "kz": "сөре",
+    "en": "rack,shelf",
+    "zh": "机架，搁板"
+  },
+  {
+    "kz": "табалдырық",
+    "en": "threshold",
+    "zh": "门槛"
+  },
+  {
+    "kz": "табан",
+    "en": "sole",
+    "zh": "唯一"
+  },
+  {
+    "kz": "табақ",
+    "en": "plate",
+    "zh": "盘子"
+  },
+  {
+    "kz": "табиғат",
+    "en": "nature",
+    "zh": "自然界"
+  },
+  {
+    "kz": "табиғи",
+    "en": "natural",
+    "zh": "自然的"
+  },
+  {
+    "kz": "таблетка",
+    "en": "pill",
+    "zh": "丸"
+  },
+  {
+    "kz": "табу",
+    "en": "find,earn",
+    "zh": "查找，赚取"
+  },
+  {
+    "kz": "табылды",
+    "en": "found",
+    "zh": "发现"
+  },
+  {
+    "kz": "табыс",
+    "en": "revenue,success,income",
+    "zh": "收入，成功，收入"
+  },
+  {
+    "kz": "табысты",
+    "en": "successful,succeed",
+    "zh": "成功，成功"
+  },
+  {
+    "kz": "таза",
+    "en": "pure,clean,intact",
+    "zh": "纯净，干净，完整"
+  },
+  {
+    "kz": "тазартылған",
+    "en": "sophisticated",
+    "zh": "复杂"
+  },
+  {
+    "kz": "тайпа",
+    "en": "tribe",
+    "zh": "部落"
+  },
+  {
+    "kz": "тактика",
+    "en": "tactic",
+    "zh": "策略"
+  },
+  {
+    "kz": "талант",
+    "en": "talent",
+    "zh": "人才"
+  },
+  {
+    "kz": "талантты",
+    "en": "talented",
+    "zh": "天才"
+  },
+  {
+    "kz": "талап",
+    "en": "demand,requirement",
+    "zh": "需求，要求"
+  },
+  {
+    "kz": "талап ету",
+    "en": "persist,insist,require",
+    "zh": "坚持"
+  },
+  {
+    "kz": "талап қою",
+    "en": "sue",
+    "zh": "苏"
+  },
+  {
+    "kz": "талапкер",
+    "en": "plaintiff",
+    "zh": "原告"
+  },
+  {
+    "kz": "талдау",
+    "en": "analyze,analysis",
+    "zh": "分析，分析"
+  },
+  {
+    "kz": "талдаушы",
+    "en": "analyst",
+    "zh": "分析师"
+  },
+  {
+    "kz": "талшық",
+    "en": "fiber",
+    "zh": "纤维"
+  },
+  {
+    "kz": "талғампаз",
+    "en": "elegant",
+    "zh": "优雅"
+  },
+  {
+    "kz": "талқылау",
+    "en": "discuss,discussion",
+    "zh": "讨论，讨论"
+  },
+  {
+    "kz": "тамақ",
+    "en": "throat,food,meal",
+    "zh": "喉咙，食物，膳食"
+  },
+  {
+    "kz": "тамақ дайындау",
+    "en": "cooking",
+    "zh": "烹饪"
+  },
+  {
+    "kz": "тамақтандыру",
+    "en": "feed",
+    "zh": "饲料"
+  },
+  {
+    "kz": "тамшы",
+    "en": "drop",
+    "zh": "落"
+  },
+  {
+    "kz": "тамыр",
+    "en": "root",
+    "zh": "根"
+  },
+  {
+    "kz": "танк",
+    "en": "tank",
+    "zh": "坦克"
+  },
+  {
+    "kz": "тану",
+    "en": "confession,recognize,recognition",
+    "zh": "忏悔"
+  },
+  {
+    "kz": "таным",
+    "en": "learning",
+    "zh": "学习"
+  },
+  {
+    "kz": "танымал",
+    "en": "popular",
+    "zh": "流行"
+  },
+  {
+    "kz": "танымалдығы",
+    "en": "popularity",
+    "zh": "人气"
+  },
+  {
+    "kz": "таныс",
+    "en": "familiar",
+    "zh": "熟悉"
+  },
+  {
+    "kz": "тапсырма",
+    "en": "task",
+    "zh": "任务"
+  },
+  {
+    "kz": "тапшылық",
+    "en": "shortage,deficit",
+    "zh": "短缺，赤字"
+  },
+  {
+    "kz": "тар",
+    "en": "narrow",
+    "zh": "窄"
+  },
+  {
+    "kz": "тарату",
+    "en": "spread,distribution,distribute",
+    "zh": "传播，分发，分发"
+  },
+  {
+    "kz": "тарау",
+    "en": "chapter",
+    "zh": "章"
+  },
+  {
+    "kz": "тарих",
+    "en": "story,history",
+    "zh": "故事，历史"
+  },
+  {
+    "kz": "тарихи тұрғыдан осылай дамыды",
+    "en": "historically",
+    "zh": "历史"
+  },
+  {
+    "kz": "тарихшы",
+    "en": "historian",
+    "zh": "历史学家"
+  },
+  {
+    "kz": "тармақ",
+    "en": "item",
+    "zh": "项目"
+  },
+  {
+    "kz": "тартпа",
+    "en": "drawer",
+    "zh": "抽屉"
+  },
+  {
+    "kz": "тарту",
+    "en": "pull,attract,engage,involve",
+    "zh": "拉动，吸引，参与，参与"
+  },
+  {
+    "kz": "тартымды",
+    "en": "attractive,magnetic",
+    "zh": "有吸引力，有磁性"
+  },
+  {
+    "kz": "тартымдылық",
+    "en": "attraction",
+    "zh": "吸引力"
+  },
+  {
+    "kz": "тас",
+    "en": "stone",
+    "zh": "石头"
+  },
+  {
+    "kz": "тас жол",
+    "en": "highway",
+    "zh": "公路"
+  },
+  {
+    "kz": "таспа",
+    "en": "ribbon,tape",
+    "zh": "色带，胶带"
+  },
+  {
+    "kz": "тасымалдау",
+    "en": "transportation",
+    "zh": "运输"
+  },
+  {
+    "kz": "тасымалдаушы",
+    "en": "carrier",
+    "zh": "载体"
+  },
+  {
+    "kz": "тау",
+    "en": "mountain",
+    "zh": "山"
+  },
+  {
+    "kz": "тауар",
+    "en": "commodity",
+    "zh": "商品"
+  },
+  {
+    "kz": "тауық",
+    "en": "chicken",
+    "zh": "鸡"
+  },
+  {
+    "kz": "тағайындау",
+    "en": "appoint,enact,assign",
+    "zh": "任命，制定，分配"
+  },
+  {
+    "kz": "тағам",
+    "en": "dish",
+    "zh": "菜"
+  },
+  {
+    "kz": "тағдыр",
+    "en": "fate",
+    "zh": "命运"
+  },
+  {
+    "kz": "тағдырлы",
+    "en": "fatal",
+    "zh": "致命"
+  },
+  {
+    "kz": "тағы",
+    "en": "else",
+    "zh": "还"
+  },
+  {
+    "kz": "тағы да",
+    "en": "again,newly",
+    "zh": "再次，新"
+  },
+  {
+    "kz": "тақта",
+    "en": "board",
+    "zh": "板"
+  },
+  {
+    "kz": "тақырып",
+    "en": "theme,headline,topic,subject",
+    "zh": "主题，标题，主题，主题"
+  },
+  {
+    "kz": "таң",
+    "en": "dawn,morning",
+    "zh": "黎明，清晨"
+  },
+  {
+    "kz": "таң қалды",
+    "en": "surprised",
+    "zh": "惊讶"
+  },
+  {
+    "kz": "таңба",
+    "en": "symbol",
+    "zh": "象征"
+  },
+  {
+    "kz": "таңдалған",
+    "en": "selected",
+    "zh": "选择"
+  },
+  {
+    "kz": "таңдану",
+    "en": "wonder,admire",
+    "zh": "惊叹，欣赏"
+  },
+  {
+    "kz": "таңдау",
+    "en": "choice,select,selection,opt,choose,pick,pickup",
+    "zh": "选择，选择，选择，选择，挑选，拾取"
+  },
+  {
+    "kz": "таңғы ас",
+    "en": "breakfast",
+    "zh": "早餐"
+  },
+  {
+    "kz": "таңқаларлық",
+    "en": "surprisingly",
+    "zh": "竟然"
+  },
+  {
+    "kz": "театр",
+    "en": "theater",
+    "zh": "剧院"
+  },
+  {
+    "kz": "тебу",
+    "en": "kick",
+    "zh": "踢"
+  },
+  {
+    "kz": "тегін",
+    "en": "loose,free",
+    "zh": "松散，自由"
+  },
+  {
+    "kz": "тегіс",
+    "en": "smooth",
+    "zh": "光滑"
+  },
+  {
+    "kz": "тежегіш",
+    "en": "brake",
+    "zh": "制动"
+  },
+  {
+    "kz": "тек",
+    "en": "only",
+    "zh": "只"
+  },
+  {
+    "kz": "тек қана",
+    "en": "solely,exclusively",
+    "zh": "独一无二，独一无二"
+  },
+  {
+    "kz": "тексеру",
+    "en": "check,examination,inspection",
+    "zh": "检查，检查，检查"
+  },
+  {
+    "kz": "текстура",
+    "en": "texture",
+    "zh": "质地"
+  },
+  {
+    "kz": "телебағдарлама",
+    "en": "broadcast",
+    "zh": "广播"
+  },
+  {
+    "kz": "теледидар",
+    "en": "television",
+    "zh": "电视"
+  },
+  {
+    "kz": "телескоп",
+    "en": "telescope",
+    "zh": "望远镜"
+  },
+  {
+    "kz": "телефон",
+    "en": "telephone,phone",
+    "zh": "电话，电话"
+  },
+  {
+    "kz": "темекі",
+    "en": "tobacco,cigarette",
+    "zh": "烟草，香烟"
+  },
+  {
+    "kz": "температура",
+    "en": "temperature",
+    "zh": "温度"
+  },
+  {
+    "kz": "темір",
+    "en": "iron",
+    "zh": "铁"
+  },
+  {
+    "kz": "теміржол",
+    "en": "railroad",
+    "zh": "铁路"
+  },
+  {
+    "kz": "теннис",
+    "en": "tennis",
+    "zh": "网球"
+  },
+  {
+    "kz": "теология",
+    "en": "theology",
+    "zh": "神学"
+  },
+  {
+    "kz": "теологиялық",
+    "en": "theological",
+    "zh": "神学"
+  },
+  {
+    "kz": "теория",
+    "en": "theory",
+    "zh": "理论"
+  },
+  {
+    "kz": "теориялық",
+    "en": "theoretical",
+    "zh": "理论"
+  },
+  {
+    "kz": "тер",
+    "en": "sweat",
+    "zh": "汗"
+  },
+  {
+    "kz": "терапевт",
+    "en": "therapist",
+    "zh": "心理医生"
+  },
+  {
+    "kz": "терапия",
+    "en": "therapy",
+    "zh": "疗法"
+  },
+  {
+    "kz": "тербелу",
+    "en": "hesitate",
+    "zh": "犹豫"
+  },
+  {
+    "kz": "тергеу",
+    "en": "investigation,inquiry",
+    "zh": "调查，询价"
+  },
+  {
+    "kz": "тергеуші",
+    "en": "investigator",
+    "zh": "调查者"
+  },
+  {
+    "kz": "терезе",
+    "en": "window",
+    "zh": "窗"
+  },
+  {
+    "kz": "терең",
+    "en": "profound,deep,deeply",
+    "zh": "深刻，深刻，深刻"
+  },
+  {
+    "kz": "тереңдігі",
+    "en": "depth",
+    "zh": "深度"
+  },
+  {
+    "kz": "террор",
+    "en": "terror",
+    "zh": "恐怖"
+  },
+  {
+    "kz": "терроризм",
+    "en": "terrorism",
+    "zh": "恐怖主义"
+  },
+  {
+    "kz": "террорист",
+    "en": "terrorist",
+    "zh": "恐怖分子"
+  },
+  {
+    "kz": "теру",
+    "en": "recruit",
+    "zh": "招聘"
+  },
+  {
+    "kz": "тері",
+    "en": "leather,skin",
+    "zh": "皮革，皮肤"
+  },
+  {
+    "kz": "теріс",
+    "en": "negative",
+    "zh": "阴性"
+  },
+  {
+    "kz": "теріс пайдалану",
+    "en": "abuse",
+    "zh": "虐待"
+  },
+  {
+    "kz": "тест",
+    "en": "test",
+    "zh": "测试"
+  },
+  {
+    "kz": "тестілеу",
+    "en": "testing",
+    "zh": "测试"
+  },
+  {
+    "kz": "тесік",
+    "en": "hole",
+    "zh": "洞"
+  },
+  {
+    "kz": "техник",
+    "en": "technician",
+    "zh": "技术员"
+  },
+  {
+    "kz": "техника",
+    "en": "technique",
+    "zh": "技术"
+  },
+  {
+    "kz": "техникалық",
+    "en": "technical",
+    "zh": "专门的"
+  },
+  {
+    "kz": "технология",
+    "en": "technology",
+    "zh": "科技"
+  },
+  {
+    "kz": "технологиялық",
+    "en": "technological",
+    "zh": "技术性"
+  },
+  {
+    "kz": "тең",
+    "en": "equal,peer,equally",
+    "zh": "平等，对等，平等"
+  },
+  {
+    "kz": "теңдестірілген",
+    "en": "balanced",
+    "zh": "平衡"
+  },
+  {
+    "kz": "теңдеу",
+    "en": "equation",
+    "zh": "方程"
+  },
+  {
+    "kz": "теңдік",
+    "en": "equality",
+    "zh": "平等"
+  },
+  {
+    "kz": "теңіз",
+    "en": "sea,marine",
+    "zh": "海，海"
+  },
+  {
+    "kz": "тиесілі",
+    "en": "belong",
+    "zh": "属于"
+  },
+  {
+    "kz": "типтік",
+    "en": "typically,typical",
+    "zh": "典型，典型"
+  },
+  {
+    "kz": "тиімді",
+    "en": "effectively,effective,efficient",
+    "zh": "有效，有效，高效"
+  },
+  {
+    "kz": "тиімділік",
+    "en": "effectiveness,efficiency",
+    "zh": "有效性，效率"
+  },
+  {
+    "kz": "тиісті",
+    "en": "due",
+    "zh": "由于"
+  },
+  {
+    "kz": "тиісінше",
+    "en": "respectively",
+    "zh": "分别"
+  },
+  {
+    "kz": "тобық",
+    "en": "ankle",
+    "zh": "踝"
+  },
+  {
+    "kz": "тозақ",
+    "en": "hell,damn",
+    "zh": "地狱，该死的"
+  },
+  {
+    "kz": "толтыру",
+    "en": "fill",
+    "zh": "填补"
+  },
+  {
+    "kz": "толып кетті",
+    "en": "crowded",
+    "zh": "拥挤"
+  },
+  {
+    "kz": "толығымен",
+    "en": "entirely,completely,totally,fully",
+    "zh": "完全，完全，完全，完全"
+  },
+  {
+    "kz": "толығырақ",
+    "en": "detail",
+    "zh": "细节"
+  },
+  {
+    "kz": "толық",
+    "en": "complete,detailed,full",
+    "zh": "完整，详细，完整"
+  },
+  {
+    "kz": "толқу",
+    "en": "excitement",
+    "zh": "兴奋"
+  },
+  {
+    "kz": "толқын",
+    "en": "tide,wave",
+    "zh": "潮汐，波浪"
+  },
+  {
+    "kz": "тон",
+    "en": "tone",
+    "zh": "语气"
+  },
+  {
+    "kz": "топ",
+    "en": "band,group",
+    "zh": "乐队，组"
+  },
+  {
+    "kz": "топырақ",
+    "en": "soil",
+    "zh": "土"
+  },
+  {
+    "kz": "тор",
+    "en": "cage",
+    "zh": "笼"
+  },
+  {
+    "kz": "торт",
+    "en": "cake,pie",
+    "zh": "蛋糕，馅饼"
+  },
+  {
+    "kz": "тостаған",
+    "en": "bowl",
+    "zh": "碗"
+  },
+  {
+    "kz": "тосын сый",
+    "en": "surprise",
+    "zh": "惊喜"
+  },
+  {
+    "kz": "тоған",
+    "en": "pond",
+    "zh": "池塘"
+  },
+  {
+    "kz": "тоғыз",
+    "en": "nine",
+    "zh": "九"
+  },
+  {
+    "kz": "тоқсан",
+    "en": "quarter",
+    "zh": "季度"
+  },
+  {
+    "kz": "тоқтату",
+    "en": "cease",
+    "zh": "停止"
+  },
+  {
+    "kz": "тоқу",
+    "en": "weave",
+    "zh": "编织"
+  },
+  {
+    "kz": "трагедия",
+    "en": "tragedy",
+    "zh": "悲剧"
+  },
+  {
+    "kz": "транзит",
+    "en": "transit",
+    "zh": "通过"
+  },
+  {
+    "kz": "тренд",
+    "en": "trend,tendency",
+    "zh": "趋势，趋势"
+  },
+  {
+    "kz": "трендке ие болу",
+    "en": "tend",
+    "zh": "牧"
+  },
+  {
+    "kz": "триггер",
+    "en": "trigger",
+    "zh": "触发"
+  },
+  {
+    "kz": "тропикалық",
+    "en": "tropical",
+    "zh": "热带"
+  },
+  {
+    "kz": "тротуар",
+    "en": "sidewalk",
+    "zh": "人行道"
+  },
+  {
+    "kz": "ту",
+    "en": "flag",
+    "zh": "旗"
+  },
+  {
+    "kz": "туннель",
+    "en": "tunnel",
+    "zh": "隧道"
+  },
+  {
+    "kz": "тур",
+    "en": "tour",
+    "zh": "旅游"
+  },
+  {
+    "kz": "туралы",
+    "en": "pro,oh,about,out,by,at",
+    "zh": "亲，哦，关于，出，由，在"
+  },
+  {
+    "kz": "туризм",
+    "en": "tourism",
+    "zh": "旅游"
+  },
+  {
+    "kz": "турист",
+    "en": "tourist",
+    "zh": "旅游者"
+  },
+  {
+    "kz": "турнир",
+    "en": "tournament",
+    "zh": "比赛"
+  },
+  {
+    "kz": "туылу",
+    "en": "birth",
+    "zh": "出生"
+  },
+  {
+    "kz": "туыс",
+    "en": "relative",
+    "zh": "相对"
+  },
+  {
+    "kz": "туған",
+    "en": "born,native",
+    "zh": "出生，土生土长"
+  },
+  {
+    "kz": "туған ағасы",
+    "en": "sibling",
+    "zh": "兄弟"
+  },
+  {
+    "kz": "туған күн",
+    "en": "birthday",
+    "zh": "生日"
+  },
+  {
+    "kz": "тыйым",
+    "en": "ban",
+    "zh": "禁止"
+  },
+  {
+    "kz": "тыйым салу",
+    "en": "prohibit,forbid",
+    "zh": "禁止，禁止"
+  },
+  {
+    "kz": "тыныс алу",
+    "en": "breathing,breath,breathe",
+    "zh": "呼吸，呼吸，呼吸"
+  },
+  {
+    "kz": "тыныш",
+    "en": "quiet,silent,quietly,calm",
+    "zh": "安静，安静，安静，平静"
+  },
+  {
+    "kz": "тыныштық",
+    "en": "silence",
+    "zh": "沉默"
+  },
+  {
+    "kz": "тырнақ",
+    "en": "nail",
+    "zh": "指甲"
+  },
+  {
+    "kz": "тышқан",
+    "en": "mouse",
+    "zh": "鼠"
+  },
+  {
+    "kz": "тығыз",
+    "en": "tightly,dense,tight,closely",
+    "zh": "紧，密，紧"
+  },
+  {
+    "kz": "тығыздық",
+    "en": "density",
+    "zh": "密度"
+  },
+  {
+    "kz": "тықылдату",
+    "en": "poke",
+    "zh": "戳"
+  },
+  {
+    "kz": "тыңда",
+    "en": "listen",
+    "zh": "听"
+  },
+  {
+    "kz": "тыңдаушы",
+    "en": "listener",
+    "zh": "听者"
+  },
+  {
+    "kz": "тыңшы",
+    "en": "spy",
+    "zh": "间谍"
+  },
+  {
+    "kz": "тізбек",
+    "en": "chain",
+    "zh": "链"
+  },
+  {
+    "kz": "тізе",
+    "en": "knee",
+    "zh": "膝盖"
+  },
+  {
+    "kz": "тізе бүгіңіз",
+    "en": "kneel",
+    "zh": "跪"
+  },
+  {
+    "kz": "тізім",
+    "en": "list",
+    "zh": "列表"
+  },
+  {
+    "kz": "тік",
+    "en": "vertical",
+    "zh": "垂直"
+  },
+  {
+    "kz": "тікелей",
+    "en": "directly,straight,direct",
+    "zh": "直接，直，直接"
+  },
+  {
+    "kz": "тікұшақ",
+    "en": "helicopter",
+    "zh": "直升机"
+  },
+  {
+    "kz": "тіл",
+    "en": "tongue,language",
+    "zh": "舌头，语言"
+  },
+  {
+    "kz": "тілек",
+    "en": "desire,wish",
+    "zh": "愿望，愿望"
+  },
+  {
+    "kz": "тілші",
+    "en": "correspondent",
+    "zh": "记者"
+  },
+  {
+    "kz": "тілім",
+    "en": "slice",
+    "zh": "片"
+  },
+  {
+    "kz": "тіпті",
+    "en": "even",
+    "zh": "甚至"
+  },
+  {
+    "kz": "тіркеме",
+    "en": "trailer",
+    "zh": "拖车"
+  },
+  {
+    "kz": "тіркеу",
+    "en": "register,enroll",
+    "zh": "注册，注册"
+  },
+  {
+    "kz": "тіршілік ету ортасы",
+    "en": "habitat",
+    "zh": "生境"
+  },
+  {
+    "kz": "тірі",
+    "en": "living,alive",
+    "zh": "活生生的，活的"
+  },
+  {
+    "kz": "тірі қалу",
+    "en": "survival",
+    "zh": "生存"
+  },
+  {
+    "kz": "тірі қалған",
+    "en": "survivor",
+    "zh": "幸存者"
+  },
+  {
+    "kz": "тіс",
+    "en": "tooth",
+    "zh": "牙"
+  },
+  {
+    "kz": "тістерді жұлу",
+    "en": "grin",
+    "zh": "笑容"
+  },
+  {
+    "kz": "тістеу",
+    "en": "bite",
+    "zh": "咬"
+  },
+  {
+    "kz": "түбі",
+    "en": "bottom",
+    "zh": "底"
+  },
+  {
+    "kz": "түгендеу",
+    "en": "inventory",
+    "zh": "库存"
+  },
+  {
+    "kz": "түзету",
+    "en": "amendment,fix,straighten",
+    "zh": "修正，修复，拉直"
+  },
+  {
+    "kz": "түзетілді",
+    "en": "fixed",
+    "zh": "固定"
+  },
+  {
+    "kz": "түйме",
+    "en": "button",
+    "zh": "按钮"
+  },
+  {
+    "kz": "түйіндеме",
+    "en": "summary",
+    "zh": "总结"
+  },
+  {
+    "kz": "түкіру",
+    "en": "spit",
+    "zh": "吐"
+  },
+  {
+    "kz": "түлек",
+    "en": "graduate",
+    "zh": "毕业"
+  },
+  {
+    "kz": "түн",
+    "en": "night",
+    "zh": "晚上"
+  },
+  {
+    "kz": "түн ортасы",
+    "en": "midnight",
+    "zh": "午夜"
+  },
+  {
+    "kz": "түнгі қорқыныш",
+    "en": "nightmare",
+    "zh": "噩梦"
+  },
+  {
+    "kz": "түнеу",
+    "en": "overnight",
+    "zh": "一"
+  },
+  {
+    "kz": "түпнұсқа",
+    "en": "original",
+    "zh": "源语言"
+  },
+  {
+    "kz": "түрлендіру",
+    "en": "transform,transformation,conversion,convert",
+    "zh": "转换，转换，转换，转换"
+  },
+  {
+    "kz": "түсті",
+    "en": "colorful",
+    "zh": "丰富多彩"
+  },
+  {
+    "kz": "түрме",
+    "en": "prison,jail",
+    "zh": "监狱，监狱"
+  },
+  {
+    "kz": "түрту",
+    "en": "knock",
+    "zh": "敲"
+  },
+  {
+    "kz": "түрі",
+    "en": "species,view,type",
+    "zh": "物种，视图，类型"
+  },
+  {
+    "kz": "түс",
+    "en": "noon",
+    "zh": "中午"
+  },
+  {
+    "kz": "түскі ас",
+    "en": "dinner,dining,lunch",
+    "zh": "晚餐，餐饮，午餐"
+  },
+  {
+    "kz": "түстен кейін",
+    "en": "PM",
+    "zh": "下午"
+  },
+  {
+    "kz": "түсі",
+    "en": "color",
+    "zh": "颜色"
+  },
+  {
+    "kz": "түсіндіру",
+    "en": "interpretation,explain,explanation,interpret",
+    "zh": "解释，解释，解释，解释"
+  },
+  {
+    "kz": "түсіну",
+    "en": "understand,understanding",
+    "zh": "理解，理解"
+  },
+  {
+    "kz": "түсінікті",
+    "en": "clear",
+    "zh": "清楚"
+  },
+  {
+    "kz": "түсіністік",
+    "en": "insight",
+    "zh": "洞察力"
+  },
+  {
+    "kz": "түсіру",
+    "en": "grab,capture,grip",
+    "zh": "抓取，捕获，抓握"
+  },
+  {
+    "kz": "түтік",
+    "en": "tube",
+    "zh": "管"
+  },
+  {
+    "kz": "түтін",
+    "en": "smoke",
+    "zh": "烟"
+  },
+  {
+    "kz": "тұжырымдама",
+    "en": "concept,conception",
+    "zh": "概念，概念"
+  },
+  {
+    "kz": "тұжырымдау",
+    "en": "articulate",
+    "zh": "有关节的"
+  },
+  {
+    "kz": "тұз",
+    "en": "salt",
+    "zh": "盐"
+  },
+  {
+    "kz": "тұзақ",
+    "en": "trap",
+    "zh": "陷阱"
+  },
+  {
+    "kz": "тұздық",
+    "en": "sauce",
+    "zh": "酱"
+  },
+  {
+    "kz": "тұлға",
+    "en": "personality,face",
+    "zh": "个性，脸"
+  },
+  {
+    "kz": "тұман",
+    "en": "fog",
+    "zh": "雾"
+  },
+  {
+    "kz": "тұр",
+    "en": "standing",
+    "zh": "站"
+  },
+  {
+    "kz": "тұрақ",
+    "en": "parking",
+    "zh": "停车"
+  },
+  {
+    "kz": "тұрақты",
+    "en": "conventional,ordinary,sustainable,regular,steady,constant,stable,usual,constantly,permanent,normal",
+    "zh": "常规的，普通的，可持续的，有规律的，稳定的，恒定的，稳定的，通常的，恒定的，永久的，正常的"
+  },
+  {
+    "kz": "тұрақтылық",
+    "en": "stability",
+    "zh": "稳定性"
+  },
+  {
+    "kz": "тұру",
+    "en": "stand,consist",
+    "zh": "展台，组成"
+  },
+  {
+    "kz": "тұрғын үй",
+    "en": "residential,housing",
+    "zh": "住宅"
+  },
+  {
+    "kz": "тұрғыны",
+    "en": "resident",
+    "zh": "居民"
+  },
+  {
+    "kz": "тұтастық",
+    "en": "integrity",
+    "zh": "正直"
+  },
+  {
+    "kz": "тұтыну",
+    "en": "consumption,consume,expense",
+    "zh": "消费，消费，支出"
+  },
+  {
+    "kz": "тұтынушы",
+    "en": "consumer,spending",
+    "zh": "消费者，消费"
+  },
+  {
+    "kz": "тұтқын",
+    "en": "prisoner,inmate",
+    "zh": "囚犯，囚犯"
+  },
+  {
+    "kz": "тұқым",
+    "en": "seed",
+    "zh": "种子"
+  },
+  {
+    "kz": "тәжірибе",
+    "en": "experience,practice",
+    "zh": "经验，实践"
+  },
+  {
+    "kz": "тәжірибелі",
+    "en": "experienced",
+    "zh": "经历"
+  },
+  {
+    "kz": "тәжірибеші дәрігер",
+    "en": "practitioner",
+    "zh": "医生"
+  },
+  {
+    "kz": "тәлімгер",
+    "en": "mentor",
+    "zh": "导师"
+  },
+  {
+    "kz": "тән",
+    "en": "inherent",
+    "zh": "固有"
+  },
+  {
+    "kz": "тәрбиеші",
+    "en": "educator",
+    "zh": "教育家"
+  },
+  {
+    "kz": "тәртіп",
+    "en": "discipline",
+    "zh": "学科"
+  },
+  {
+    "kz": "тәртіпсіздік",
+    "en": "mess",
+    "zh": "伙食"
+  },
+  {
+    "kz": "тәсіл",
+    "en": "approach",
+    "zh": "方法"
+  },
+  {
+    "kz": "тәтті",
+    "en": "sweet",
+    "zh": "甜"
+  },
+  {
+    "kz": "тәуекелге бару",
+    "en": "risk",
+    "zh": "风险"
+  },
+  {
+    "kz": "тәуелді",
+    "en": "depending,dependent",
+    "zh": "依赖，依赖"
+  },
+  {
+    "kz": "тәуелсіз",
+    "en": "independent",
+    "zh": "独立"
+  },
+  {
+    "kz": "төбе",
+    "en": "hill",
+    "zh": "山"
+  },
+  {
+    "kz": "төбелес",
+    "en": "fighting",
+    "zh": "战斗"
+  },
+  {
+    "kz": "төбесі",
+    "en": "roof,ceiling",
+    "zh": "屋顶，天花板"
+  },
+  {
+    "kz": "төгу",
+    "en": "spill",
+    "zh": "泄漏"
+  },
+  {
+    "kz": "төзімділік",
+    "en": "tolerance",
+    "zh": "宽容"
+  },
+  {
+    "kz": "төлем",
+    "en": "payment",
+    "zh": "付款"
+  },
+  {
+    "kz": "төлеу",
+    "en": "pay",
+    "zh": "支付"
+  },
+  {
+    "kz": "төмен",
+    "en": "low,down",
+    "zh": "低，低"
+  },
+  {
+    "kz": "төмен түсу",
+    "en": "descend",
+    "zh": "下降"
+  },
+  {
+    "kz": "төменде",
+    "en": "below,lower",
+    "zh": "下方，下部"
+  },
+  {
+    "kz": "төмендеу",
+    "en": "decline",
+    "zh": "下降"
+  },
+  {
+    "kz": "төрт",
+    "en": "four",
+    "zh": "四"
+  },
+  {
+    "kz": "төртінші",
+    "en": "fourth",
+    "zh": "第四"
+  },
+  {
+    "kz": "төсек",
+    "en": "bed",
+    "zh": "床"
+  },
+  {
+    "kz": "төтенше жағдай",
+    "en": "emergency",
+    "zh": "紧急"
+  },
+  {
+    "kz": "төңкеріс",
+    "en": "coup",
+    "zh": "政变"
+  },
+  {
+    "kz": "уайымдау",
+    "en": "anxious,worry",
+    "zh": "焦虑，担心"
+  },
+  {
+    "kz": "уағыздау",
+    "en": "preach",
+    "zh": "鼓吹"
+  },
+  {
+    "kz": "уақыт",
+    "en": "time",
+    "zh": "时间"
+  },
+  {
+    "kz": "уақытша",
+    "en": "temporary",
+    "zh": "临时"
+  },
+  {
+    "kz": "улы",
+    "en": "toxic",
+    "zh": "有毒"
+  },
+  {
+    "kz": "университет",
+    "en": "university",
+    "zh": "大学"
+  },
+  {
+    "kz": "уәде",
+    "en": "promise",
+    "zh": "承诺"
+  },
+  {
+    "kz": "уәкілетті",
+    "en": "commissioner",
+    "zh": "专员"
+  },
+  {
+    "kz": "фаза",
+    "en": "phase",
+    "zh": "阶段"
+  },
+  {
+    "kz": "файл",
+    "en": "file",
+    "zh": "文件"
+  },
+  {
+    "kz": "факт",
+    "en": "fact",
+    "zh": "事实"
+  },
+  {
+    "kz": "фактор",
+    "en": "factor",
+    "zh": "因素"
+  },
+  {
+    "kz": "факультет",
+    "en": "faculty",
+    "zh": "能力"
+  },
+  {
+    "kz": "фантастикалық",
+    "en": "fantastic",
+    "zh": "匪夷所思"
+  },
+  {
+    "kz": "федералдық",
+    "en": "federal",
+    "zh": "联邦"
+  },
+  {
+    "kz": "феминист",
+    "en": "feminist",
+    "zh": "女权扩张论者"
+  },
+  {
+    "kz": "ферма",
+    "en": "farm",
+    "zh": "农场"
+  },
+  {
+    "kz": "фермер",
+    "en": "farmer",
+    "zh": "农民"
+  },
+  {
+    "kz": "фестиваль",
+    "en": "festival",
+    "zh": "节日"
+  },
+  {
+    "kz": "фигура",
+    "en": "figure",
+    "zh": "数字"
+  },
+  {
+    "kz": "физика",
+    "en": "physics",
+    "zh": "物理"
+  },
+  {
+    "kz": "физикалық",
+    "en": "physical,physically",
+    "zh": "物理，物理"
+  },
+  {
+    "kz": "филиал",
+    "en": "branch",
+    "zh": "分支"
+  },
+  {
+    "kz": "философия",
+    "en": "philosophy",
+    "zh": "哲学"
+  },
+  {
+    "kz": "философиялық",
+    "en": "philosophical",
+    "zh": "哲学"
+  },
+  {
+    "kz": "фильм",
+    "en": "film",
+    "zh": "影片"
+  },
+  {
+    "kz": "фискалдық",
+    "en": "fiscal",
+    "zh": "财政"
+  },
+  {
+    "kz": "фитнес",
+    "en": "fitness",
+    "zh": "健康"
+  },
+  {
+    "kz": "флот",
+    "en": "fleet",
+    "zh": "舰队"
+  },
+  {
+    "kz": "фокус",
+    "en": "concentration",
+    "zh": "浓度"
+  },
+  {
+    "kz": "фон",
+    "en": "background",
+    "zh": "背景"
+  },
+  {
+    "kz": "форма",
+    "en": "uniform",
+    "zh": "均匀"
+  },
+  {
+    "kz": "формат",
+    "en": "format",
+    "zh": "格式"
+  },
+  {
+    "kz": "формула",
+    "en": "formula",
+    "zh": "公式"
+  },
+  {
+    "kz": "фортепиано",
+    "en": "piano",
+    "zh": "钢琴"
+  },
+  {
+    "kz": "форум",
+    "en": "forum",
+    "zh": "论坛"
+  },
+  {
+    "kz": "фото",
+    "en": "photo",
+    "zh": "相片"
+  },
+  {
+    "kz": "фотограф",
+    "en": "photographer",
+    "zh": "摄影师"
+  },
+  {
+    "kz": "фотосурет",
+    "en": "photography,photograph",
+    "zh": "摄影，摄影"
+  },
+  {
+    "kz": "фрагмент",
+    "en": "fragment",
+    "zh": "片段"
+  },
+  {
+    "kz": "функционалды",
+    "en": "functional",
+    "zh": "功能的"
+  },
+  {
+    "kz": "функция",
+    "en": "function",
+    "zh": "功能"
+  },
+  {
+    "kz": "фунт",
+    "en": "pound",
+    "zh": "磅"
+  },
+  {
+    "kz": "фургон",
+    "en": "van",
+    "zh": "货车"
+  },
+  {
+    "kz": "футбол",
+    "en": "football,soccer",
+    "zh": "足球，足球"
+  },
+  {
+    "kz": "ха",
+    "en": "ha,huh",
+    "zh": "哈，呵呵"
+  },
+  {
+    "kz": "хабар",
+    "en": "message",
+    "zh": "消息"
+  },
+  {
+    "kz": "хабардар",
+    "en": "aware",
+    "zh": "意识到的"
+  },
+  {
+    "kz": "хабардарлық",
+    "en": "awareness",
+    "zh": "意识"
+  },
+  {
+    "kz": "хабарлама",
+    "en": "notice",
+    "zh": "通知"
+  },
+  {
+    "kz": "хабарландыру",
+    "en": "announcement",
+    "zh": "公告"
+  },
+  {
+    "kz": "хабарланғандай",
+    "en": "reportedly",
+    "zh": "据说"
+  },
+  {
+    "kz": "халық",
+    "en": "population,folk",
+    "zh": "人口，民俗"
+  },
+  {
+    "kz": "халықаралық",
+    "en": "international",
+    "zh": "国际"
+  },
+  {
+    "kz": "ханым",
+    "en": "lady",
+    "zh": "女士"
+  },
+  {
+    "kz": "хаос",
+    "en": "chaos",
+    "zh": "混沌"
+  },
+  {
+    "kz": "хат",
+    "en": "letter",
+    "zh": "信"
+  },
+  {
+    "kz": "хаттама",
+    "en": "protocol",
+    "zh": "协议"
+  },
+  {
+    "kz": "хатшы",
+    "en": "secretary",
+    "zh": "秘书"
+  },
+  {
+    "kz": "химия",
+    "en": "chemistry",
+    "zh": "化学"
+  },
+  {
+    "kz": "химиялық",
+    "en": "chemical",
+    "zh": "化学的"
+  },
+  {
+    "kz": "хирург",
+    "en": "surgeon",
+    "zh": "外科医生"
+  },
+  {
+    "kz": "хирургия",
+    "en": "surgery",
+    "zh": "手术"
+  },
+  {
+    "kz": "хоккей",
+    "en": "hockey",
+    "zh": "曲棍球"
+  },
+  {
+    "kz": "холестерин",
+    "en": "cholesterol",
+    "zh": "胆固醇"
+  },
+  {
+    "kz": "хост",
+    "en": "host",
+    "zh": "主机"
+  },
+  {
+    "kz": "хош иіс",
+    "en": "flavor",
+    "zh": "味道"
+  },
+  {
+    "kz": "цикл",
+    "en": "loop,cycle",
+    "zh": "循环，循环"
+  },
+  {
+    "kz": "чемпион",
+    "en": "champion",
+    "zh": "冠军"
+  },
+  {
+    "kz": "чемпионат",
+    "en": "championship",
+    "zh": "冠军"
+  },
+  {
+    "kz": "чип",
+    "en": "chip",
+    "zh": "芯片"
+  },
+  {
+    "kz": "шабандоз",
+    "en": "rider",
+    "zh": "骑手"
+  },
+  {
+    "kz": "шабуыл",
+    "en": "assault,attack",
+    "zh": "突击，攻击"
+  },
+  {
+    "kz": "шабыттандыру",
+    "en": "inspire",
+    "zh": "激发"
+  },
+  {
+    "kz": "шай",
+    "en": "tea",
+    "zh": "茶"
+  },
+  {
+    "kz": "шай қасық",
+    "en": "teaspoon",
+    "zh": "茶匙"
+  },
+  {
+    "kz": "шайнау",
+    "en": "chew",
+    "zh": "嚼"
+  },
+  {
+    "kz": "шайқас",
+    "en": "battle,fight",
+    "zh": "战斗，战斗"
+  },
+  {
+    "kz": "шайқау",
+    "en": "shake,overwhelm",
+    "zh": "摇晃，不知所措"
+  },
+  {
+    "kz": "шам",
+    "en": "candle,lamp",
+    "zh": "蜡烛，灯"
+  },
+  {
+    "kz": "шамадан тыс",
+    "en": "excessive",
+    "zh": "过度"
+  },
+  {
+    "kz": "шамамен",
+    "en": "approximately,nearly",
+    "zh": "大约，几乎"
+  },
+  {
+    "kz": "шамасы",
+    "en": "magnitude,seemingly",
+    "zh": "量级，看似"
+  },
+  {
+    "kz": "шанышқы",
+    "en": "fork",
+    "zh": "叉"
+  },
+  {
+    "kz": "шапалақтау",
+    "en": "slam",
+    "zh": "满贯"
+  },
+  {
+    "kz": "шапқыншылық",
+    "en": "invasion",
+    "zh": "侵入"
+  },
+  {
+    "kz": "шара",
+    "en": "measure",
+    "zh": "量"
+  },
+  {
+    "kz": "шарап",
+    "en": "wine",
+    "zh": "酒"
+  },
+  {
+    "kz": "шараптар",
+    "en": "blame",
+    "zh": "怪"
+  },
+  {
+    "kz": "шарт",
+    "en": "treaty",
+    "zh": "条约"
+  },
+  {
+    "kz": "шарттар",
+    "en": "terms",
+    "zh": "条款"
+  },
+  {
+    "kz": "шаруа",
+    "en": "peasant",
+    "zh": "农民"
+  },
+  {
+    "kz": "шаршау",
+    "en": "fatigue",
+    "zh": "疲劳"
   }
 ]
