@@ -4805,3 +4805,1261 @@ cәлеметсіз бе hello 你好
 шаруа peasant 农民
 
 шаршау fatigue 疲劳
+
+шаршаған tired 累
+
+шатасу confusion 混乱
+
+шаттл shuttle 穿梭
+
+шатыр tent 帐篷
+
+шаш hair 毛
+
+шашырау sprinkle,scatter 洒，散
+
+шағым claim,complaint 索赔，投诉
+
+шағымдану complain 抱怨
+
+шақыру challenge,invite,call,invitation 挑战，邀请，电话，邀请
+
+шаң dust 灰尘
+
+шаңғы тебу ski 滑雪
+
+шебер master,skilled 大师，熟练
+
+шеберхана workshop 车间
+
+шегі limit 限制
+
+шегіну retreat 撤退
+
+шекара frontier,border,boundary 边界，边界，边界
+
+шексіз endless 无穷
+
+шектеу restriction,constraint,limitation,restrict 限制，约束，限制，限制
+
+шектеулі limited 有限
+
+шеру parade 游行
+
+шетелде abroad 国外
+
+шетелдік foreigner,foreign 外国人，外国人
+
+шеті edge 边缘
+
+шешен speaker 议长
+
+шешу decide,solve 决定，解决
+
+шешім decision,solution 决策，解决方案
+
+шеңбер lap,circle 圈，圆
+
+шикі raw .raw
+
+шина tire 累
+
+шкаф closet 壁橱
+
+шок shock 休克
+
+шоколад chocolate 巧克力
+
+шолу recall,review 召回，回顾
+
+шолушы columnist 专栏 作家
+
+шорт shorts 短裤
+
+шот score,account 分数，帐户
+
+шошқа pig 猪
+
+шошқа еті pork 猪肉
+
+шоғырландыру focus 重点
+
+штаб-пәтері headquarters 总部
+
+шыдамды patient 病人
+
+шыдамдылық patience 耐心
+
+шыдау endure,tolerate 忍受，容忍
+
+шын мәнінде actually 实际上
+
+шынайы genuine,realistic,true 真实、求实、真实
+
+шындық reality 现实
+
+шынтақ elbow 肘
+
+шыны glass 玻璃
+
+шынымды айтсам frankly 坦率 地 说
+
+шынында да virtually,truly,really,indeed 虚拟，真的，真的，确实
+
+шырын juice 汁
+
+шытырман оқиға adventure 奇遇
+
+шығармашылық creativity,creative 创意，创意
+
+шығару withdraw,derive 提现，派生
+
+шығу output,exit,quit,leave,outlet 输出，退出，退出，离开，出口
+
+шығу тегі origin 起源
+
+шыңы peak 峰
+
+шіркеу church 教堂
+
+шұлық sock 袜子
+
+шұғыл prompt 提示
+
+шұңқыр pit 坑
+
+шөл wilderness,desert 荒野，沙漠
+
+шөлдеу eager 渴望
+
+шөп herb,grass 草本，草
+
+щек cheek 脸颊
+
+щетка brush 刷
+
+ынта enthusiasm 热情
+
+ынталандыру encourage,incentive,stimulate,urge,motivate,stimulus 鼓励，激励，刺激，冲动，激励，刺激
+
+ынтымақтастық cooperate,collaboration,cooperation,partnership 合作，协作，合作，伙伴关系
+
+ыстық hot 热
+
+ысқылау rub 擦
+
+ықпалды influential 有影响
+
+ықтимал potentially 潜在
+
+ықтималдығы likelihood 可能性
+
+ыңғайлы comfortable 舒适
+
+ыңғайлылық convenience 方便
+
+ыңғайсыз uncomfortable 难受
+
+эволюция evolution 演化
+
+эго ego 自我
+
+эй hey 嘿
+
+экзотикалық exotic 异国情调
+
+экипаж crew 船员
+
+экожүйе ecosystem 生态系统
+
+экологиялық ecological,environmental 生态、环保
+
+экономика economics,economy,economic 经济，经济，经济
+
+экономикалық economically 经济
+
+экономист economist 经济学家
+
+экран screen 屏幕
+
+эксклюзивті exclusive 独家
+
+экспедиция expedition 远征
+
+эксперимент experiment 实验
+
+эксперименттік experimental 实验的
+
+экспорт export 出口
+
+экспресс express 表达
+
+экстремалды extreme 极端
+
+электр electrical,electric 电气，电动
+
+электр қуаты electricity 电力
+
+электрондық electronic 电子的
+
+электрондық пошта e-mail 电子邮件
+
+электроника electronics 电子学
+
+элемент element 元素
+
+элита elite 精英
+
+эмоционалды emotional,emotionally 情感上，情感上
+
+эмоция emotion 情感
+
+энергия energy 能源
+
+эпидемия epidemic 流行
+
+эпизод episode 插曲
+
+эссе essay 文章
+
+эстетикалық aesthetic 美学的
+
+этика ethics 伦理学
+
+этикалық ethical 伦理
+
+этникалық ethnic 民族
+
+юбка skirt 裙子
+
+юрисдикция jurisdiction 管辖
+
+явіліс devil 魔鬼
+
+ядро core 核心
+
+ядролық nuclear 核
+
+яғни. ie 即
+
+із trail,trace 跟踪，跟踪
+
+ізгілік virtue 美德
+
+іздеу seek,quest,search 搜索，任务，搜索
+
+ілу hang 挂
+
+іргелі underlying 底层
+
+ірі қара cattle 牛
+
+ірімшік cheese 奶酪
+
+іс case,affair,occasion,matter 案例，外遇，场合，事项
+
+іс жүзінде practically 几乎
+
+іске асыру realize,implementation 实现，实施
+
+іске қосу launch 发射
+
+істеу do,make 做，做
+
+ісік tumor 瘤
+
+ісіну swell 膨胀
+
+іш belly 腹
+
+ішек gut 肠
+
+ішкі domestic,internal,inner 国内，内部，内部
+
+ішу drink 喝
+
+ішінара partial,partly,partially 部分，部分，部分
+
+ішінде during,within,inside 期间，内部，内部
+
+ғажайып miracle 奇迹
+
+ғалам universe 宇宙
+
+ғалым scholar,scientist 学者，科学家
+
+ғасыр century 世纪
+
+ғашық lover 情人
+
+ғибадатхана temple 寺庙
+
+ғимарат building 建筑
+
+ғылым science 科学
+
+ғылыми scientific 科学的
+
+Қазына treasure 珍惜
+
+Қанат wing 翅膀
+
+Қарулы armed 持械
+
+Қасқыр wolf 狼
+
+Қытай Chinese 中文
+
+Құдай God,divine 神，神
+
+қабат floor,layer 地板，层
+
+қабағын түйу frown 皱眉
+
+қабылданды perceived 认为
+
+қабылдау undertake,conceive,perception,accept,adopt,adoption,perceive,acceptance,reception 承担，构思，感知，接受，采用，采用，感知，接受，接受
+
+қабылдағыш receiver 接收器
+
+қабырға wall,rib 壁，肋骨
+
+қабығы peel 皮
+
+қабық shell 壳
+
+қабілетті able,capable 能，能
+
+қабілеті capability,ability 能力，能力
+
+қабір grave 坟墓
+
+қадам stair,step 楼梯，台阶
+
+қадір-қасиет dignity 尊严
+
+қажетті required,necessary 必需，必需
+
+қажеттілік necessity,need 必要性，需要
+
+қазу dig 挖
+
+қазылар алқасы jury 陪审团
+
+қазір now 现在
+
+қазіргі уақытта currently 现在
+
+қазірдің өзінде already 已经
+
+қайда where 哪里
+
+қайда болар еді wherever 无论何处
+
+қайсысы which 哪
+
+қайта repeatedly 反复
+
+қайта құру rebuild 重建
+
+қайта өңдеу utilize 利用
+
+қайталау repeat 重复
+
+қайтару return 返回
+
+қайтымсыз compelling 引人注目
+
+қайырымдылық donation,charity 捐赠，慈善
+
+қайық boat 船
+
+қайғы grief 悲伤
+
+қайғылы tragic,sad 悲惨，悲哀
+
+қала town,city 城镇，城市
+
+қала маңы suburban,suburb 郊区，郊区
+
+қала орталығында downtown 市中心
+
+қалай how,as 如何，作为
+
+қалай болғанда да anyway,somehow 无论如何，不知何故
+
+қалалық urban 都市的
+
+қалам pen,feather 笔，羽毛
+
+қалау want 要
+
+қалдыру abandon 放弃
+
+қалдықтар waste 浪费
+
+қалпына келтіру recover,recovery,regain,restore 恢复，恢复，恢复，恢复
+
+қалта pocket 口袋
+
+қалу stay,remain 留下来，留下来
+
+қалықтау soar 飙升
+
+қалың thick 厚
+
+қалыңдық bride 新娘
+
+қалған remaining 剩余
+
+қалғаны rest 休息
+
+қалқымалы emerge 出现
+
+қамауға алу arrest 逮捕
+
+қамтамасыз ету provision,provide 提供，提供
+
+қамту cover,coverage 覆盖，覆盖
+
+қамшы whip 鞭子
+
+қамыр dough 面团
+
+қамқорлық care 关心
+
+қамқоршылық custody 保管
+
+қан blood 血
+
+қанағаттандыру satisfy 满足
+
+қанағаттану satisfaction 满意
+
+қандай да бір жолмен somewhat 有点
+
+қанды bloody 血腥
+
+қант sugar 糖
+
+қант диабеті diabetes 糖尿病
+
+қап sack 袋
+
+қар snow 雪
+
+қара black 黑
+
+қарама-қарсы opposed,opposite 对立，对立
+
+қарамастан despite,regardless 尽管，不管
+
+қарапайым easy,merely,simply,plain,simple,just,mere 简单，单纯，简单，简单，简单，公正，单纯
+
+қарастыру consider,consideration 考虑，考虑
+
+қарау look 看
+
+қарағай pine 松
+
+қарағанда than 比
+
+қараңыз see 看
+
+қараңғы dark 黑暗
+
+қараңғылық darkness 黑暗
+
+қаржы finance 金融
+
+қаржыландыру funding 资金
+
+қаржылық financial 财力
+
+қарсы vs,oppose,versus,against vs，反对，vsus，反对
+
+қарсы тұру confront,resist 对抗，抵抗
+
+қарсылас rival,opponent 对手，对手
+
+қарсыласу confrontation 对质
+
+қарсылық opposition,resistance,objection 反对，抵抗，反对
+
+қарт elderly 老年
+
+қару weapon 武器
+
+қарыз debt 债务
+
+қарыз алу borrow 借
+
+қарыз беру lend 借
+
+қарым-қатынас refer,relationship,relate 引用，关系，关联
+
+қарындаш pencil 铅笔
+
+қарғыс атсын fucking 他妈的
+
+қарқынды intense 激烈
+
+қарқындылығы intensity 强度
+
+қарқыны pace 步伐
+
+қас eyebrow 眉
+
+қасбет front 前面
+
+қасиетті sacred 神圣
+
+қастандық conspiracy 阴谋
+
+қасық spoon 勺子
+
+қатайту tighten 收紧
+
+қатал harsh,severe 苛刻，严重
+
+қатар row 排
+
+қатаң strictly,strict 严格，严格
+
+қате wrong,mistake,error,fault 错误，错误，错误，错误
+
+қатерлі ісік cancer 癌症
+
+қатты loud,strongly,solid,stiff,firm,severely,tough,firmly 响亮，强烈，坚实，僵硬，坚定，严重，坚韧，坚定
+
+қатыгез cruel,fierce 残忍，凶猛
+
+қатынас relation,attitude 关系，态度
+
+қатысу involvement,presence,participation,implication,participate 参与，存在，参与，暗示，参与
+
+қатысушы participant,contributor 参与者，贡献者
+
+қатысқан involved 涉及
+
+қауымдастық association 协会
+
+қауіп threat,hazard,danger 威胁，危险，危险
+
+қауіпсіз safely,secure,safe 安全，安心，安全
+
+қауіпсіздік security,safety 安保，安全
+
+қауіпті dangerous,risky 危险，有风险
+
+қашан when 什么时候
+
+қашу escape 逃
+
+қашықтан remote 远程
+
+қашықтық distance 距离
+
+қағаз paper 纸
+
+қақпа gate 门
+
+қақпақ lid 盖子
+
+қимыл gesture 手势
+
+қирандылар debris 碎片
+
+қисық curve 曲线
+
+қиылысу cross 渡
+
+қиын hard,heavily,difficult 难，重，难
+
+қиындық difficulty,trouble 困难，麻烦
+
+қиял fantasy,imagination 幻想，想象
+
+қозғалтқыш motor,engine 电机，发动机
+
+қозғалыс movement,traffic,motion 运动，交通，运动
+
+қой sheep 羊
+
+қойма warehouse,stock 仓库，库存
+
+қол arm,hand 手臂，手
+
+қол жеткізу access 访问
+
+қол жетімді available,accessible 可用，可访问
+
+қол жетімділік availability 可用性
+
+қол тигізу touch 触摸
+
+қола bronze 青铜
+
+қолайлы suitable,appropriate,relevant,favorable,acceptable 合适、适当、相关、有利、可接受
+
+қолдану apply 应用
+
+қолдау sustain,supportive,support,maintain 维持，支持，支持，维护
+
+қолдаушы supporter 支持者
+
+қолма-қол ақша cash 现金
+
+қолы signature 签名
+
+қолғап glove 手套
+
+қолөнер craft 工艺
+
+қонақ guest 客人
+
+қонақ үй hotel 旅馆
+
+қону touchdown,landing 着陆，着陆
+
+қоныстану settle 解决
+
+қор fund 基金
+
+қорап box 箱
+
+қоректік nutrient 养分
+
+қорлау offense 罪行
+
+қоршау surround,fence 环绕，围栏
+
+қоршаған орта environment,surrounding 环境，周边
+
+қорытынды conclusion,conclude,withdrawal 结论，结束，撤回
+
+қорғаныс protective,defensive 保护，防御
+
+қорғау defense,protect,protection,defend 防御，保护，保护，防御
+
+қорғаушы defender,quarterback 后卫，四分卫
+
+қорқады scared 害怕
+
+қорқыныш fear 恐惧
+
+қорқынышты horrible,terrible,afraid,scary,terribly,awful 可怕，可怕，害怕，可怕，可怕，可怕
+
+қорқыту harassment,threaten,scare 骚扰、威胁、恐吓
+
+қосалқы spare 备用
+
+қосарланған double 双
+
+қоспасы mixture,mix,blend 混合，混合，混合
+
+қосу include,comprise,add,enable 包括，包含，添加，启用
+
+қосылды added 添加
+
+қосылу join,connect 加入，连接
+
+қосымша addition,application,additional,extra 添加，应用，附加，额外
+
+қосқыш switch 开关
+
+қош келдіңіз welcome 欢迎
+
+қою lay,put 躺，放
+
+қоян rabbit 兔
+
+қоғам society 社会
+
+қоғамдастық community 社区
+
+қоғамдық social,public 社会，公共
+
+қоқыс trash,garbage 垃圾，垃圾
+
+қоңыз bug 错误
+
+қоңыр brown 棕色
+
+қоңырау bell 钟
+
+қуаныш delight,joy 喜悦，喜悦
+
+қуанышты excited,worried,glad 兴奋，担心，高兴
+
+қуатты powerful 强
+
+қудалау pursuit,prosecution 追捕，起诉
+
+қулық trick 把戏
+
+қуу pursue,chase 追逐，追逐
+
+қуыршақ doll 娃娃
+
+қыз girlfriend,girl 女朋友，女孩
+
+қызанақ tomato 番茄
+
+қызба fever 发烧
+
+қызмет ету serving,portion 份量，份量
+
+қызмет көрсету service,maintenance,serve 服务，维护，服务
+
+қызметкер employee,worker 员工，工人
+
+қызметкерлер personnel,staff 人员，员工
+
+қызметші clerk,servant 文员，仆人
+
+қызметі activity 活动
+
+қызы daughter 女儿
+
+қызыл red 红
+
+қызығушылық curiosity,interest 好奇心，兴趣
+
+қызық curious 好奇
+
+қызықты exciting,interesting 令人兴奋，有趣
+
+қызғылт pink 粉红色
+
+қызғылт сары orange 橙
+
+қылмыс crime 犯罪
+
+қылмыстық criminal 刑事
+
+қылыш sword 剑
+
+қымбат precious,costly 珍贵，昂贵
+
+қырық forty 四十
+
+қыс winter 冬
+
+қысу squeeze 挤
+
+қысым pressure 压力
+
+қысқа short,brief 简短，简短
+
+қысқа мерзімді short-term 短期
+
+қысқарту shrink,reduction 收缩，减少
+
+қысқаша briefly,shortly 简短，不久
+
+қысқыш clip 夹
+
+қышқыл acid 酸
+
+құбыжық monster 怪物
+
+құбылыс phenomenon 现象
+
+құбыр pipe 管
+
+құжат document 公文
+
+құйрық tail 尾巴
+
+құл slave 奴隶
+
+құлау fall,collapse 跌倒，崩溃
+
+құлақ ear 耳朵
+
+құлдырау recession 衰退
+
+құлдық slavery 奴隶制
+
+құлып lock 锁
+
+құлықсыз reluctant 不情愿
+
+құм sand 沙
+
+құмарлық passion 热情
+
+құмыра jar,pitcher 罐子，水壶
+
+құнды valuable 宝贵
+
+құндылық value 价值
+
+құны cost 成本
+
+құпия mystery,secret 神秘，秘密
+
+құпиялылық privacy 隐私
+
+құрал instrument,tool 仪器，工具
+
+құрамында contain 包含
+
+құрастыру makeup,compose,constitute 化妆，作曲，构成
+
+құрлық continent 大陆
+
+құрмет respect,regard,honor 尊重、尊重、荣誉
+
+құрметті dear,expensive 亲爱的，昂贵的
+
+құру creation 创造
+
+құрылымдық structural 结构的
+
+құрылымы structure 结构
+
+құрылыс construction 建设
+
+құрылысшы builder 建筑工人
+
+құрылғы device 装置
+
+құрғақ dry 干
+
+құс bird 鸟
+
+құсу tear 撕
+
+құтылу rid 摆脱
+
+құтқару rescue 救
+
+құшақтау embrace,hug 拥抱，拥抱
+
+құю pour 倒
+
+құқық eligible,right 符合资格，权利
+
+құқық беру entitle 标题
+
+құқық бұзушы offender 罪犯
+
+Үнді Indian 印度
+
+үздік best 最好
+
+үздіксіз steadily,continuous 稳定，持续
+
+үзіліс interrupt,break 中断，中断
+
+үй home,house 家，房子
+
+үй жануарлары pet 宠物
+
+үй тапсырмасы homework 作业
+
+үй шаруашылығы household 家庭
+
+үйлену marry 嫁
+
+үйлену тойы wedding 婚礼
+
+үйлестіру coordinate 坐标
+
+үйлестіруші coordinator 协调者
+
+үйлесімділік harmony 和谐
+
+үйрек duck 鸭
+
+үйрету learn,teach 学习，教
+
+үйсіз homeless 无家可归
+
+үйінді bunch,pile 束，堆
+
+үкім verdict,judgment 判决，判决
+
+үкімет government 政府
+
+үлгі model,sample,pattern 模型，样品，图案
+
+үлес қосу foster,contribute,promote 培养、贡献、提升
+
+үлесі stake 桩
+
+үлкен big,large,tremendous,huge,enormous 大，大，巨大，巨大，巨大
+
+үлкен бөлігі bulk 散装
+
+үміт hope 希望
+
+үмітпен hopefully 希望
+
+үмітсіз desperately,desperate 绝望，绝望
+
+үмітті encouraging 鼓励
+
+үнемдеу saving 储蓄
+
+үнемі regularly 定期
+
+үрлеу blow 吹
+
+үстел table 桌子
+
+үстемдік ету dominate 主宰
+
+үш three 三
+
+үштен бірі one-third 三分之一
+
+үштен екісі two-thirds 三分之二
+
+үшін for,beyond 为，超越
+
+үшінші third 第三
+
+үңгір cave 洞穴
+
+ұзақ long 长
+
+ұзақ мерзімді long-term 长期的
+
+ұзақ уақыт longtime 长期
+
+ұзындығы stretch,length 拉伸，长度
+
+ұйымдастыру organize,organization,arrange 组织，组织，安排
+
+ұйымдастырушылық organizational 组织
+
+ұйымдастырылған organized 组织
+
+ұйықтау sleep 睡
+
+ұйықтаушы asleep 睡著的
+
+ұлт nation 国家
+
+ұлттық national 全国性
+
+ұлы grand,son 孙子
+
+ұлғайту increase 增加
+
+ұмыту forget 忘记
+
+ұн flour 面粉
+
+ұнтақ powder 粉
+
+ұрлау steal 偷
+
+ұрпақ generation 代
+
+ұру slap,beat 拍打，拍打
+
+ұсақтау crush 粉碎
+
+ұстану follow,stick 跟随，坚持
+
+ұстау keep,retain,hold,seize,catch 保持，保留，持有，抓住，抓住，抓住
+
+ұсыну recommend,suggest,represent,performance,submit,propose,representation 推荐，建议，代表，执行，提交，提议，代表
+
+ұсынылған provided,proposed 提供，建议
+
+ұсыныс suggestion,offering,offer,recommendation,proposal,sentence 建议，提供，要约，推荐，提案，句子
+
+ұсқынсыз ugly 丑
+
+ұтымды rational 合理的
+
+ұшатын flying 飞行
+
+ұшақ plane,jet,airplane 飞机，喷气式飞机，飞机
+
+ұшу fly,flight 飞行，飞行
+
+ұшқын spark 火花
+
+ұшқыш pilot 飞行员
+
+ұя nest 巢
+
+ұялшақ shy 害羞
+
+ұялы mobile 移动
+
+ұялған embarrassed 尴尬
+
+ұят confuse,shame 困惑，羞愧
+
+ұяшық cell 细胞
+
+ұғымы notion 概念
+
+ұқсас alike,resemble,similar 相似，相似，相似
+
+ұқсастық similarity 相似
+
+ұқыпты neat 整洁
+
+Әулие holy 神圣
+
+әдеби literary 文学
+
+әдебиет literature 文献
+
+әдейі deliberately 故意
+
+әдемі beautiful,handsome,wonderful,pretty,lovely 美丽，英俊，精彩，漂亮，可爱
+
+әдептілік manner 方式
+
+әдет habit 习惯
+
+әдетте normally,usually,generally,routinely,commonly 通常，通常，一般，常规，通常
+
+әділ fair 公平
+
+әділдік justice,equity 公正、公平
+
+әділетсіз unfair 不公
+
+әдіс method 方法
+
+әже grandmother 奶奶
+
+әзіл humor,joke 幽默，笑话
+
+әзірге while,yet,till 虽然，然而，直到
+
+әзірлеу elaborate 精巧
+
+әзірлеуші developer 开发 人员
+
+әйел female,woman 女，女
+
+әйелі wife 老婆
+
+әке dad 爸爸
+
+әкелу bring 带
+
+әкесі father 爸爸
+
+әкім mayor 市长
+
+әкімші administrator 管理员
+
+әкімшілік administration,administrative 行政，行政
+
+әл-ауқат welfare,well-being 福利，幸福
+
+әлбетте obviously 明显地
+
+әлем world,peace 世界，和平
+
+әлеуеті potential 潜在
+
+әлеуметтік socially 社会
+
+әлсіз weaken,weak,faint 虚弱，虚弱，昏厥
+
+әлсіздік weakness 弱点
+
+әлі де still 还
+
+әмбебап universal 普遍
+
+әмиян purse 钱包
+
+ән song 歌
+
+ән айту sing 唱
+
+әнші singer 歌手
+
+әпке sister 姐姐
+
+әр түрлі vary,various,differ,different,diverse 变化，各种，不同，不同，多样化
+
+әрекет action,attempt,act 行动，尝试，行动
+
+әрең hardly,barely 几乎没有，勉强
+
+әрине sure,naturally,certainly,surely 当然，自然，当然，肯定
+
+әртүрлілік diversity,variety 多样性，多样性
+
+әріптес colleague 同事
+
+әрқайсысы every,everyone,each 每个人，每个人，每个人
+
+әрқашан ever,always 永远，永远
+
+әсер impression,impress 印象深刻，印象深刻
+
+әсер ету exposure,affect 暴露，影响
+
+әсерлі spectacular,impressive 壮观，令人印象深刻
+
+әсері impact,effect,influence 影响，效果，影响
+
+әскери military 军事
+
+әсіресе especially 特别是
+
+әткеншек swing 摆动
+
+әуе кемесі aircraft 飞机
+
+әуе компаниясы airline 航空公司
+
+әуе шары balloon 气球
+
+әуежай airport 飞机场
+
+әуен tune 调整
+
+әшкерелеу expose 暴露
+
+әңгіме conversation 谈话
+
+өзара mutual 互
+
+өзара байланыс correlation 相关
+
+өзара әрекеттесу interaction,interact 交互，交互
+
+өзгеретін changing 改变
+
+өзгерту alter,variation,change,modify 更改，更改，更改，修改
+
+өздері themselves,ourselves 自己，我们自己
+
+өзек rod 杆
+
+өзен river 河
+
+өзі itself,herself,self 自己，她自己，自我
+
+өзін-өзі myself,himself,yourself 我自己，他自己，你自己
+
+өзін-өзі бағалау self-esteem 自尊
+
+өзін-өзі ұстау behave 做人
+
+өзіңізге мүмкіндік беріңіз afford 提供
+
+өкпе lung 肺
+
+өкше heel 脚跟
+
+өкілі spokesman,representative 发言人，代表
+
+өкініш regret 后悔
+
+өкінішке орай unfortunately 不幸
+
+өлең poem 诗
+
+өлтіру kill 杀
+
+өлтіруші killer 杀手
+
+өлу die 死
+
+өлшем бірлігі unit 单位
+
+өлшемі size 大小
+
+өлшеу dimension,measurement 尺寸，测量
+
+өлі dead 死
+
+өлім death,mortality 死亡，死亡率
+
+өлімге әкелетін deadly 致命
+
+өліп бара жатқан dying 垂死
+
+өмір life 生命
+
+өмір салты lifestyle 生活方式
+
+өмір сүру live 住
+
+өмір сүру ұзақтығы lifetime 辈子
+
+өмірбаяны biography 传记
+
+өмірлік маңызды vital 重要
+
+өндіру produce 生产
+
+өндіруші producer,maker,manufacturer 生产商，制造商，制造商
+
+өндіріс manufacturing,production 制造，生产
+
+өнер art 艺术
+
+өнеркәсіп industry 工业
+
+өнеркәсіптік industrial 工业
+
+өнертабыс invention 发明
+
+өнім product 产品
+
+өнімді productive 生产的
+
+өнімділік productivity 生产力
+
+өркендеу thrive 茁壮成长
+
+өркениет civilization 文明
+
+өрмелеу scramble,climb 争抢，攀登
+
+өрнек expression 表达
+
+өршіл ambitious 有雄心
+
+өріс field 田
+
+өсті increased 增加
+
+өсу increasing,grow,growth 增加，增长，增长
+
+өсімдік plant 植物
+
+өсіп келе жатқан growing 增长
+
+өте very,quite,fairly,extremely 非常，相当，公平，非常
+
+өтемақы compensation 补偿
+
+өткен past 过去
+
+өткізу conduct 进行
+
+өткізіп жіберу skip 跳
+
+өткір sharp 锋利
+
+өту passage,aisle,undergo,pass,passing 通道，过道，下行，通过，通过
+
+өтінемін please 请
+
+өтінім bid 出价
+
+өтініш appeal,statement,plea 上诉，声明，抗辩
+
+өтірік lie 躺
+
+өңдеу edit,govern,processing 编辑，治理，处理
