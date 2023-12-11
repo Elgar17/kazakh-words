@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const inputText = fs.readFileSync('./basic-3000.txt', 'utf-8');
 
-const regex = /([а-яәіңғүұқөһӘІҢҒҮҰҚӨҺa-zA-Z ]+)\s+([a-zA-Z,]+)\s+([\u4e00-\u9fa5，]+)/g;
+const regex = /([\u0400-\u04FF ]+)\s+([a-zA-Z,]+)\s+([\u4e00-\u9fa5，]+)/g;
 
 const matches = inputText.matchAll(regex);
 
