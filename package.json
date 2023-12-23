@@ -1,0 +1,18 @@
+{
+  "name": "kazakh-words",
+  "version": "1.0.0",
+  "description": "Basic 3000 words in Kazakh language.",
+  "main": "word-to-json.js",
+  "type": "module",
+  "scripts": {
+    "text2json": "node ./word-to-json.js",
+    "c2a": "node ./cyrillic-to-arabic.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapin-utils": "^3.2.0"
+  }
+}

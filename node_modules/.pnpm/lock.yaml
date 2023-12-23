@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  hapin-utils:
+    specifier: ^3.2.0
+    version: 3.2.0
+
+packages:
+
+  /hapin-utils@3.2.0:
+    resolution: {integrity: sha512-hbiEKHch4GGgIJoGrU5wtRamTN9omK8IKEE7cMJa62dVG7dAYvdI39oUhhE/28evtcOWir+M0hyT+QJbGcdGhA==}
+    dev: false
